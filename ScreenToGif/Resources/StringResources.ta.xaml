@@ -256,7 +256,8 @@
     <s:String x:Key="S.Options.App.General.CheckForTranslationUpdates">மொழிபெயர்ப்பு புதுப்பிப்புகளைச் சரிபார்க்கவும்.</s:String>
     <s:String x:Key="S.Options.App.General.CheckForTranslationUpdates.Info">(புதுப்பிக்கப்பட்ட மொழிபெயர்ப்புகள் தானாகவே பதிவிறக்கம் செய்யப்பட்டு நிறுவப்படும்)</s:String>
     <s:String x:Key="S.Options.App.General.CheckForUpdates">தொடக்கத்தில் புதுப்பிப்புகளைச் சரிபார்க்கவும்.</s:String>
-    <s:String x:Key="S.Options.App.General.UpdateOnClose">ஆப்ஸை மூடிய பிறகு தானாகவே புதுப்பிப்புகளை நிறுவவும்.</s:String><s:String x:Key="S.Options.App.General.PortableUpdate">போர்ட்டபிள் பதிப்பின் பதிவிறக்கத்தை கட்டாயப்படுத்தவும்.</s:String>
+    <s:String x:Key="S.Options.App.General.UpdateOnClose">ஆப்ஸை மூடிய பிறகு தானாகவே புதுப்பிப்புகளை நிறுவவும்.</s:String>
+	<s:String x:Key="S.Options.App.General.PortableUpdate">போர்ட்டபிள் பதிப்பின் பதிவிறக்கத்தை கட்டாயப்படுத்தவும்.</s:String>
     <s:String x:Key="S.Options.App.General.PortableUpdate.Info">(செயல்படுத்தக்கூடியதை அன்சிப் செய்து மாற்றுவதன் மூலம் கைமுறையாக நிறுவுதல் தேவை)</s:String>
     <s:String x:Key="S.Options.App.General.ForceUpdateAsAdmin">உயர்ந்த சிறப்புரிமைகளுடன் புதுப்பிப்பை இயக்க கட்டாயப்படுத்தவும்.</s:String>
     <s:String x:Key="S.Options.App.General.PromptToInstall">நிறுவல் தொடங்கும் முன் என்னிடம் கேட்கவும்.</s:String>
@@ -383,6 +384,7 @@
     <s:String x:Key="S.Options.Editor.General.SyncPath.Filename.Info">(முன்னமைவுகளும் அதே கோப்புப் பெயரைப் பயன்படுத்தும்)</s:String>
     <s:String x:Key="S.Options.Editor.General.SyncPath.SameType">ஒரே கோப்பு வகையின் முன்னமைவுகளில் மட்டும் ஒத்திசைக்கவும்.</s:String>
     <s:String x:Key="S.Options.Editor.General.SyncPath.SameType.Info">(ஒரே கோப்பு வகையின் முன்னமைவுகள் மட்டுமே ஒத்திசைவில் இருக்கும்)</s:String>    
+
     <!--Options • Tasks-->
     <!--<s:String x:Key="S.Options.Tasks.Title">Automated Task</s:String>-->
     <!--<s:String x:Key="S.Options.Tasks.List">List of automated tasks</s:String>-->
