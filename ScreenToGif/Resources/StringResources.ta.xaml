@@ -10,16 +10,16 @@
     <!--General-->
     <s:String x:Key="S.Ok">சரி</s:String>
     <s:String x:Key="S.Back">பின்</s:String>
-    <s:String x:Key="S.Cancel">ரத்துசெய்</s:String>
+    <s:String x:Key="S.Cancel">கைவிடு</s:String>
     <s:String x:Key="S.Yes">ஆம்</s:String>
     <s:String x:Key="S.No">இல்லை</s:String>
     <s:String x:Key="S.Add">சேர்</s:String>
     <s:String x:Key="S.Edit">திருத்து</s:String>
-    <s:String x:Key="S.Id">ஐடி</s:String>
+    <s:String x:Key="S.Id">அடையாளம்</s:String>
     <s:String x:Key="S.Title">தலைப்பு</s:String>
     <s:String x:Key="S.Description">விளக்கம்</s:String>
-    <s:String x:Key="S.SelectColor">வண்ணத்தைத் தேர்ந்தெடுக்க இங்கே கிளிக் செய்யவும்.</s:String>
-    <s:String x:Key="S.Documentation">ஆவணத்திற்கு செல்ல கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.SelectColor">வண்ணத்தைத் தேர்ந்தெடுக்க இங்கே சொடுக்கவும்.</s:String>
+    <s:String x:Key="S.Documentation">ஆவணத்திற்கு செல்ல சொடுக்கவும்.</s:String>
     <s:String x:Key="S.Suppress">அடக்கு</s:String>
     <s:String x:Key="S.Preview">முன்னோட்டம்</s:String>
     <s:String x:Key="S.Size">அளவு</s:String>
@@ -30,57 +30,57 @@
     <s:String x:Key="S.ValueMs">மதிப்பு -+:</s:String>
     <s:String x:Key="S.ScaleValue">அளவிலான மதிப்பு:</s:String>
     <s:String x:Key="S.Margin">விளிம்பு:</s:String>
-    <s:String x:Key="S.Padding">பேடிங்:</s:String>
+    <s:String x:Key="S.Padding">திணிப்பு:</s:String>
     <s:String x:Key="S.MinHeight">குறைந்தபட்ச உயரம்:</s:String>
     <s:String x:Key="S.AndOr">மற்றும்/அல்லது</s:String>
     
     <!--Warnings-->
-    <s:String x:Key="S.Crash">அடடா, ஆப்ஸ் செயலிழந்தது :(</s:String>
+    <s:String x:Key="S.Crash">அடடா, பயன்பாடு செயலிழந்தது :(</s:String>
     <s:String x:Key="S.Required">தேவையான புலம்</s:String>
     <s:String x:Key="S.Warning.Net.Title">காணாமல் போன சார்பு</s:String>
-    <s:String x:Key="S.Warning.Net.Header">Net Framework 4.8 இல்லை</s:String>
-    <s:String x:Key="S.Warning.Net.Message">இந்தப் பயன்பாட்டைச் சரியாகப் பயன்படுத்த, .Net Framework இன் சரியான பதிப்பைப் பதிவிறக்க வேண்டும்.&amp;#10;இதைத் திறக்க விரும்புகிறீர்களா இணையப் பக்கத்தைப் பதிவிறக்க வேண்டுமா?</s:String>
+    <s:String x:Key="S.Warning.Net.Header">.பிணை கட்டமைப்பு 4.8 இல்லை</s:String>
+    <s:String x:Key="S.Warning.Net.Message">இந்தப் பயன்பாட்டைச் சரியாகப் பயன்படுத்த, .பிணை கட்டமைப்பு இன் சரியான பதிப்பைப் பதிவிறக்க வேண்டும்.&#10;இதைத் திறக்க விரும்புகிறீர்களா இணையப் பக்கத்தைப் பதிவிறக்க வேண்டுமா?</s:String>
     <s:String x:Key="S.Warning.Single.Title">ஒரே ஒரு நிகழ்வு மட்டுமே அனுமதிக்கப்படுகிறது</s:String>
     <s:String x:Key="S.Warning.Single.Header">பயன்பாடு ஏற்கனவே இயங்குகிறது</s:String>
-    <s:String x:Key="S.Warning.Single.Message">ScreenToGif ஏற்கனவே இயங்குகிறது, ஆனால் வெளிப்படையாக எந்த சாளரமும் திறக்கப்படவில்லை. சிஸ்டம் ட்ரேயைச் சரிபார்க்கவும், ScreenToGif ஐகான் இருக்க வேண்டும்.</s:String>
+    <s:String x:Key="S.Warning.Single.Message">திரைபிடிபடம் ஏற்கனவே இயங்குகிறது, ஆனால் வெளிப்படையாக எந்த சாளரமும் திறக்கப்படவில்லை. கணினி ட்ரேயைச் சரிபார்க்கவும், திரைபிடிபடம் சிறியபடம் இருக்க வேண்டும்.</s:String>
     
     <s:String x:Key="S.SavingSettings.Title">அமைப்புகளைச் சேமிக்கிறது</s:String>
     <s:String x:Key="S.SavingSettings.Instruction">இதை மீண்டும் சேமிக்க முயற்சிக்க விரும்புகிறீர்களா?</s:String>
-    <s:String x:Key="S.SavingSettings.Message">அமைப்புகளை வட்டில் சேமிக்க ScreenToGif க்கு போதுமான சலுகைகள் இல்லை என்பது போல் தெரிகிறது.&amp;#10;&amp;#10;மீண்டும் முயற்சிக்க விரும்புகிறீர்களா, ஆனால் இந்த முறை நிர்வாக உரிமைகளைப் பயன்படுத்துகிறீர்களா?</s:String>
+    <s:String x:Key="S.SavingSettings.Message">அமைப்புகளை வட்டில் சேமிக்க திரைபிடிபடம் க்கு போதுமான சலுகைகள் இல்லை என்பது போல் தெரிகிறது.&#10;&#10;மீண்டும் முயற்சிக்க விரும்புகிறீர்களா, ஆனால் இந்த முறை நிர்வாக உரிமைகளைப் பயன்படுத்துகிறீர்களா?</s:String>
     
-    <s:String x:Key="S.Exiting.Title">ScreenToGifலிருந்து வெளியேறுகிறது</s:String>
+    <s:String x:Key="S.Exiting.Title">திரைபிடிபடத்திலிருந்து வெளியேறுகிறது</s:String>
     <s:String x:Key="S.Exiting.Instruction">நீங்கள் நிச்சயமாக வெளியேற விரும்புகிறீர்களா?</s:String>
-    <s:String x:Key="S.Exiting.Message">எல்லா சாளரங்களும் மூடப்பட்டு, தட்டு ஐகான் அகற்றப்படும்.</s:String>
+    <s:String x:Key="S.Exiting.Message">எல்லா சாளரங்களும் மூடப்பட்டு, தட்டு சிறியபடம் அகற்றப்படும்.</s:String>
 
     <!--Warnings • Graphics engine-->
     <s:String x:Key="S.Warning.Graphics.Title">கிராபிக்ஸ் அடாப்டரை மாற்றவும்</s:String>
     <s:String x:Key="S.Warning.Graphics.Instruction">தேர்ந்தெடுக்கப்பட்ட திரையைப் பிடிக்க சரியான கிராபிக்ஸ் அடாப்டருக்கு மாறவும்</s:String>
-    <s:String x:Key="S.Warning.Graphics.Message">DirectX இல் உள்ள வரம்பு காரணமாக, ScreenToGif ஆனது திரை பிடிக்கப்படும் அதே கிராபிக்ஸ் அடாப்டரில் இயங்க வேண்டும்.</s:String>
-    <s:String x:Key="S.Warning.Graphics.Action">Windows Settings > System > Display > Graphics Settings அல்லது கீழே உள்ள இணைப்பைக் கிளிக் செய்வதன் மூலம் ScreenToGifக்கான கிராபிக்ஸ் அடாப்டரை மாற்றவும்.</s:String >
-    <s:String x:Key="S.Warning.Graphics.Action.Legacy">உங்கள் கிராபிக்ஸ் அடாப்டரின் கிராபிக்ஸ் அமைப்புகளைத் திறப்பதன் மூலம் ScreenToGifக்கான கிராபிக்ஸ் அடாப்டரை மாற்றவும்.</s:String>
+    <s:String x:Key="S.Warning.Graphics.Message">DirectX இல் உள்ள வரம்பு காரணமாக, திரைபிடிபடம் ஆனது திரை பிடிக்கப்படும் அதே கிராபிக்ஸ் அடாப்டரில் இயங்க வேண்டும்.</s:String>
+    <s:String x:Key="S.Warning.Graphics.Action">Windows Settings > System > Display > Graphics Settings அல்லது கீழே உள்ள இணைப்பைக் சொடுக்குவதன் மூலம் திரைபிடிபடத்திற்கான கிராபிக்ஸ் அடாப்டரை மாற்றவும்.</s:String>
+    <s:String x:Key="S.Warning.Graphics.Action.Legacy">உங்கள் கிராபிக்ஸ் அடாப்டரின் கிராபிக்ஸ் அமைப்புகளைத் திறப்பதன் மூலம் திரைபிடிபடத்திற்கான கிராபிக்ஸ் அடாப்டரை மாற்றவும்.</s:String>
     <s:String x:Key="S.Warning.Graphics.Switch">Windows அமைப்புகளைத் திற</s:String>
     
-    <!--விசைகள்-->
+    <!--Keys-->
     <s:String x:Key="S.Keys.Enter">Enter</s:String>
     <s:String x:Key="S.Keys.Esc">Esc</s:String>
     <s:String x:Key="S.Keys.Space">ஸ்பேஸ்</s:String>
+
+    <!--Mouse-->
+    <s:String x:Key="S.Mouse.Right">வலது சொடுக்கம்</s:String>
     
-    <!--சுட்டி-->
-    <s:String x:Key="S.Mouse.Right">வலது கிளிக்</s:String>
-    
-    <!--தட்டு ஐகான்-->
+    <!--Tray icon-->
     <s:String x:Key="S.NewRecording">புதிய திரை பதிவு</s:String>
-    <s:String x:Key="S.NewWebcamRecording">புதிய வெப்கேம் பதிவு</s:String>
+    <s:String x:Key="S.NewWebcamRecording">புதிய வலைஒளி பதிவு</s:String>
     <s:String x:Key="S.NewBoardRecording">புதிய பலகை பதிவு</s:String>
     <s:String x:Key="S.Exit">வெளியேறு</s:String>
     
-    <!--கட்டளைகள்-->
+    <!--Commands-->
     <s:String x:Key="S.Command.NewRecording">புதிய திரை பதிவு</s:String>
-    <s:String x:Key="S.Command.NewWebcamRecording">புதிய வெப்கேம் பதிவு</s:String>
+    <s:String x:Key="S.Command.NewWebcamRecording">புதிய வலைஒளி பதிவு</s:String>
     <s:String x:Key="S.Command.NewBoardRecording">புதிய பலகை பதிவு</s:String>
     <s:String x:Key="S.Command.NewAnimation">புதிய அனிமேஷன்</s:String>
     <s:String x:Key="S.Command.InsertRecording">திரை பதிவைச் செருகவும்</s:String>
-    <s:String x:Key="S.Command.InsertWebcamRecording">வெப்கேம் பதிவைச் செருகவும்</s:String>
+    <s:String x:Key="S.Command.InsertWebcamRecording">வலைஒளி பதிவைச் செருகவும்</s:String>
     <s:String x:Key="S.Command.InsertBoardRecording">பலகை பதிவைச் செருகவும்</s:String>
     <s:String x:Key="S.Command.InsertFromMedia">மீடியாவிலிருந்து செருகவும் (படங்கள் மற்றும் வீடியோக்கள்)</s:String>
     <s:String x:Key="S.Command.SaveAs">இவ்வாறு சேமி...</s:String>
@@ -147,31 +147,31 @@
     <s:String x:Key="S.Command.ViewHistory">வரலாற்றைக் காண்க</s:String>
     
     <!--StartUp-->
-    <s:String x:Key="S.StartUp.Title">ScreenToGif - StartUp</s:String>
-    <s:String x:Key="S.StartUp.Recorder">ரெக்கார்டர்</s:String>
-    <s:String x:Key="S.StartUp.Recorder.Tooltip">ஸ்கிரீன் ரெக்கார்டரைத் திறக்கும்,&amp;#10;உங்கள் திரையை எளிதாகப் பதிவுசெய்யத் தொடங்கலாம்.</s:String>
-    <s:String x:Key="S.StartUp.Webcam">வெப்கேம்</s:String>
-    <s:String x:Key="S.StartUp.Webcam.Tooltip">வெப்கேம் ரெக்கார்டரைத் திறக்கிறது.</s:String>
+    <s:String x:Key="S.StartUp.Title">திரைபிடிபடம் - StartUp</s:String>
+    <s:String x:Key="S.StartUp.Recorder">பதிப்பாளர்</s:String>
+    <s:String x:Key="S.StartUp.Recorder.Tooltip">திரை ரெக்கார்டரைத் திறக்கும்,&#10;உங்கள் திரையை எளிதாகப் பதிவுசெய்யத் தொடங்கலாம்.</s:String>
+    <s:String x:Key="S.StartUp.Webcam">வலைஒளி</s:String>
+    <s:String x:Key="S.StartUp.Webcam.Tooltip">வலைஒளி ரெக்கார்டரைத் திறக்கிறது.</s:String>
     <s:String x:Key="S.StartUp.Board">பலகை</s:String>
-    <s:String x:Key="S.StartUp.Board.Tooltip">போர்டு ரெக்கார்டரைத் திறக்கும்,&amp;#10;உங்கள் வரைபடங்களைப் பதிவுசெய்யத் தொடங்கலாம்.</s:String>
-    <s:String x:Key="S.StartUp.Editor">எடிட்டர்</s:String>
-    <s:String x:Key="S.StartUp.Editor.Tooltip">எடிட்டர் சாளரத்தைத் திறக்கும், இந்தப் பயன்பாட்டின் மையப் புள்ளி,&amp;#10;அங்கு நீங்கள் புதிய பதிவைத் தொடங்கலாம் மற்றும் திருத்தலாம்.</s:String >
+    <s:String x:Key="S.StartUp.Board.Tooltip">பலகை ரெக்கார்டரைத் திறக்கும்,&#10;உங்கள் வரைபடங்களைப் பதிவுசெய்யத் தொடங்கலாம்.</s:String>
+    <s:String x:Key="S.StartUp.Editor">திருத்தி</s:String>
+    <s:String x:Key="S.StartUp.Editor.Tooltip">திருத்தி சாளரத்தைத் திறக்கும், இந்தப் பயன்பாட்டின் மையப் புள்ளி,&#10;அங்கு நீங்கள் புதிய பதிவைத் தொடங்கலாம் மற்றும் திருத்தலாம்.</s:String>
     <s:String x:Key="S.StartUp.Options">விருப்பங்கள்</s:String>
     <s:String x:Key="S.StartUp.NewRelease">புதிய பதிப்பு உள்ளது</s:String>
-    <s:String x:Key="S.StartUp.NewRelease.Tooltip">ScreenToGif இன் சமீபத்திய பதிப்பைப் பதிவிறக்குகிறது.</s:String>
-    
-    <!--அப்டேட்டர்-->
-    <s:String x:Key="S.Updater.Title">ScreenToGif - புதுப்பிப்பு</s:String>
+    <s:String x:Key="S.StartUp.NewRelease.Tooltip">திரைபிடிபடத்தின் சமீபத்திய பதிப்பைப் பதிவிறக்குகிறது.</s:String>
+
+    <!--Updater-->
+    <s:String x:Key="S.Updater.Title">திரைபிடிபடம் - புதுப்பிப்பு</s:String>
     <s:String x:Key="S.Updater.Header">புதிய புதுப்பிப்பு உள்ளது</s:String>
     <s:String x:Key="S.Updater.NewRelease">புதிய வெளியீடு!</s:String>
-    <s:String x:Key="S.Updater.NewRelease.Info">புதிய வெளியீடு உள்ளது, பதிப்பு {0}!&amp;#x0d;மேலும் விவரங்களுக்கு இங்கே கிளிக் செய்யவும்.</s:String>
-    <s:String x:Key="S.Updater.NoNewRelease.Info">உங்கள் சிஸ்டம் இனி ஆதரிக்கப்படவில்லை அல்லது புதுப்பிப்பு அமைப்பில் ஏதேனும் மாற்றம் ஏற்பட்டுள்ளதாகத் தெரிகிறது. இணையதளத்தில் இருந்து கைமுறையாக பதிவிறக்கம் செய்து பாருங்கள்.</s:String>
+    <s:String x:Key="S.Updater.NewRelease.Info">புதிய வெளியீடு உள்ளது, பதிப்பு {0}!&#x0d;மேலும் விவரங்களுக்கு இங்கே சொடுக்கவும்.</s:String>
+    <s:String x:Key="S.Updater.NoNewRelease.Info">உங்கள் கணினி இனி ஆதரிக்கப்படவில்லை அல்லது புதுப்பிப்பு அமைப்பில் ஏதேனும் மாற்றம் ஏற்பட்டுள்ளதாகத் தெரிகிறது. இணையதளத்தில் இருந்து கைமுறையாக பதிவிறக்கம் செய்து பாருங்கள்.</s:String>
     <s:String x:Key="S.Updater.Version">பதிப்பு</s:String>
     <s:String x:Key="S.Updater.Portable">போர்ட்டபிள்</s:String>
     <s:String x:Key="S.Updater.Installer">நிறுவி</s:String>
     <s:String x:Key="S.Updater.Info.WhatsNew">புதிதாக என்ன இருக்கிறது?</s:String>
     <s:String x:Key="S.Updater.Info.BugFixes">பிழை திருத்தங்கள்:</s:String>
-    <s:String x:Key="S.Updater.Info.NewVersionAvailable">நீங்கள் பதிவிறக்குவதற்கு ஒரு புதிய பதிப்பு உள்ளது.&amp;#x0d;அதைப் பதிவிறக்க உலாவியைத் திறக்க விரும்புகிறீர்களா?</s:String>
+    <s:String x:Key="S.Updater.Info.NewVersionAvailable">நீங்கள் பதிவிறக்குவதற்கு ஒரு புதிய பதிப்பு உள்ளது.&#x0d;அதைப் பதிவிறக்க உலாவியைத் திறக்க விரும்புகிறீர்களா?</s:String>
     <s:String x:Key="S.Updater.RunAfter">புதுப்பித்தலுக்குப் பிறகு பயன்பாட்டை இயக்கவும்.</s:String>
     <s:String x:Key="S.Updater.Download">பதிவிறக்கு</s:String>
     <s:String x:Key="S.Updater.Install">நிறுவு</s:String>
@@ -181,16 +181,16 @@
     <s:String x:Key="S.Updater.Warning.Download">புதுப்பிப்பைப் பதிவிறக்க முடியவில்லை.</s:String>
     <s:String x:Key="S.Updater.Warning.Encoding">புதுப்பிக்கும் முன் அனைத்து குறியாக்கங்களும் முடிவடையும் வரை நீங்கள் காத்திருக்க வேண்டும்.</s:String>
     
-    <!--பதிவிறக்கி-->
-    <s:String x:Key="S.Downloader.Title">ScreenToGif - டவுன்லோடர்</s:String>
+    <!--Downloader-->
+    <s:String x:Key="S.Downloader.Title">திரைபிடிபடம் - டவுன்லோடர்</s:String>
     <s:String x:Key="S.Downloader.Header">பதிவிறக்கி</s:String>
     <s:String x:Key="S.Downloader.Size">{0} / {1}</s:String>
     
-    <!--விருப்பங்கள்-->
-    <s:String x:Key="S.Options.Title">ScreenToGif - விருப்பங்கள்</s:String>
+    <!--Options-->
+    <s:String x:Key="S.Options.Title">திரைபிடிபடம் - விருப்பங்கள்</s:String>
     <s:String x:Key="S.Options.App">பயன்பாடு</s:String>
-    <s:String x:Key="S.Options.Recorder">ரெக்கார்டர்</s:String>
-    <s:String x:Key="S.Options.Editor">எடிட்டர்</s:String>
+    <s:String x:Key="S.Options.Recorder">பதிப்பாளர்</s:String>
+    <s:String x:Key="S.Options.Editor">திருத்தி</s:String>
     <s:String x:Key="S.Options.Tasks">பணிகள்</s:String>
     <s:String x:Key="S.Options.Shortcuts">குறுக்குவழிகள்</s:String>
     <s:String x:Key="S.Options.Language">மொழி</s:String>
@@ -202,39 +202,39 @@
     <s:String x:Key="S.Options.Other">மற்றவை</s:String>
     <s:String x:Key="S.Options.Warning.Follow.Header">பின்வரும் கர்சருக்கான குறுக்குவழி விசை காணவில்லை</s:String>
     <s:String x:Key="S.Options.Warning.Follow.Message">மவுஸ் கர்சரைப் பின்வரும் அம்சத்தைப் பயன்படுத்த, தேவைப்படும்போது அதை மாற்றுவதற்கு குறுக்குவழி விசையை அமைக்க வேண்டும்.</s:String>
-    
-    <!--விருப்பங்கள் • விண்ணப்பம்-->
+
+    <!--Options • Application-->
     <s:String x:Key="S.Options.App.Startup">Startup</s:String>
-    <s:String x:Key="S.Options.App.Startup.Mode.Manual">தொடங்கு&amp;#10;கைமுறையாக</s:String>
+    <s:String x:Key="S.Options.App.Startup.Mode.Manual">தொடங்கு&#10;கைமுறையாக</s:String>
     <s:String x:Key="S.Options.App.Startup.Mode.Manual.Info">நீங்கள் கைமுறையாகச் செய்யும் போது மட்டுமே பயன்பாடு செயல்படுத்தப்படும்.</s:String>
-    <s:String x:Key="S.Options.App.Startup.Mode.Automatic">&amp;#10;Windows உடன் தொடங்கவும்</s:String>
+    <s:String x:Key="S.Options.App.Startup.Mode.Automatic">&#10;Windows உடன் தொடங்கவும்</s:String>
     <s:String x:Key="S.Options.App.Startup.Mode.Automatic.Info">விண்டோஸ் தொடங்கப்பட்ட பிறகு பயன்பாடு செயல்படுத்தப்படும்.</s:String>
     <s:String x:Key="S.Options.App.Startup.Mode.Warning">தொடக்க முறைகளுக்கு இடையில் மாற்றுவது சாத்தியமற்றது.</s:String>
-    <s:String x:Key="S.Options.App.Startup.Instance.Single">ஒரு a&amp;#10;ஒற்றை நிகழ்வை மட்டும் அனுமதிக்கவும்</s:String>
-    <s:String x:Key="S.Options.App.Startup.Instance.Single.Info">நீங்கள் ஒரு பயனருக்கு ஒருமுறை ஆப்ஸை இயக்கலாம் மற்றும் இயங்கக்கூடியது,&amp;#10;அதாவது வெவ்வேறு பயனர் அல்லது இயங்கக்கூடியது நிகழ்வுகள் இணைந்திருக்கலாம்.</s:String>
-    <s:String x:Key="S.Options.App.Startup.Instance.Multiple">பல&amp;#10;நிகழ்வுகளை அனுமதி</s:String>
+    <s:String x:Key="S.Options.App.Startup.Instance.Single">ஒரு a&#10;ஒற்றை நிகழ்வை மட்டும் அனுமதிக்கவும்</s:String>
+    <s:String x:Key="S.Options.App.Startup.Instance.Single.Info">நீங்கள் ஒரு பயனருக்கு ஒருமுறை பயன்பாட்டை இயக்கலாம் மற்றும் இயங்கக்கூடியது,&#10;அதாவது வெவ்வேறு பயனர் அல்லது இயங்கக்கூடியது நிகழ்வுகள் இணைந்திருக்கலாம்.</s:String>
+    <s:String x:Key="S.Options.App.Startup.Instance.Multiple">பல&#10;நிகழ்வுகளை அனுமதி</s:String>
     <s:String x:Key="S.Options.App.Startup.Instance.Multiple.Info">ஒரே நேரத்தில், தடையின்றி பலமுறை பயன்பாட்டை இயக்க முடியும்.</s:String>
-    <s:String x:Key="S.Options.App.Startup.Tray">தொடக்கம் சிஸ்டம் ட்ரேயில் குறைக்கப்பட்டது.</s:String>
-    <s:String x:Key="S.Options.App.Startup.Tray.Info">(இந்த விருப்பம் செயலில் இருக்கும்போது சிஸ்டம் ட்ரே ஐகான் தெரியும்)</s:String>
+    <s:String x:Key="S.Options.App.Startup.Tray">தொடக்கம் கணினி தட்டில் குறைக்கப்பட்டது.</s:String>
+    <s:String x:Key="S.Options.App.Startup.Tray.Info">(இந்த விருப்பம் செயலில் இருக்கும்போது கணினி தட்டு சிறியபடம் தெரியும்)</s:String>
     <s:String x:Key="S.Options.App.Startup.Window">இதனுடன் தொடங்கவும்:</s:String>
     <s:String x:Key="S.Options.App.Startup.Window.Startup">தொடக்க சாளரம்</s:String>
-    <s:String x:Key="S.Options.App.Startup.Window.Recorder">ஸ்கிரீன் ரெக்கார்டர்</s:String>
-    <s:String x:Key="S.Options.App.Startup.Window.Webcam">வெப்கேம் ரெக்கார்டர்</s:String>
-    <s:String x:Key="S.Options.App.Startup.Window.Board">போர்டு ரெக்கார்டர்</s:String>
-    <s:String x:Key="S.Options.App.Startup.Window.Editor">எடிட்டர் சாளரம்</s:String>
+    <s:String x:Key="S.Options.App.Startup.Window.Recorder">திரை பதிப்பாளர்</s:String>
+    <s:String x:Key="S.Options.App.Startup.Window.Webcam">வலைஒளி பதிப்பாளர்</s:String>
+    <s:String x:Key="S.Options.App.Startup.Window.Board">பலகை பதிப்பாளர்</s:String>
+    <s:String x:Key="S.Options.App.Startup.Window.Editor">திருத்தி சாளரம்</s:String>
     <s:String x:Key="S.Options.App.Startup.Window.Info">(பயன்பாடு தொடங்கும் போது முதலில் தோன்றும் சாளரம்)</s:String>
-    <s:String x:Key="S.Options.App.Theme">தீம்</s:String>
+    <s:String x:Key="S.Options.App.Theme">கருப்பொருள்</s:String>
     <s:String x:Key="S.Options.App.Theme.Scheme">வண்ணத் திட்டம்:</s:String>
     <s:String x:Key="S.Options.App.Theme.Scheme.VeryLight">மிகவும் ஒளி</s:String>
     <s:String x:Key="S.Options.App.Theme.Scheme.Light">ஒளி</s:String>
     <s:String x:Key="S.Options.App.Theme.Scheme.Medium">நடுத்தரம்</s:String>
-    <s:String x:Key="S.Options.App.Theme.Scheme.Dark">டார்க்</s:String>
+    <s:String x:Key="S.Options.App.Theme.Scheme.Dark">இருண்ட</s:String>
     <s:String x:Key="S.Options.App.Theme.Scheme.VeryDark">மிகவும் இருண்ட</s:String>
     <s:String x:Key="S.Options.App.Theme.Scheme.FollowSystem">அமைப்பைப் பின்பற்றவும்</s:String>
     <s:String x:Key="S.Options.App.Theme.Scheme.Custom">தனிப்பயன்</s:String>
     <s:String x:Key="S.Options.App.Theme.Scheme.Example">உதாரண வண்ணங்கள்.</s:String>
-    <s:String x:Key="S.Options.App.Tray">கணினி தட்டு ஐகான்</s:String>
-    <s:String x:Key="S.Options.App.Tray.Show">ஆப்ஸை சிஸ்டம் ட்ரேயில் (அறிவிப்பு பகுதி) காட்டவும்.</s:String>
+    <s:String x:Key="S.Options.App.Tray">கணினி தட்டு சிறியபடம்</s:String>
+    <s:String x:Key="S.Options.App.Tray.Show">பயன்பாட்டை கணினி தட்டில் (அறிவிப்பு பகுதி) காட்டவும்.</s:String>
     <s:String x:Key="S.Options.App.Tray.LeaveOpen">அனைத்து சாளரங்களும் மூடப்பட்டிருந்தாலும் பயன்பாட்டைத் திறந்து வைத்திருங்கள்.</s:String>
     <s:String x:Key="S.Options.App.Tray.Interactions.Nothing">எதுவும் செய்ய வேண்டாம்</s:String>
     <s:String x:Key="S.Options.App.Tray.Interactions.Open">ஒரு சாளரத்தைத் திற</s:String>
@@ -242,22 +242,22 @@
     <s:String x:Key="S.Options.App.Tray.Interactions.Toggle">எல்லா சாளரங்களையும் சிறிதாக்கு/மீட்டமை</s:String>
     <s:String x:Key="S.Options.App.Tray.Interactions.Minimize">எல்லா சாளரங்களையும் குறைக்கவும்</s:String>
     <s:String x:Key="S.Options.App.Tray.Interactions.Restore">எல்லா சாளரங்களையும் மீட்டமைக்கவும்</s:String>
-    <s:String x:Key="S.Options.App.Tray.Interactions.Left">இடது கிளிக்:</s:String>
-    <s:String x:Key="S.Options.App.Tray.Interactions.DoubleLeft">இடது கிளிக் (x2):</s:String>
-    <s:String x:Key="S.Options.App.Tray.Interactions.Middle">மிடில் கிளிக்:</s:String>
-    <s:String x:Key="S.Options.App.Tray.Interactions.Window">Window:</s:String>
+    <s:String x:Key="S.Options.App.Tray.Interactions.Left">இடது சொடுக்கம்:</s:String>
+    <s:String x:Key="S.Options.App.Tray.Interactions.DoubleLeft">இடது சொடுக்கம் (x2):</s:String>
+    <s:String x:Key="S.Options.App.Tray.Interactions.Middle">நடு சொடுக்கம்:</s:String>
+    <s:String x:Key="S.Options.App.Tray.Interactions.Window">சாளரம்:</s:String>
     <s:String x:Key="S.Options.App.Tray.Interactions.Else">இல்லையெனில், திறக்கும்:</s:String>
     <s:String x:Key="S.Options.App.General">பொது</s:String>
     <s:String x:Key="S.Options.App.General.WorkaroundQuota">'போதிய ஒதுக்கீடு இல்லை...' செயலிழப்புக்கான தீர்வு.</s:String>
     <s:String x:Key="S.Options.App.General.WorkaroundQuota.Info">(பரிசோதனை)</s:String>
-    <s:String x:Key="S.Options.App.General.NotifyWhileClosingApp">ஆப்ஸை மூடும் முன் என்னிடம் கேள் ('Exit' கட்டளை மூலம்).</s:String>
+    <s:String x:Key="S.Options.App.General.NotifyWhileClosingApp">பயன்பாட்டை மூடும் முன் என்னிடம் கேள் ('வெறியேறு' கட்டளை மூலம்).</s:String>
     <s:String x:Key="S.Options.App.General.DisableHardwareAcceleration">வன்பொருள் முடுக்கத்தை முடக்கு.</s:String>
     <s:String x:Key="S.Options.App.General.DisableHardwareAcceleration.Info">(பயனர் இடைமுகம் மென்பொருள் பயன்முறையில் ரெண்டர் செய்யப்படும்)</s:String>
     <s:String x:Key="S.Options.App.General.CheckForTranslationUpdates">மொழிபெயர்ப்பு புதுப்பிப்புகளைச் சரிபார்க்கவும்.</s:String>
     <s:String x:Key="S.Options.App.General.CheckForTranslationUpdates.Info">(புதுப்பிக்கப்பட்ட மொழிபெயர்ப்புகள் தானாகவே பதிவிறக்கம் செய்யப்பட்டு நிறுவப்படும்)</s:String>
     <s:String x:Key="S.Options.App.General.CheckForUpdates">தொடக்கத்தில் புதுப்பிப்புகளைச் சரிபார்க்கவும்.</s:String>
-    <s:String x:Key="S.Options.App.General.UpdateOnClose">ஆப்ஸை மூடிய பிறகு தானாகவே புதுப்பிப்புகளை நிறுவவும்.</s:String>
-	<s:String x:Key="S.Options.App.General.PortableUpdate">போர்ட்டபிள் பதிப்பின் பதிவிறக்கத்தை கட்டாயப்படுத்தவும்.</s:String>
+    <s:String x:Key="S.Options.App.General.UpdateOnClose">பயன்பாட்டை மூடிய பிறகு தானாகவே புதுப்பிப்புகளை நிறுவவும்.</s:String>
+    <s:String x:Key="S.Options.App.General.PortableUpdate">போர்ட்டபிள் பதிப்பின் பதிவிறக்கத்தை கட்டாயப்படுத்தவும்.</s:String>
     <s:String x:Key="S.Options.App.General.PortableUpdate.Info">(செயல்படுத்தக்கூடியதை அன்சிப் செய்து மாற்றுவதன் மூலம் கைமுறையாக நிறுவுதல் தேவை)</s:String>
     <s:String x:Key="S.Options.App.General.ForceUpdateAsAdmin">உயர்ந்த சிறப்புரிமைகளுடன் புதுப்பிப்பை இயக்க கட்டாயப்படுத்தவும்.</s:String>
     <s:String x:Key="S.Options.App.General.PromptToInstall">நிறுவல் தொடங்கும் முன் என்னிடம் கேட்கவும்.</s:String>
@@ -273,25 +273,25 @@
     <s:String x:Key="S.Options.Recorder.Frequency.Manual">கையேடு</s:String>
     <s:String x:Key="S.Options.Recorder.Frequency.Manual.Info">பிடிப்பு பொத்தானை அல்லது அதற்கு சமமான விசைப்பலகை குறுக்குவழியை அழுத்துவதன் மூலம், ஒவ்வொரு சட்டமும் கைமுறையாக உங்களால் கைப்பற்றப்படும்.</s:String>
     <s:String x:Key="S.Options.Recorder.Frequency.Interaction">பயனர் தொடர்பு</s:String>
-    <s:String x:Key="S.Options.Recorder.Frequency.Interaction.Info">ஒவ்வொரு முறையும் நீங்கள் எதையாவது கிளிக் செய்யும்போதோ அல்லது தட்டச்சு செய்யும்போதோ சட்டகங்கள் கைப்பற்றப்படும்.</s:String>
+    <s:String x:Key="S.Options.Recorder.Frequency.Interaction.Info">ஒவ்வொரு முறையும் நீங்கள் எதையாவது சொடுக்கும்போதோ அல்லது தட்டச்சு செய்யும்போதோ சட்டகங்கள் கைப்பற்றப்படும்.</s:String>
     <s:String x:Key="S.Options.Recorder.Frequency.Second">ஒரு நொடிக்கு</s:String>
-    <s:String x:Key="S.Options.Recorder.Frequency.Second.Info">பிரேம்கள் ரெக்கார்டர் திரையில் அமைக்கப்பட்டுள்ள ஃப்ரேம்ரேட் வகுப்பின் அடிப்படையில் 'ஒரு நொடிக்கு' என்ற அடிப்படையில் படம்பிடிக்கப்படும்.&amp;#10; </s:String>
+    <s:String x:Key="S.Options.Recorder.Frequency.Second.Info">பிரேம்கள் பதிப்பாளர் திரையில் அமைக்கப்பட்டுள்ள ஃப்ரேம்ரேட் வகுப்பின் அடிப்படையில் 'ஒரு நொடிக்கு' என்ற அடிப்படையில் படம்பிடிக்கப்படும்.&#10; </s:String>
     <s:String x:Key="S.Options.Recorder.Frequency.Minute">ஒரு நிமிடத்திற்கு</s:String>
-    <s:String x:Key="S.Options.Recorder.Frequency.Minute.Info">பிரேம்கள் ரெக்கார்டரில் அமைக்கப்பட்டுள்ள ஃப்ரேம்ரேட் வகுப்பின் அடிப்படையில் 'ஒரு நிமிடத்திற்கு' (டைம்லேப்ஸ்) அடிப்படையில் படம்பிடிக்கப்படும்&amp;#10; திரை.</s:String>
+    <s:String x:Key="S.Options.Recorder.Frequency.Minute.Info">பிரேம்கள் ரெக்கார்டரில் அமைக்கப்பட்டுள்ள ஃப்ரேம்ரேட் வகுப்பின் அடிப்படையில் 'ஒரு நிமிடத்திற்கு' (டைம்லேப்ஸ்) அடிப்படையில் படம்பிடிக்கப்படும்&#10; திரை.</s:String>
     <s:String x:Key="S.Options.Recorder.Frequency.Hour">ஒரு மணிநேரத்திற்கு</s:String>
-    <s:String x:Key="S.Options.Recorder.Frequency.Hour.Info">ஃபிரேம்கள் ரெக்கார்டரில் அமைக்கப்பட்டுள்ள ஃப்ரேம்ரேட் வகுப்பின் அடிப்படையில் 'ஒரு மணி நேரத்திற்கு' (டைம்லேப்ஸ்) அடிப்படையில் படம்பிடிக்கப்படும்&amp;#10; திரை.</s:String>
+    <s:String x:Key="S.Options.Recorder.Frequency.Hour.Info">ஃபிரேம்கள் ரெக்கார்டரில் அமைக்கப்பட்டுள்ள ஃப்ரேம்ரேட் வகுப்பின் அடிப்படையில் 'ஒரு மணி நேரத்திற்கு' (டைம்லேப்ஸ்) அடிப்படையில் படம்பிடிக்கப்படும்&#10; திரை.</s:String>
     <s:String x:Key="S.Options.Recorder.Frequency.Playback">பிளேபேக் தாமதம்:</s:String>
     <s:String x:Key="S.Options.Recorder.Frequency.Playback.Info">(மி.எஸ்.களில், பிடிக்கப்பட்ட ஒவ்வொரு சட்டமும் இந்த தாமதத்திற்கு அமைக்கப்படும்)</s:String>
     <s:String x:Key="S.Options.Recorder.Frequency.Trigger">Trigger தாமதம்:</s:String>
     <s:String x:Key="S.Options.Recorder.Frequency.Trigger.Info">(MS இல், ஒவ்வொரு ஃபிரேம் பிடிப்பும் தொடங்கும் முன் இவ்வளவு நேரம் காத்திருக்கும்)</s:String>
     <s:String x:Key="S.Options.Recorder.Frequency.Interval">ஒவ்வொரு சட்டமும் {0} இடைவெளியில் எடுக்கப்படும்.</s:String>
     
-    <s:String x:Key="S.Options.Recorder.Mode">Capture mode</s:String>
-    <s:String x:Key="S.Options.Recorder.Bitblt.Info">பழைய பிடிப்பு முறையைப் பயன்படுத்தவும், இது மெதுவானது மற்றும் கேம்களைக் கைப்பற்றுவதில் வேலை செய்யாமல் போகலாம்,&amp;#10;ஆனால் கூடுதல் செருகுநிரல்கள் தேவையில்லை.</s:String>
-    <s:String x:Key="S.Options.Recorder.DirectX.Info">டெஸ்க்டாப் டூப்ளிகேஷன் API பிடிப்பு முறையைப் பயன்படுத்தவும், இது வேகமானது மற்றும்&amp;#10;முழுத்திரை கேம்களைப் பிடிக்க முடியும், ஆனால் Windows 8 அல்லது அதற்குப் புதியது தேவைப்படுகிறது. </s:String>
-    <s:String x:Key="S.Options.Recorder.File">&amp;#10;கோப்பில் சேமி</s:String>
+    <s:String x:Key="S.Options.Recorder.Mode">பிடிப்பு முறை</s:String>
+    <s:String x:Key="S.Options.Recorder.Bitblt.Info">பழைய பிடிப்பு முறையைப் பயன்படுத்தவும், இது மெதுவானது மற்றும் கேம்களைக் கைப்பற்றுவதில் வேலை செய்யாமல் போகலாம்,&#10;ஆனால் கூடுதல் செருகுநிரல்கள் தேவையில்லை.</s:String>
+    <s:String x:Key="S.Options.Recorder.DirectX.Info">திரைப்பலக நகல் API பிடிப்பு முறையைப் பயன்படுத்தவும், இது வேகமானது மற்றும்&#10;முழுத்திரை கேம்களைப் பிடிக்க முடியும், ஆனால் Windows 8 அல்லது அதற்குப் புதியது தேவைப்படுகிறது. </s:String>
+    <s:String x:Key="S.Options.Recorder.File">&#10;கோப்பில் சேமி</s:String>
     <s:String x:Key="S.Options.Recorder.File.Info">பிடிக்கப்பட்ட ஒவ்வொரு சட்டமும் நேரடியாக வட்டில் ஒரு படமாகச் சேமிக்கப்படும்.</s:String>
-    <s:String x:Key="S.Options.Recorder.Cache">நினைவகம்&amp;#10;cache</s:String>
+    <s:String x:Key="S.Options.Recorder.Cache">நினைவகம்&#10;cache</s:String>
     <s:String x:Key="S.Options.Recorder.Cache.Info">பிடிக்கப்பட்ட ஒவ்வொரு சட்டமும் முதலில் நினைவகத்தில் பிக்சல் வரிசையாக சேமிக்கப்படும் (முன்பு சுருக்கப்பட்டிருக்கலாம்).</s:String>
     <s:String x:Key="S.Options.Recorder.Compression">அமுக்கம்:</s:String>
     <s:String x:Key="S.Options.Recorder.Compression.Optimal">உகந்த</s:String>
@@ -310,17 +310,17 @@
     <s:String x:Key="S.Options.Recorder.FixedFramerate.Info">(பதிவு தாமதத்துடன் மாறாத நிலையான தாமதம்)</s:String>
     <s:String x:Key="S.Options.Recorder.CaptureChanges">ஏதாவது மாறும்போது மட்டும் பிடிக்கவும்.</s:String>
     <s:String x:Key="S.Options.Recorder.CaptureChanges.Info">(பிடிப்பு பகுதியில் ஏதாவது மாற்றப்பட்டால் மட்டுமே சட்டகம் பிடிக்கப்படும்)</s:String>
-    <s:String x:Key="S.Options.Recorder.RemoteImprovement">ரிமோட் டெஸ்க்டாப் இணைப்பில் பிடிப்பு செயல்திறனை மேம்படுத்தவும்.</s:String>
+    <s:String x:Key="S.Options.Recorder.RemoteImprovement">ரிமோட் திரைப்பலகம் இணைப்பில் பிடிப்பு செயல்திறனை மேம்படுத்தவும்.</s:String>
     <s:String x:Key="S.Options.Recorder.RemoteImprovement.Info">(அடுக்கு சாளர பிடிப்பை முடக்குகிறது)</s:String>
     <s:String x:Key="S.Options.Recorder.ForceGarbageCollection">பிடிப்பின் போது கட்டாய நினைவகத்தை சுத்தம் செய்யவும்.</s:String>
     <s:String x:Key="S.Options.Recorder.ForceGarbageCollection.Info">(பிடிக்கும்போது நினைவகப் பயன்பாட்டைக் குறைக்கிறது, ஆனால் செயல்திறனைக் குறைக்கிறது)</s:String>
     
     <s:String x:Key="S.Options.Recorder.Guidelines">வழிகாட்டுதல்கள்</s:String>
     <s:String x:Key="S.Options.Recorder.Guidelines.RuleOfThirds">மூன்றில் விதி</s:String>
-    <s:String x:Key="S.Options.Recorder.Guidelines.RuleOfThirds.Info">மூன்றில் ஒரு விதி வழிகாட்டுதலின் &amp;#10;காட்சியை நிலைமாற்ற கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.Options.Recorder.Guidelines.RuleOfThirds.Info">மூன்றில் ஒரு விதி வழிகாட்டுதலின் &#10;காட்சியை நிலைமாற்ற சொடுக்கவும்.</s:String>
     <s:String x:Key="S.Options.Recorder.Guidelines.Crosshair">கிராஸ்ஷேர்</s:String>
-    <s:String x:Key="S.Options.Recorder.Guidelines.Crosshair.Info">ஒரு குறுக்கு நாற்காலி வழிகாட்டுதலின் காட்சியை நிலைமாற்ற கிளிக் செய்யவும்.</s:String>
-    <s:String x:Key="S.Options.Recorder.Guidelines.Info">ரெக்கார்டர் இடைநிறுத்தப்படும்போது அல்லது நிறுத்தப்படும்போது மட்டுமே வழிகாட்டுதல்கள் காட்டப்படும்.</s:String>
+    <s:String x:Key="S.Options.Recorder.Guidelines.Crosshair.Info">ஒரு குறுக்கு நாற்காலி வழிகாட்டுதலின் காட்சியை நிலைமாற்ற சொடுக்கவும்.</s:String>
+    <s:String x:Key="S.Options.Recorder.Guidelines.Info">பதிப்பாளர் இடைநிறுத்தப்படும்போது அல்லது நிறுத்தப்படும்போது மட்டுமே வழிகாட்டுதல்கள் காட்டப்படும்.</s:String>
     
     <s:String x:Key="S.Options.Recorder.HideTitleBar">தலைப்புப் பட்டியை (மெல்லிய பயன்முறை) மறை.</s:String>
     <s:String x:Key="S.Options.Recorder.Magnifier">திரை உருப்பெருக்கியை இயக்கவும்.</s:String>
@@ -330,7 +330,7 @@
     <s:String x:Key="S.Options.Recorder.SelectionPanning">தேர்வு அலசலை இயக்கு.</s:String>
     <s:String x:Key="S.Options.Recorder.SelectionPanning.Info">(தேர்வின் மூலைக்கு அருகில் ஒரு அலங்காரத்தைக் காட்டுகிறது, பதிவு செய்யும் பகுதியின் இயக்கத்தை அனுமதிக்கிறது)</s:String>
     <s:String x:Key="S.Options.Recorder.Compact">காம்பாக்ட் பயன்முறை.</s:String>
-    <s:String x:Key="S.Options.Recorder.Compact.Info">(ரெக்கார்டர் கட்டளை பேனலின் சிறிய பதிப்பைக் காட்டுகிறது)</s:String>
+    <s:String x:Key="S.Options.Recorder.Compact.Info">(பதிப்பாளர் கட்டளை பேனலின் சிறிய பதிப்பைக் காட்டுகிறது)</s:String>
     <s:String x:Key="S.Options.Recorder.DisplayDiscard">பதிவு செய்யும் போது டிஸ்கார்ட் பட்டனையும் காட்டவும்.</s:String>
     <s:String x:Key="S.Options.Recorder.DisplayDiscard.Info">(பொதுவாக, இடைநிறுத்தப்படும் போது மட்டுமே இது தெரியும்)</s:String>
     <s:String x:Key="S.Options.Recorder.SelectionImprovement">திரை தேர்வு செயல்திறனை மேம்படுத்தவும்.</s:String>
@@ -345,8 +345,8 @@
     <s:String x:Key="S.Options.Recorder.FollowMargin.Info">(பிக்சல்களில் உள்ள இடையக விளிம்பு, பதிவு செய்யும் பகுதி மீண்டும் நிலைபெறத் தொடங்கும்)</s:String>
     <s:String x:Key="S.Options.Recorder.FollowMarginInvisible.Info">(பிக்சல்களில் கூடுதல் இடையக விளிம்பு, UI மறைக்கப்படும் இடத்தில்)</s:String>
     <s:String x:Key="S.Options.Recorder.NotifyRecordingDiscard">பதிவை நிராகரிக்கும் முன் என்னிடம் கேள்.</s:String>
-    
-    <!--விருப்பங்கள் • Editor-->
+
+    <!--Options • Editor-->
     <s:String x:Key="S.Options.Editor.Previewer">முன்னோடி பின்னணி</s:String>
     <s:String x:Key="S.Options.Editor.Previewer.GridSize">கிரிட் அளவு:</s:String>
     <s:String x:Key="S.Options.Editor.Previewer.GridSize.VerySmall">மிகச் சிறியது</s:String>
@@ -370,7 +370,7 @@
     <s:String x:Key="S.Options.Editor.General.NotifyFrameDeletion">ஃபிரேம்களை நீக்கும் முன் என்னிடம் கேள்.</s:String>
     <s:String x:Key="S.Options.Editor.General.NotifyProjectDiscard">திட்டத்தை நிராகரிக்கும் முன் என்னிடம் கேள்.</s:String>
     <s:String x:Key="S.Options.Editor.General.NotifyWhileClosingEditor">எடிட்டரை மூடும் முன் என்னிடம் கேள் (திறந்த திட்டம் இருந்தால்).</s:String>
-    <s:String x:Key="S.Options.Editor.General.TripleClickSelection">உரையைத் தேர்ந்தெடுக்க மும்முறை கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.Options.Editor.General.TripleClickSelection">உரையைத் தேர்ந்தெடுக்க மும்முறை சொடுக்கவும்.</s:String>
     <s:String x:Key="S.Options.Editor.General.DrawOutlineOutside">எழுத்துக்களுக்கு வெளியே தலைப்புகளின் வெளிப்புறத்தை வரையவும்.</s:String>
     <s:String x:Key="S.Options.Editor.General.DropFramesDuringPreviewIfBehind">தேவைப்படும் போது ஃப்ரேம்களை கைவிடவும்.</s:String>
     <s:String x:Key="S.Options.Editor.General.DropFramesDuringPreviewIfBehind.Info">(முன்பார்வையாளரால் சரியான நேரத்தில் அதைக் காண்பிக்க முடியாவிட்டால், சட்டத்தைத் தவிர்க்கவும்)</s:String>
@@ -383,8 +383,8 @@
     <s:String x:Key="S.Options.Editor.General.SyncPath.Filename">கோப்பின் பெயரையும் ஒத்திசைக்கவும்.</s:String>
     <s:String x:Key="S.Options.Editor.General.SyncPath.Filename.Info">(முன்னமைவுகளும் அதே கோப்புப் பெயரைப் பயன்படுத்தும்)</s:String>
     <s:String x:Key="S.Options.Editor.General.SyncPath.SameType">ஒரே கோப்பு வகையின் முன்னமைவுகளில் மட்டும் ஒத்திசைக்கவும்.</s:String>
-    <s:String x:Key="S.Options.Editor.General.SyncPath.SameType.Info">(ஒரே கோப்பு வகையின் முன்னமைவுகள் மட்டுமே ஒத்திசைவில் இருக்கும்)</s:String>    
-
+    <s:String x:Key="S.Options.Editor.General.SyncPath.SameType.Info">(ஒரே கோப்பு வகையின் முன்னமைவுகள் மட்டுமே ஒத்திசைவில் இருக்கும்)</s:String>
+    
     <!--Options • Tasks-->
     <s:String x:Key="S.Options.Tasks.Title">தானியங்கு பணி</s:String>
     <s:String x:Key="S.Options.Tasks.List">தானியங்கி பணிகளின் பட்டியல்</s:String>
@@ -394,23 +394,23 @@
     <s:String x:Key="S.Options.Tasks.Enable">இந்த பணியை இயக்கு.</s:String>
     <s:String x:Key="S.Options.Tasks.SelectType">ஒரு பணியைத் தேர்ந்தெடுக்கவும்</s:String>
     <s:String x:Key="S.Options.Tasks.SelectType.Info">மேலே உள்ள பணியைத் தேர்ந்தெடுக்கவும்</s:String>
-    <s:String x:Key="S.Options.Tasks.Info">இந்தப் பணிகள் பட்டியலின் மேலிருந்து கீழாகத் தொடர்ச்சியாகச் செயல்படுத்தப்படும்.&amp;#10;நீங்கள் முதலில் எடிட்டரைப் பயன்படுத்தி ஒரு திட்டத்தைத் திறக்கும்போது இது நடக்கும் </s:String>
-    
-    <!--விருப்பங்கள் • குறுக்குவழிகள்-->
+    <s:String x:Key="S.Options.Tasks.Info">இந்தப் பணிகள் பட்டியலின் மேலிருந்து கீழாகத் தொடர்ச்சியாகச் செயல்படுத்தப்படும்.&#10;நீங்கள் முதலில் எடிட்டரைப் பயன்படுத்தி ஒரு திட்டத்தைத் திறக்கும்போது இது நடக்கும் </s:String>
+  
+    <!--Options • Shortcuts-->
     <s:String x:Key="S.Options.Shortcuts.Global">உலகளாவியம்</s:String>
-    <s:String x:Key="S.Options.Shortcuts.Global.ScreenRecorder">ஸ்கிரீன் ரெக்கார்டர்:</s:String>
+    <s:String x:Key="S.Options.Shortcuts.Global.ScreenRecorder">திரை பதிப்பாளர்:</s:String>
     <s:String x:Key="S.Options.Shortcuts.Global.ScreenRecorder.Info">(இயல்புநிலை திரை ரெக்கார்டரைத் திறக்கும்)</s:String>
-    <s:String x:Key="S.Options.Shortcuts.Global.WebcamRecorder">வெப்கேம் ரெக்கார்டர்:</s:String>
-    <s:String x:Key="S.Options.Shortcuts.Global.WebcamRecorder.Info">(வெப்கேம் ரெக்கார்டரைத் திறக்கிறது)</s:String>
-    <s:String x:Key="S.Options.Shortcuts.Global.BoardRecorder">போர்டு ரெக்கார்டர்:</s:String>
-    <s:String x:Key="S.Options.Shortcuts.Global.BoardRecorder.Info">(போர்டு ரெக்கார்டரைத் திறக்கும், அதனால் உங்கள் வரைபடங்களைப் பதிவு செய்யலாம்)</s:String>
-    <s:String x:Key="S.Options.Shortcuts.Global.OpenEditor">எடிட்டர்:</s:String>
-    <s:String x:Key="S.Options.Shortcuts.Global.OpenEditor.Info">(மற்றொரு எடிட்டர் சாளரத்தைத் திறக்கிறது)</s:String>
+    <s:String x:Key="S.Options.Shortcuts.Global.WebcamRecorder">வலைஒளி பதிப்பாளர்:</s:String>
+    <s:String x:Key="S.Options.Shortcuts.Global.WebcamRecorder.Info">(வலைஒளி ரெக்கார்டரைத் திறக்கிறது)</s:String>
+    <s:String x:Key="S.Options.Shortcuts.Global.BoardRecorder">பலகை பதிப்பாளர்:</s:String>
+    <s:String x:Key="S.Options.Shortcuts.Global.BoardRecorder.Info">(பலகை ரெக்கார்டரைத் திறக்கும், அதனால் உங்கள் வரைபடங்களைப் பதிவு செய்யலாம்)</s:String>
+    <s:String x:Key="S.Options.Shortcuts.Global.OpenEditor">திருத்தி:</s:String>
+    <s:String x:Key="S.Options.Shortcuts.Global.OpenEditor.Info">(மற்றொரு திருத்தி சாளரத்தைத் திறக்கிறது)</s:String>
     <s:String x:Key="S.Options.Shortcuts.Global.OpenOptions">விருப்பங்கள்:</s:String>
     <s:String x:Key="S.Options.Shortcuts.Global.OpenOptions.Info">(விருப்பங்கள் சாளரத்தைத் திறக்கும். நீங்கள் ஒரு நேரத்தில் ஒன்றை மட்டுமே திறக்க முடியும்)</s:String>
     <s:String x:Key="S.Options.Shortcuts.Global.Exit">வெளியேறு:</s:String>
     <s:String x:Key="S.Options.Shortcuts.Global.Exit.Info">(அனைத்து சாளரங்களையும் மூடிவிட்டு, கணினி தட்டில் இருந்து பயன்பாட்டை அகற்றும்)</s:String>
-    <s:String x:Key="S.Options.Shortcuts.Recorders">ரெக்கார்டர்கள்</s:String>
+    <s:String x:Key="S.Options.Shortcuts.Recorders">பதிப்பாளர்கள்</s:String>
     <s:String x:Key="S.Options.Shortcuts.Recorders.StartPause">Start/Pause:</s:String>
     <s:String x:Key="S.Options.Shortcuts.Recorders.StartPause.Info">(இது ரெக்கார்டிங்கைத் தொடங்கும் அல்லது இடைநிறுத்துகிறது. ஸ்னாப்ஷாட் பயன்முறை இயக்கப்பட்டால் ஸ்னாப்ஷாட்களை எடுக்க இது பயன்படுகிறது)</s:String>
     <s:String x:Key="S.Options.Shortcuts.Recorders.Stop">நிறுத்து:</s:String>
@@ -421,30 +421,30 @@
     <s:String x:Key="S.Options.Shortcuts.Recorders.Follow.Info">(கர்சரின் நிலையின் அடிப்படையில் பதிவு செய்யும் பகுதியின் சரிசெய்தலை மாற்றுகிறது)</s:String>
     <s:String x:Key="S.Options.Shortcuts.Recorders.DisableFollow">பின்வருவதை முடக்கு:</s:String>
     <s:String x:Key="S.Options.Shortcuts.Recorders.DisableFollow.Info">(கர்சரின் நிலையின் அடிப்படையில் பதிவு செய்யும் பகுதியின் சரிசெய்தலை தற்காலிகமாக முடக்குகிறது, மாற்றியமைக்கும் விசைகள் மட்டுமே ஏற்றுக்கொள்ளப்படும்)</s:String>
-    <s:String x:Key="S.Options.Shortcuts.Info">விசைப்பலகை ஃபோகஸ் அமைக்க கிளிக் செய்யவும், பின்னர் விரும்பிய விசைகள் மற்றும் மாற்றிகளை அழுத்தவும்.&amp;#10;சில விசைகள் சேர்க்கைகள் அனுமதிக்கப்படாது.</s:String>
+    <s:String x:Key="S.Options.Shortcuts.Info">விசைப்பலகை ஃபோகஸ் அமைக்க சொடுக்கவும், பின்னர் விரும்பிய விசைகள் மற்றும் மாற்றிகளை அழுத்தவும்.&#10;சில விசைகள் சேர்க்கைகள் அனுமதிக்கப்படாது.</s:String>
     
-    <!--விருப்பங்கள் • மொழி-->
+    <!--Options • Language-->
     <s:String x:Key="S.Options.Language.AppLanguage">பயன்பாட்டின் மொழி</s:String>
     <s:String x:Key="S.Options.Language.AppLanguage.AutoDetect">தானாகக் கண்டறிதல்</s:String>
     <s:String x:Key="S.Options.Language.AppLanguage.AutoDetect.Author">தற்போதைய OS மொழி (கிடைத்தால்)</s:String>
     <s:String x:Key="S.Options.Language.AppLanguage.Translate.Sentence1.1">எனது பயன்பாட்டை மொழிபெயர்க்க விரும்புகிறீர்களா?</s:String>
-    <s:String x:Key="S.Options.Language.AppLanguage.Translate.Sentence1.2">மொழிபெயர்ப்பு வழிகாட்டுதல்களைப் படிக்கவும், மொழிபெயர்ப்பாளர் பயன்பாட்டைப் பதிவிறக்கவும் இங்கே கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.Options.Language.AppLanguage.Translate.Sentence1.2">மொழிபெயர்ப்பு வழிகாட்டுதல்களைப் படிக்கவும், மொழிபெயர்ப்பாளர் பயன்பாட்டைப் பதிவிறக்கவும் இங்கே சொடுக்கவும்.</s:String>
     <s:String x:Key="S.Options.Language.AppLanguage.Translate.Sentence2.1">பிறகு,</s:String>
-    <s:String x:Key="S.Options.Language.AppLanguage.Translate.Sentence2.2">இறக்குமதி செய்ய இங்கே கிளிக் செய்யவும்</s:String>
+    <s:String x:Key="S.Options.Language.AppLanguage.Translate.Sentence2.2">இறக்குமதி செய்ய இங்கே சொடுக்கவும்</s:String>
     <s:String x:Key="S.Options.Language.AppLanguage.Translate.Sentence2.3">உங்கள் மொழிபெயர்ப்பைச் சோதிக்கவும்.</s:String>
     <s:String x:Key="S.Options.Language.AppLanguage.Translate.Sentence3.1">இதன் மூலம் எனக்கு அனுப்பு</s:String>
     <s:String x:Key="S.Options.Language.AppLanguage.Translate.Sentence3.2">மின்னஞ்சல் (nicke@outlook.com.br)</s:String>
     <s:String x:Key="S.Options.Language.AppLanguage.Translate.Sentence3.3">நீங்கள் மொழிபெயர்த்து முடித்ததும்.</s:String>
-    <s:String x:Key="S.Options.Language.AppLanguage.Translate.ResourceLink.Tooltip">வழிகாட்டுதல்களுடன் வலைப்பக்கத்தைத் திறக்க கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.Options.Language.AppLanguage.Translate.ResourceLink.Tooltip">வழிகாட்டுதல்களுடன் வலைப்பக்கத்தைத் திறக்க சொடுக்கவும்.</s:String>
     <s:String x:Key="S.Options.Language.AppLanguage.Translate.ImportLink.Tooltip">இறக்குமதி பக்கத்தைத் திறக்கிறது</s:String>
     <s:String x:Key="S.Options.Language.AppLanguage.Translate.EmailLink.Tooltip">உங்கள் மின்னஞ்சல் பயன்பாட்டைத் திறக்கிறது</s:String>
     
-    <!--விருப்பங்கள் • சேமிப்பு-->
+    <!--Options • Storage-->
     <s:String x:Key="S.Options.Storage.Status">நிலை</s:String>
     <s:String x:Key="S.Options.Storage.Status.Volume">தொகுதி:</s:String>
     <s:String x:Key="S.Options.Storage.Status.FreeSpace">{0} இலவசம் {1}</s:String>
     <s:String x:Key="S.Options.Storage.Status.Check">எவ்வளவு இடம் உள்ளது என்பதை மீண்டும் சரிபார்க்கவும்.</s:String>
-    <s:String x:Key="S.Options.Storage.Status.Clear">கேச் கோப்புறையை அழிக்கவும்.&amp;#10;சமீபத்திய திட்டங்களை வைத்திருக்க வேண்டுமா இல்லையா என்பதை நீங்கள் தீர்மானிக்கலாம்.</s:String>
+    <s:String x:Key="S.Options.Storage.Status.Clear">கேச் கோப்புறையை அழிக்கவும்.&#10;சமீபத்திய திட்டங்களை வைத்திருக்க வேண்டுமா இல்லையா என்பதை நீங்கள் தீர்மானிக்கலாம்.</s:String>
     <s:String x:Key="S.Options.Storage.Status.LowSpace">தற்போது தேர்ந்தெடுக்கப்பட்ட ஹார்ட் டிரைவில் இடம் குறைவு. கேச் கோப்புறையை சுத்தம் செய்யவும் அல்லது இருப்பிடத்தை மாற்றவும்.</s:String>
     <s:String x:Key="S.Options.Storage.Status.Error">டிரைவ் விவரங்களை மீட்டெடுப்பது சாத்தியமில்லை.</s:String>
     <s:String x:Key="S.Options.Storage.Status.Files.None">கோப்புகள் இல்லை</s:String>
@@ -466,16 +466,16 @@
     <s:String x:Key="S.Options.Storage.NotExists">இது இல்லை</s:String>
     <s:String x:Key="S.Options.Storage.CreateSettings">வெற்று உள்ளூர் அமைப்புகள் கோப்பை உருவாக்கவும்.</s:String>
     <s:String x:Key="S.Options.Storage.RemoveSettings">அமைப்புகள் கோப்பை அகற்றவும்.</s:String>
-    <s:String x:Key="S.Options.Storage.OpenSettingsFolder">அமைப்புகள் கோப்பு அமைந்துள்ள கோப்புறையைத் திறக்கவும்.&amp;#x0d;முடிந்தால் கோப்பைத் திறக்க கிளிக் செய்யும் போது Ctrlஐப் பிடிக்கவும். </s:String>
-    <s:String x:Key="S.Options.Storage.SettingsInfo">• அமைப்புகள் ஏற்றப்படும் முறை: இயல்புநிலை ◄ AppData ◄ Local.&amp;#x0d;• உள்ளூர் கோப்புறையில் அமைப்புகள் கோப்பு இல்லை என்றால், பயன்பாடு உள்ளே தேடும் AppData கோப்புறை, அமைப்புகள் கோப்பு இல்லை என்றால் இயல்புநிலை பயன்படுத்தப்படும்.&amp;#x0d;• உள்ளூர் அமைப்புகள் இல்லை என்றால், எல்லா அமைப்புகளும் AppData அமைப்புகள் கோப்பில் சேமிக்கப்படும்.</s:String>
-    <s:String x:Key="S.Options.Storage.DeleteEverything">ஆப்ஸை மூடும் போது தற்காலிக சேமிப்பிலிருந்து எல்லா கோப்புகளையும் நீக்கவும்.</s:String>
+    <s:String x:Key="S.Options.Storage.OpenSettingsFolder">அமைப்புகள் கோப்பு அமைந்துள்ள கோப்புறையைத் திறக்கவும்.&#x0d;முடிந்தால் கோப்பைத் திறக்க சொடுக்கும் போது Ctrlஐப் பிடிக்கவும். </s:String>
+    <s:String x:Key="S.Options.Storage.SettingsInfo">• அமைப்புகள் ஏற்றப்படும் முறை: இயல்புநிலை ◄ AppData ◄ Local.&#x0d;• உள்ளூர் கோப்புறையில் அமைப்புகள் கோப்பு இல்லை என்றால், பயன்பாடு உள்ளே தேடும் AppData கோப்புறை, அமைப்புகள் கோப்பு இல்லை என்றால் இயல்புநிலை பயன்படுத்தப்படும்.&#x0d;• உள்ளூர் அமைப்புகள் இல்லை என்றால், எல்லா அமைப்புகளும் AppData அமைப்புகள் கோப்பில் சேமிக்கப்படும்.</s:String>
+    <s:String x:Key="S.Options.Storage.DeleteEverything">பயன்பாட்டை மூடும் போது தற்காலிக சேமிப்பிலிருந்து எல்லா கோப்புகளையும் நீக்கவும்.</s:String>
     <s:String x:Key="S.Options.Storage.AskDeleteEverything">கேச்சில் இருந்து எல்லா கோப்புகளையும் நீக்கும் முன் என்னிடம் கேள்.</s:String>
     <s:String x:Key="S.Options.Storage.AutomaticRemoval">பழைய திட்டங்களை தானாக அகற்றவும்.</s:String>
-    <s:String x:Key="S.Options.Storage.AutomaticRemoval.Info">ஆப்ஸைத் திறக்கும் போது, ​​உள்ளமைக்கப்பட்ட நேரத்தை விட பழைய மூடிய திட்டப்பணிகளை பின்னணி பணி அழிக்கும்.</s:String>
+    <s:String x:Key="S.Options.Storage.AutomaticRemoval.Info">பயன்பாட்டைத் திறக்கும் போது, ​​உள்ளமைக்கப்பட்ட நேரத்தை விட பழைய மூடிய திட்டப்பணிகளை பின்னணி பணி அழிக்கும்.</s:String>
     <s:String x:Key="S.Options.Storage.AutomaticRemovalDays.Info">(நாட்களில், பயன்பாட்டைத் திறந்த பிறகு, இதை விட பழைய மூடிய திட்டம் அழிக்கப்படும்/நிராகரிக்கப்படும்)</s:String>
     
-    <!--விருப்பங்கள் • சேமிப்பகம் > தற்காலிக சேமிப்பை அழி-->
-    <s:String x:Key="S.Options.Storage.Cache.Title">ScreenToGif - தற்காலிக சேமிப்பை அழி</s:String>
+    <!--Options • Storage > Clear cache-->
+    <s:String x:Key="S.Options.Storage.Cache.Title">திரைபிடிபடம் - தற்காலிக சேமிப்பை அழி</s:String>
     <s:String x:Key="S.Options.Storage.Cache.Header">கேச் கோப்புறையை அழிக்க விரும்புகிறீர்களா?</s:String>
     <s:String x:Key="S.Options.Storage.Cache.Info">நீங்கள் ஒரு பதிவை உருவாக்கும் போது அல்லது திருத்துவதற்காக எதையாவது திறக்கும் போது, ​​ஒரு திட்டம் உருவாக்கப்பட்டு கேச் கோப்புறைக்குள் சேமிக்கப்படும்.</s:String>
     <s:String x:Key="S.Options.Storage.Cache.Question">இந்த திட்டங்களை கேச் கோப்புறையிலிருந்து அகற்ற விரும்புகிறீர்களா?</s:String>
@@ -483,7 +483,7 @@
     <s:String x:Key="S.Options.Storage.Cache.IgnoreRecent.Yes">(தற்போது பயன்பாட்டில் இல்லாத, {0} நாட்களுக்கு மேல் உள்ள திட்டப்பணிகள் மட்டும் அகற்றப்படும்)</s:String>
     <s:String x:Key="S.Options.Storage.Cache.IgnoreRecent.No">(தற்போது பயன்பாட்டில் இல்லாத அனைத்து திட்டங்களும் அகற்றப்படும்)</s:String>
     
-    <!--விருப்பங்கள் • பதிவேற்றம்-->
+    <!--Options • Upload-->
     <s:String x:Key="S.Options.Upload.Proxy">ப்ராக்ஸி</s:String>
     <s:String x:Key="S.Options.Upload.Proxy.Mode">முறை:</s:String>
     <s:String x:Key="S.Options.Upload.Proxy.Mode.Disabled">முடக்கப்பட்டது</s:String>
@@ -501,7 +501,7 @@
     <s:String x:Key="S.Options.Upload.Presets.Description">விளக்கம்</s:String>
     <s:String x:Key="S.Options.Upload.Presets.Enabled">இயக்கப்பட்டது</s:String>
     
-    <!--விருப்பங்கள் • பதிவேற்றம் > முன்னமைவு-->
+     <!--Options • Upload > Preset-->
     <s:String x:Key="S.Options.Upload.Preset.Title">பதிவேற்ற சேவை</s:String>
     <s:String x:Key="S.Options.Upload.Preset.Select">ஒரு சேவையைத் தேர்ந்தெடு</s:String>
     <s:String x:Key="S.Options.Upload.Preset.Select.Info">மேலே ஒரு பதிவேற்ற சேவையைத் தேர்ந்தெடுக்கவும்</s:String>
@@ -547,11 +547,11 @@
     <s:String x:Key="S.Options.Upload.Preset.Gfycat.AskMe">பதிவேற்றத்தின் விவரங்களை நிரப்ப என்னிடம் கேளுங்கள்.</s:String>
     <s:String x:Key="S.Options.Upload.Preset.Gfycat.UrlType">Url வகை:</s:String>
     
-    <!--விருப்பங்கள் • யுபதிவேற்றம் > ஆல்பம்-->
+    <!--Options • Upload > Album-->
     <s:String x:Key="S.Options.Upload.Pick.Album">ஒரு ஆல்பத்தைத் தேர்ந்தெடு (விரும்பினால்)</s:String>
     <s:String x:Key="S.Options.Upload.Pick.Album.Info">நீங்கள் விரும்பினால், இலக்கு ஆல்பத்தைத் தேர்ந்தெடுக்கலாம்:</s:String>
     
-    <!--விருப்பங்கள் • பதிவேற்றம் > விவரங்கள்-->
+    <!--Options • Upload > Details-->
     <s:String x:Key="S.Options.Upload.Pick.Details">விவரங்களைப் பதிவேற்றவும் (விரும்பினால்)</s:String>
     <s:String x:Key="S.Options.Upload.Pick.Details.Info">விவரங்களைப் பதிவேற்றவும்</s:String>
     <s:String x:Key="S.Options.Upload.Pick.Details.Title">தலைப்பு:</s:String>
@@ -560,7 +560,7 @@
     <s:String x:Key="S.Options.Upload.Pick.Details.Tags.Info">அரை-பெருங்குடலைப் பயன்படுத்தி குறிச்சொற்களைப் பிரிக்கவும் ( ; )</s:String>
     <s:String x:Key="S.Options.Upload.Pick.Details.Private">நேரடி இணைப்பு வழியாக அணுகுபவர்களுக்கு மட்டும் காட்சி.</s:String>
     
-    <!--விருப்பங்கள் • பதிவேற்றம் > வரலாறு-->
+    <!--Options • Upload > History-->
     <s:String x:Key="S.Options.Upload.History.Title">பதிவேற்ற வரலாறு</s:String>
     <s:String x:Key="S.Options.Upload.History.Date">தேதி</s:String>
     <s:String x:Key="S.Options.Upload.History.Preset">முன்னமைவு</s:String>
@@ -570,14 +570,14 @@
     <s:String x:Key="S.Options.Upload.History.Detail.LowerQuality">குறைந்த தரம்:</s:String>
     <s:String x:Key="S.Options.Upload.History.Detail.DeleteLink">நீக்குதல் இணைப்பு:</s:String>
     <s:String x:Key="S.Options.Upload.History.Delete.Instruction">வரலாறு உள்ளீட்டை நிச்சயமாக நீக்க விரும்புகிறீர்களா?</s:String>
-    <s:String x:Key="S.Options.Upload.History.Delete.Message">இந்த செயலை செயல்தவிர்க்க முடியாது.&amp;#10;&amp;#10;தேர்ந்தெடுக்கப்பட்ட வரலாற்று உள்ளீட்டை நீக்க விரும்புகிறீர்களா?</s:String>
+    <s:String x:Key="S.Options.Upload.History.Delete.Message">இந்த செயலை செயல்தவிர்க்க முடியாது.&#10;&#10;தேர்ந்தெடுக்கப்பட்ட வரலாற்று உள்ளீட்டை நீக்க விரும்புகிறீர்களா?</s:String>
     
-    <!--விருப்பங்கள் • கூடுதல்-->
+    <!--Options • Extras-->
     <s:String x:Key="S.Options.Extras.External">கிடைக்கும் வெளிப்புற கருவிகள்</s:String>
-    <s:String x:Key="S.Options.Extras.Download">பதிவிறக்க இங்கே கிளிக் செய்யவும்&amp;#x0d;{0}</s:String>
+    <s:String x:Key="S.Options.Extras.Download">பதிவிறக்க இங்கே சொடுக்கவும்&#x0d;{0}</s:String>
     <s:String x:Key="S.Options.Extras.Downloading">பதிவிறக்கப்படுகிறது...</s:String>
-    <s:String x:Key="S.Options.Extras.Ready">பதிவிறக்கப்பட்டது&amp;#x0d;{0}</s:String>
-    <s:String x:Key="S.Options.Extras.Ready.Info">கோப்பின் பண்புகளைத் திறக்க இங்கே கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.Options.Extras.Ready">பதிவிறக்கப்பட்டது&#x0d;{0}</s:String>
+    <s:String x:Key="S.Options.Extras.Ready.Info">கோப்பின் பண்புகளைத் திறக்க இங்கே சொடுக்கவும்.</s:String>
     <s:String x:Key="S.Options.Extras.DownloadRestriction">Microsoft Store மூலம் விநியோகிக்கப்படும் பயன்பாடுகள் பிற பயன்பாடுகளைப் பதிவிறக்க முடியாது. நீங்கள் அதை கைமுறையாக பதிவிறக்கம் செய்ய வேண்டும்.</s:String>
     <s:String x:Key="S.Options.Extras.FfmpegLocation">FFmpeg இருப்பிடம்</s:String>
     <s:String x:Key="S.Options.Extras.FfmpegLocation.Select">FFmpeg இயங்கக்கூடிய இடத்தைத் தேர்ந்தெடுக்கவும்</s:String>
@@ -592,9 +592,9 @@
     <s:String x:Key="S.Options.Extras.License.Gifski">Gifski உரிமம்</s:String>
     <s:String x:Key="S.Options.Extras.License.SharpDx">SharpDx உரிமம்</s:String>
     <s:String x:Key="S.Options.Extras.Permission.Header">கோப்புறையில் எழுத அனுமதி இல்லை</s:String>
-    <s:String x:Key="S.Options.Extras.Permission.Observation">எழுதுவதற்கு அனுமதி இல்லாததால், பதிவிறக்கத்தை கோப்புறையில் சேமிக்க முடியாது.&amp;#10;&amp;#10;செய்வீர்களா? பதிவிறக்கத்தை முடிக்க நிர்வாக உரிமைகளுடன் டவுன்லோடரை தொடங்க விரும்புகிறீர்களா?</s:String>
+    <s:String x:Key="S.Options.Extras.Permission.Observation">எழுதுவதற்கு அனுமதி இல்லாததால், பதிவிறக்கத்தை கோப்புறையில் சேமிக்க முடியாது.&#10;&#10;செய்வீர்களா? பதிவிறக்கத்தை முடிக்க நிர்வாக உரிமைகளுடன் டவுன்லோடரை தொடங்க விரும்புகிறீர்களா?</s:String>
     
-    <!--விருப்பங்கள் • நன்கொடைகள்-->
+    <!--Options • Donations-->
     <s:String x:Key="S.Options.Donate.Donate">நன்கொடை</s:String>
     <s:String x:Key="S.Options.Donate.Donate.Dollar">அமெரிக்க டாலர் நன்கொடை</s:String>
     <s:String x:Key="S.Options.Donate.Donate.Euro">நன்கொடை €</s:String>
@@ -603,7 +603,7 @@
     <s:String x:Key="S.Options.Donate.Paypal.OwnCurrency">பேபால் இணையதளத்தைத் திறக்கும். நீங்கள் நாணயத்தைத் தேர்ந்தெடுக்க வேண்டும்.</s:String>
     <s:String x:Key="S.Options.Donate.Subscribe">குழுசேர்</s:String>
     <s:String x:Key="S.Options.Donate.Subscribe.Patreon">Patreon வழியாக மாதந்தோறும் நன்கொடை அளிக்கவும்.</s:String>
-    <s:String x:Key="S.விருப்பம்s.Donate.Stripe">Stripe வழியாக நன்கொடை.</s:String>
+    <s:String x:Key="S.Options.Donate.Stripe">உரிப்பதன் மூலம் கொடை.</s:String>
     <s:String x:Key="S.Options.Donate.Gift">பரிசு விளையாட்டுகள்</s:String>
     <s:String x:Key="S.Options.Donate.Gift.Steam">Steam வழியாக கிஃப்ட் கேம்கள்.</s:String>
     <s:String x:Key="S.Options.Donate.Gift.Gog">GOG வழியாக கிஃப்ட் கேம்கள்.</s:String>
@@ -613,7 +613,7 @@
     <s:String x:Key="S.Options.Donate.Support">ஆதரவு</s:String>
     <s:String x:Key="S.Options.Donate.Support.Visit">திட்டத்தை ஆதரிக்க விரும்பினால் :)</s:String>
     
-    <!--விருப்பங்கள் • பற்றி-->
+    <!--Options • About-->
     <s:String x:Key="S.Options.About.Version">பதிப்பு:</s:String>
     <s:String x:Key="S.Options.About.UpdateCheck">புதுப்பிப்புகளைச் சரிபார்க்கவும்</s:String>
     <s:String x:Key="S.Options.About.UpdateCheck.Nothing">உங்களிடம் ஏற்கனவே சமீபத்திய பதிப்பு உள்ளது.</s:String>
@@ -631,7 +631,7 @@
     <s:String x:Key="S.Options.About.ABigThanksTo">இதற்கு ஒரு பெரிய நன்றி</s:String>
     <s:String x:Key="S.Options.About.ABigThanksTo.Everyone">எனது ஆதரவாளர்கள், கருத்து மற்றும்/அல்லது நன்கொடைகளை வழங்கியவர்கள்.</s:String>
     
-    <!--உள்ளூர்மயமாக்கல்-->
+    <!--Localization-->
     <s:String x:Key="S.Localization">உள்ளூர்மயமாக்கல்</s:String>
     <s:String x:Key="S.Localization.GettingCodes">மொழிக் குறியீடுகளைப் பெறுகிறது...</s:String>
     <s:String x:Key="S.Localization.Recognized">{0} என அங்கீகரிக்கப்பட்டது</s:String>
@@ -652,8 +652,8 @@
     <s:String x:Key="S.Localization.Warning.Unknown">தெரியாத மொழி</s:String>
     <s:String x:Key="S.Localization.Warning.Unknown.Info">"{0}" மற்றும் அதன் குடும்பம் சரியான மொழிக் குறியீடுகளாக அங்கீகரிக்கப்படவில்லை.</s:String>
     <s:String x:Key="S.Localization.Warning.NotPossible">உள்ளூர்மயமாக்கல் ஆதாரத்தை இறக்குமதி செய்ய முடியவில்லை.</s:String>
-    
-    <!--ரெக்கார்டர்-->
+
+    <!--Recorder-->
     <s:String x:Key="S.Recorder.Record">பதிவு</s:String>
     <s:String x:Key="S.Recorder.Pause">இடைநிறுத்தம்</s:String>
     <s:String x:Key="S.Recorder.Continue">தொடரவும்</s:String>
@@ -663,24 +663,24 @@
     <s:String x:Key="S.Recorder.Height">உயரம்</s:String>
     <s:String x:Key="S.Recorder.Width">அகலம்</s:String>
     <s:String x:Key="S.Recorder.CursorFollowing">பின்வரும் கர்சர் இயக்கப்பட்டது.</s:String>
-    
-    <s:String x:Key="S.Recorder.SwitchFrequency">பிடிப்பு அதிர்வெண் முறைகளுக்கு இடையே மாற கிளிக் செய்யவும்.</s:String>
+
+    <s:String x:Key="S.Recorder.SwitchFrequency">பிடிப்பு அதிர்வெண் முறைகளுக்கு இடையே மாற சொடுக்கவும்.</s:String>
     <s:String x:Key="S.Recorder.Manual.Short">கையேடு</s:String>
     <s:String x:Key="S.Recorder.Interaction.Short">ஊடாடல்கள்</s:String>
     <s:String x:Key="S.Recorder.Fps">ஒரு நொடிக்கு அதிகபட்ச பிரேம்கள்</s:String>
     <s:String x:Key="S.Recorder.Fps.Short">fps</s:String>
-    <s:String x:Key="S.Recorder.Fps.Range">1 முதல் 60 எஃப்.பி.எஸ் வரையிலான வரம்புகள், அதிக மதிப்புகள் அதாவது அதிக பிரேம்கள் கைப்பற்றப்படும்.&amp;#10;ஒவ்வொரு அதிகரிப்பும் 16 மில்லி விநாடிகள் வித்தியாசத்தைக் குறிக்கிறது.</s:String>
+    <s:String x:Key="S.Recorder.Fps.Range">1 முதல் 60 எஃப்.பி.எஸ் வரையிலான வரம்புகள், அதிக மதிப்புகள் அதாவது அதிக பிரேம்கள் கைப்பற்றப்படும்.&#10;ஒவ்வொரு அதிகரிப்பும் 16 மில்லி விநாடிகள் வித்தியாசத்தைக் குறிக்கிறது.</s:String>
     <s:String x:Key="S.Recorder.Fpm">ஒரு நிமிடத்திற்கு அதிகபட்ச பிரேம்கள்</s:String>
     <s:String x:Key="S.Recorder.Fpm.Short">fpm</s:String>
-    <s:String x:Key="S.Recorder.Fpm.Range">1 முதல் 60 fpm வரையிலான வரம்புகள், அதிக மதிப்புகள் கொண்ட அதிக பிரேம்கள் கைப்பற்றப்படும்.&amp;#10;ஒவ்வொரு அதிகரிப்பும் 1 வினாடி வித்தியாசத்தைக் குறிக்கிறது.</s:String>
+    <s:String x:Key="S.Recorder.Fpm.Range">1 முதல் 60 fpm வரையிலான வரம்புகள், அதிக மதிப்புகள் கொண்ட அதிக பிரேம்கள் கைப்பற்றப்படும்.&#10;ஒவ்வொரு அதிகரிப்பும் 1 வினாடி வித்தியாசத்தைக் குறிக்கிறது.</s:String>
     <s:String x:Key="S.Recorder.Fph">ஒரு மணிநேரத்திற்கு அதிகபட்ச பிரேம்கள்</s:String>
     <s:String x:Key="S.Recorder.Fph.Short">fph</s:String>
-    <s:String x:Key="S.Recorder.Fph.Range">1 முதல் 60 fph வரையிலான வரம்புகள், அதிக மதிப்புகள் கொண்ட அதிக பிரேம்கள் கைப்பற்றப்படும்.&amp;#10;ஒவ்வொரு அதிகரிப்பும் 1 நிமிட வித்தியாசத்தைக் குறிக்கிறது.</s:String>
+    <s:String x:Key="S.Recorder.Fph.Range">1 முதல் 60 fph வரையிலான வரம்புகள், அதிக மதிப்புகள் கொண்ட அதிக பிரேம்கள் கைப்பற்றப்படும்.&#10;ஒவ்வொரு அதிகரிப்பும் 1 நிமிட வித்தியாசத்தைக் குறிக்கிறது.</s:String>
     
-    <s:String x:Key="S.Recorder.ClickOrPress">பிடிக்க விசைகளைக் கிளிக் செய்யவும் அல்லது அழுத்தவும்</s:String>
+    <s:String x:Key="S.Recorder.ClickOrPress">பிடிக்க விசைகளைக் சொடுக்கவும் அல்லது அழுத்தவும்</s:String>
     <s:String x:Key="S.Recorder.SnapToWindow">சாளரத்திற்கு ஸ்னாப் செய்யவும் (ஸ்னாப் செய்ய இழுத்து விடுங்கள்)</s:String>
     <s:String x:Key="S.Recorder.PreStart">முன் தொடக்கம்:</s:String>
-    <s:String x:Key="S.Recorder.Paused">ScreenToGif (இடைநிறுத்தப்பட்டது)</s:String>
+    <s:String x:Key="S.Recorder.Paused">திரைபிடிபடம் (இடைநிறுத்தப்பட்டது)</s:String>
     <s:String x:Key="S.Recorder.Stopping">நிறுத்துகிறது...</s:String>
     <s:String x:Key="S.Recorder.PreStarting">முன்-தொடக்கம்...</s:String>
     
@@ -688,14 +688,14 @@
     <s:String x:Key="S.Recorder.Timer.Total">மொத்த பிரேம் எண்ணிக்கை:</s:String>
     <s:String x:Key="S.Recorder.Timer.Manual">கைமுறையாகப் பிடிக்கப்பட்டது:</s:String>
     <s:String x:Key="S.Recorder.Timer.Paused">பிடிப்பு இடைநிறுத்தப்பட்டது.</s:String>
-    <s:String x:Key="S.Recorder.Timer.Imprecise">உங்கள் கணினி துல்லியமான பிடிப்பு பயன்முறையை ஆதரிக்கவில்லை,&amp;#10;இதன் அர்த்தம், இலக்கு பிரேம் வீதத்தை ஒருபோதும் அடைய முடியாது.</s:String >
+    <s:String x:Key="S.Recorder.Timer.Imprecise">உங்கள் கணினி துல்லியமான பிடிப்பு பயன்முறையை ஆதரிக்கவில்லை,&#10;இதன் அர்த்தம், இலக்கு பிரேம் வீதத்தை ஒருபோதும் அடைய முடியாது.</s:String>
     
     <s:String x:Key="S.Recorder.Warning.CaptureNotPossible">திரையைப் பிடிக்க முடியவில்லை</s:String>
     <s:String x:Key="S.Recorder.Warning.CaptureNotPossible.Info">திரையைப் பிடிக்க முடியவில்லை. பிடிப்பு முறை 5 முயற்சிகளுக்குப் பிறகு எந்த சட்டத்தையும் தரவில்லை.</s:String>
     <s:String x:Key="S.Recorder.Warning.StartPauseNotPossible">திரையைக் கைப்பற்றுவதைத் தொடங்க/இடைநிறுத்த முடியவில்லை</s:String>
-    <s:String x:Key="S.Recorder.Warning.Windows8">டெஸ்க்டாப் டூப்ளிகேஷன் API ஐப் பயன்படுத்தி திரையைப் பிடிக்க Windows 8 அல்லது புதியது தேவை.</s:String>
-    
-    <!--புதிய ரெக்கார்டர்-->
+    <s:String x:Key="S.Recorder.Warning.Windows8">திரைப்பலகம் டூப்ளிகேஷன் API ஐப் பயன்படுத்தி திரையைப் பிடிக்க Windows 8 அல்லது புதியது தேவை.</s:String>
+
+    <!--New recorder-->
     <s:String x:Key="S.Recorder.Area">பகுதி</s:String>
     <s:String x:Key="S.Recorder.Area.Select">ஒரு பகுதியை தேர்ந்தெடு</s:String>
     <s:String x:Key="S.Recorder.Window">சாளரம்</s:String>
@@ -711,34 +711,34 @@
     <s:String x:Key="S.Recorder.Move">தேர்வை நகர்த்த இழுக்கவும்.</s:String>
     <s:String x:Key="S.Recorder.Accept">ஏற்கிறேன்</s:String>
     <s:String x:Key="S.Recorder.Retry">மீண்டும் முயற்சிக்கவும்</s:String>
-    <s:String x:Key="S.Recorder.Retry.Shortcut">வலது கிளிக்</s:String>
-    <s:String x:Key="S.Recorder.CancelSelection">தேர்வை ரத்துசெய் (Esc)</s:String>
-    <s:String x:Key="S.Recorder.SelectArea">இந்தத் திரையின் பகுதியைத் தேர்ந்தெடுக்க கிளிக் செய்து இழுக்கவும்</s:String>
-    <s:String x:Key="S.Recorder.SelectArea.Embedded">ஒரு பகுதியைத் தேர்ந்தெடுக்க கிளிக் செய்து இழுக்கவும்</s:String>
-    <s:String x:Key="S.Recorder.SelectWindow">இந்தச் சாளரத்தைத் தேர்ந்தெடுக்க இங்கே கிளிக் செய்யவும்</s:String>
-    <s:String x:Key="S.Recorder.SelectScreen">இந்தத் திரையைத் தேர்ந்தெடுக்க இங்கே கிளிக் செய்யவும்</s:String>
-    <s:String x:Key="S.Recorder.EscToCancel">ரத்து செய்ய Esc ஐ அழுத்தவும்</s:String>
+    <s:String x:Key="S.Recorder.Retry.Shortcut">வலது சொடுக்கம்</s:String>
+    <s:String x:Key="S.Recorder.CancelSelection">தேர்வை கைவிடு (Esc)</s:String>
+    <s:String x:Key="S.Recorder.SelectArea">இந்தத் திரையின் பகுதியைத் தேர்ந்தெடுக்க சொடுக்கம் செய்து இழுக்கவும்</s:String>
+    <s:String x:Key="S.Recorder.SelectArea.Embedded">ஒரு பகுதியைத் தேர்ந்தெடுக்க சொடுக்கம் செய்து இழுக்கவும்</s:String>
+    <s:String x:Key="S.Recorder.SelectWindow">இந்தச் சாளரத்தைத் தேர்ந்தெடுக்க இங்கே சொடுக்கவும்</s:String>
+    <s:String x:Key="S.Recorder.SelectScreen">இந்தத் திரையைத் தேர்ந்தெடுக்க இங்கே சொடுக்கவும்</s:String>
+    <s:String x:Key="S.Recorder.EscToCancel">கைவிட Esc ஐ அழுத்தவும்</s:String>
     <s:String x:Key="S.Recorder.Splash.Title">பதிவை நிறுத்த {0}ஐ அழுத்தவும்</s:String>
-    <s:String x:Key="S.Recorder.Splash.Subtitle">ரெக்கார்டர் சாளரம் குறைக்கப்படும்,&amp;#10;அதை மீட்டெடுக்கவும் அல்லது பிடிப்பை இடைநிறுத்த {0}ஐ அழுத்தவும்</s:String>
+    <s:String x:Key="S.Recorder.Splash.Subtitle">பதிப்பாளர் சாளரம் குறைக்கப்படும்,&#10;அதை மீட்டெடுக்கவும் அல்லது பிடிப்பை இடைநிறுத்த {0}ஐ அழுத்தவும்</s:String>
     
     <s:String x:Key="S.Recorder.Discard.Title">பதிவை நிராகரி</s:String>
     <s:String x:Key="S.Recorder.Discard.Instruction">ரெக்கார்டிங்கை நிராகரிக்க விரும்புகிறீர்களா?</s:String>
-    <s:String x:Key="S.Recorder.Discard.Message">இந்தச் செயல் ரெக்கார்டிங்கை நிராகரித்து, அனைத்து ஃப்ரேம்களையும் அகற்றும்.&amp;#x0d;இந்தச் செயல்பாட்டைச் செயல்தவிர்க்க முடியாது.</s:String>
+    <s:String x:Key="S.Recorder.Discard.Message">இந்தச் செயல் ரெக்கார்டிங்கை நிராகரித்து, அனைத்து ஃப்ரேம்களையும் அகற்றும்.&#x0d;இந்தச் செயல்பாட்டைச் செயல்தவிர்க்க முடியாது.</s:String>
     
-    <!--வெப்கேம் ரெக்கார்டர்-->
-    <s:String x:Key="S.Webcam.Title">ScreenToGif - வெப்கேம் ரெக்கார்டர்</s:String>
+    <!--Webcam recorder-->
+    <s:String x:Key="S.Webcam.Title">திரைபிடிபடம் - வலைஒளி பதிப்பாளர்</s:String>
     <s:String x:Key="S.Webcam.NoVideo">இல்லை video சாதனம் கண்டறியப்பட்டது :(</s:String>
     <s:String x:Key="S.Webcam.CheckVideoDevices">வீடியோ சாதனங்களைச் சரிபார்க்கவும்.</s:String>
     <s:String x:Key="S.Webcam.Scale">அளவு: {0:0.##}x</s:String>
     <s:String x:Key="S.Webcam.ChangeScale">வீடியோவின் அளவை மாற்றவும்.</s:String>
     
-    <!--போர்டு ரெக்கார்டர்-->
-    <s:String x:Key="S.Board.Title">ScreenToGif - போர்டு ரெக்கார்டர்</s:String>
+    <!--Board recorder-->
+    <s:String x:Key="S.Board.Title">திரைபிடிபடம் - பலகை பதிப்பாளர்</s:String>
     <s:String x:Key="S.Board.AutoRecord">தானியங்கு பதிவு</s:String>
     <s:String x:Key="S.Board.AutoRecordToolTip">வரையும்போது பதிவு செய்வதை இயக்குகிறது.</s:String>
-    <s:String x:Key="S.Board.CtrlHold">Ctrl [Hold]</s:String>
+    <s:String x:Key="S.Board.CtrlHold">Ctrl [பிடி]</s:String>
     
-    <!--வண்ணத் தேர்வி-->
+    <!--Color selector-->
     <s:String x:Key="S.ColorSelector.Title">வண்ணத் தேர்வி</s:String>
     <s:String x:Key="S.ColorSelector.Select">ஒரு வண்ணத்தைத் தேர்ந்தெடு</s:String>
     <s:String x:Key="S.ColorSelector.Red">சிவப்பு</s:String>
@@ -749,10 +749,10 @@
     <s:String x:Key="S.ColorSelector.Initial">இனிஷியல் கலர்</s:String>
     <s:String x:Key="S.ColorSelector.Current">தற்போதைய நிறம்</s:String>
     <s:String x:Key="S.ColorSelector.Latest">சமீபத்திய நிறம்</s:String>
-    <s:String x:Key="S.ColorSelector.Sample">இதை&amp;#x0d;மாதிரி வண்ணங்களுக்கு இழுக்கவும்</s:String>
-    <s:String x:Key="S.ColorSelector.Sample.Info">உங்கள் திரையில் இருந்து&amp;#x0d;வண்ணங்களை எடுக்க கிளிக் செய்து இழுக்கவும்.</s:String>
+    <s:String x:Key="S.ColorSelector.Sample">இதை&#x0d;மாதிரி வண்ணங்களுக்கு இழுக்கவும்</s:String>
+    <s:String x:Key="S.ColorSelector.Sample.Info">உங்கள் திரையில் இருந்து&#x0d;வண்ணங்களை எடுக்க சொடுக்கம் செய்து இழுக்கவும்.</s:String>
     
-    <!--விதிவிலக்கு/பிழை பார்வையாளர்கள்-->
+    <!--Exception/Error viewers-->
     <s:String x:Key="S.ExceptionViewer.Title">விதிவிலக்கு பார்வையாளர்</s:String>
     <s:String x:Key="S.ExceptionViewer.OpenInner">திறந்த உள் விதிவிலக்கு</s:String>
     <s:String x:Key="S.ExceptionViewer.Type">விதிவிலக்கு வகை</s:String>
@@ -761,8 +761,8 @@
     <s:String x:Key="S.ExceptionViewer.Source">ஆதாரம்</s:String>
     <s:String x:Key="S.ErrorDialog.Observation">ஏதோ தவறு நடந்தது.</s:String>
     <s:String x:Key="S.ErrorDialog.Send">அறிக்கையை அனுப்பு</s:String>
-    
-    <!--முன்னமைவுகள்-->
+
+    <!--Presets-->
     <s:String x:Key="S.Preset.Title">முன்னமைவு</s:String>
     <s:String x:Key="S.Preset.Encoder">குறியாக்கி</s:String>
     <s:String x:Key="S.Preset.Name">பெயர்</s:String>
@@ -775,7 +775,7 @@
     <s:String x:Key="S.Preset.Warning.Name">இந்த முன்னமைவுக்கு நீங்கள் ஒரு பெயரைக் கொடுக்க வேண்டும்.</s:String>
     <s:String x:Key="S.Preset.Warning.SameName">அதே பெயரில் ஏற்கனவே ஒரு முன்னமைவு உள்ளது.</s:String>
     
-    <!--முன்னமைவுகள் • பட்டியல்-->
+    <!--Presets • Listing-->
     <s:String x:Key="S.Preset.Autosave">தானியங்கி சேமிப்புகள்</s:String>
     <s:String x:Key="S.Preset.Autosave.Info">இந்த முன்னமைவுக்கான மாற்றங்கள் தானாகவே சேமிக்கப்படும்.</s:String>
     <s:String x:Key="S.Preset.Default.Title">இயல்புநிலை ({0})</s:String>
@@ -790,14 +790,14 @@
     <s:String x:Key="S.Preset.Filename.Video">வீடியோ</s:String>
     <s:String x:Key="S.Preset.Filename.Image">படம்</s:String>
     <s:String x:Key="S.Preset.Filename.Project">திட்டம்</s:String>
-    
+
     <s:String x:Key="S.Preset.Gif.Embedded.High.Title">உயர் தரம்</s:String>
     <s:String x:Key="S.Preset.Gif.Embedded.High.Description">அதிக வண்ணங்கள் மற்றும் சாய்வுகளுடன் கூடிய பதிவுகளுக்கு மிகவும் பொருத்தமானது.</s:String>
     <s:String x:Key="S.Preset.Gif.Embedded.Transparent.Title">உயர் தரம் • வெளிப்படையான பின்புலம்</s:String>
     <s:String x:Key="S.Preset.Gif.Embedded.Transparent.Description">வெளிப்படையான பின்புலத்துடன் அனிமேஷனைச் சேமிப்பதை ஆதரிக்கிறது.</s:String>
     <s:String x:Key="S.Preset.Gif.Embedded.Graphics.Title">உயர் தரம் • கிராபிக்ஸ்</s:String>
     <s:String x:Key="S.Preset.Gif.Embedded.Graphics.Description">குறைந்த அளவிலான வண்ணங்களைக் கொண்ட பதிவுகளுக்கு சிறந்தது.</s:String>
-    <s:String x:Key="S. முன்னமைவு.Gif.KGySoft.Default.Title">KGy SOFT • இயல்புநிலை</s:String>
+    <s:String x:Key="S.Preset.Gif.KGySoft.Default.Title">கேசிஒய் மென் • இயல்பான</s:String>
     <s:String x:Key="S.Preset.Gif.KGySoft.Default.Description">வழக்கமான UI இன் திரைப் பதிவுக்காகப் பரிந்துரைக்கப்படுகிறது. மீடியன் கட் குவாண்டிசரை டிதர் இல்லாமல் பயன்படுத்துகிறது.</s:String>
     <s:String x:Key="S.Preset.Gif.KGySoft.Balanced.Title">KGy SOFT • சமப்படுத்தப்பட்டது</s:String>
     <s:String x:Key="S.Preset.Gif.KGySoft.Balanced.Description">புகைப்படம் போன்ற படங்களுக்கு, வூவின் குவாண்டிசரைப் பயன்படுத்தி, சிதையாமல் நல்ல தரம்.</s:String>
@@ -815,7 +815,7 @@
     <s:String x:Key="S.Preset.Gif.Gifski.Low.Description">படத்தின் தரம் குறைவு, ஆனால் சிறிய கோப்பு அளவு.</s:String>
     <s:String x:Key="S.Preset.Gif.Gifski.Fast.Title">Gifski • குறைந்த தரம் மற்றும் வேகமான குறியாக்கம்</s:String>
     <s:String x:Key="S.Preset.Gif.Gifski.Fast.Description">இன்னும் குறைவான பட தரம், வேகமான குறியாக்கத்துடன், ஆனால் சிறிய கோப்பு அளவுடன்.</s:String>
-    <s:String x:Key="S.Preset.Gif.System.Low.Title">சிஸ்டம் • குறைந்த தரம்</s:String>
+    <s:String x:Key="S.Preset.Gif.System.Low.Title">கணினி • குறைந்த தரம்</s:String>
     <s:String x:Key="S.Preset.Gif.System.Low.Description">குறைந்த தரம் ஆனால் வேகமான குறியாக்கம்.</s:String>
     
     <s:String x:Key="S.Preset.Apng.Ffmpeg.High.Title">FFmpeg • உயர் தரம்</s:String>
@@ -825,26 +825,26 @@
     <s:String x:Key="S.Preset.Webp.Ffmpeg.High.Title">உயர் தரம்</s:String>
     <s:String x:Key="S.Preset.Webp.Ffmpeg.High.Description">உயர் பட தரம் மற்றும் சிறிய கோப்பு அளவு.</s:String>
     
-    <!--சட்டங்களைச் செருகவும்-->
+    <!--Insert frames-->
     <s:String x:Key="S.InsertFrames.Title">பிரேம்களைச் செருகு</s:String>
-    <s:String x:Key="S.InsertFrames.Info">இருபுறமும் ஒரே அளவு இருக்க வேண்டும், இந்தச் சாளரம் படத்தையும் கேன்வாஸையும் மாற்றவும், அளவை மாற்றவும் உங்களை அனுமதிக்கிறது. தேர்ந்தெடுத்து அளவை மாற்ற கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.InsertFrames.Info">இருபுறமும் ஒரே அளவு இருக்க வேண்டும், இந்தச் சாளரம் படத்தையும் கேன்வாஸையும் மாற்றவும், அளவை மாற்றவும் உங்களை அனுமதிக்கிறது. தேர்ந்தெடுத்து அளவை மாற்ற சொடுக்கவும்.</s:String>
     <s:String x:Key="S.InsertFrames.CanvasSize">கேன்வாஸ் அளவு:</s:String>
-    <s:String x:Key="S.InsertFrames.FitCanvas">கேன்வாஸில் படத்தை பொருத்து&amp;#10;</s:String>
+    <s:String x:Key="S.InsertFrames.FitCanvas">கேன்வாஸில் படத்தை பொருத்து&#10;</s:String>
     <s:String x:Key="S.InsertFrames.FitCanvas.Info">இரு படங்களையும் உள்ளே (மேல் இடது மூலையில் இருந்து) பொருத்தும் வகையில் கேன்வாஸின் அளவை மாற்றுகிறது.</s:String>
     <s:String x:Key="S.InsertFrames.DifferentSizes">சட்ட ​​அளவுகளுக்கு இடையே வேறுபாடு உள்ளது. சட்டங்களைச் செருகுவதற்கு முன் இதை நீங்கள் தீர்க்க வேண்டும்.</s:String>
     <s:String x:Key="S.InsertFrames.InsertedFrames">புதிய சட்டகம்(கள்)</s:String>
     <s:String x:Key="S.InsertFrames.CurrentFrames">தற்போதைய சட்டகம்(கள்)</s:String>
     <s:String x:Key="S.InsertFrames.ImageSize">பட அளவு:</s:String>
     <s:String x:Key="S.InsertFrames.ImagePosition">பட நிலை:</s:String>
-    <s:String x:Key="S.InsertFrames.ResetImageSizePosition">பட அளவு&amp;#x0d;மற்றும் நிலையை மீட்டமை</s:String>
+    <s:String x:Key="S.InsertFrames.ResetImageSizePosition">பட அளவு&#x0d;மற்றும் நிலையை மீட்டமை</s:String>
     <s:String x:Key="S.InsertFrames.Info2">இந்த நிலையில் உள்ள சட்டங்களின் தற்போதைய பட்டியலில் புதிய ஃப்ரேம்கள் செருகப்படும்:</s:String>
     <s:String x:Key="S.InsertFrames.Before">முன்</s:String>
     <s:String x:Key="S.InsertFrames.After">பிறகு</s:String>
     <s:String x:Key="S.InsertFrames.Frame">பிரேம்</s:String>
     <s:String x:Key="S.InsertFrames.Importing">இறக்குமதி செய்கிறது...</s:String>
     <s:String x:Key="S.InsertFrames.SelectColorFill">கேன்வாஸ் நிரப்பு நிறத்தைத் தேர்ந்தெடுக்கவும்</s:String>
-    
-    <!--வீடியோவிலிருந்து பிரேம்களை இறக்குமதி செய்-->
+
+    <!--Import frames from video-->
     <s:String x:Key="S.ImportVideo.Title">வீடியோவிலிருந்து பிரேம்களை இறக்குமதி செய்</s:String>
     <s:String x:Key="S.ImportVideo.Importer">இறக்குமதியாளர்:</s:String>
     <s:String x:Key="S.ImportVideo.Loading">ஏற்றப்படுகிறது...</s:String>
@@ -864,19 +864,19 @@
     <s:String x:Key="S.ImportVideo.Timeout">சட்ட ​​முன்னோட்டத்தைப் பெறுவதற்கான நேரம் முடிந்தது.</s:String>
     <s:String x:Key="S.ImportVideo.Nothing">இறக்குமதி செய்ய எந்த சட்டமும் தேர்ந்தெடுக்கப்படவில்லை.</s:String>
     
-    <!--என்கோடர்-->
+    <!--Encoder-->
     <s:String x:Key="S.Encoder.Title">குறியாக்கி</s:String>
     <s:String x:Key="S.Encoder.Encoding">குறியீடு...</s:String>
     <s:String x:Key="S.Encoder.Starting">தொடங்குகிறது</s:String>
     
     <s:String x:Key="S.Encoder.Completed">முடிந்தது</s:String>
-    <s:String x:Key="S.Encoder.Completed.Clipboard">கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது</s:String>
+    <s:String x:Key="S.Encoder.Completed.Clipboard">கிளிப்பலகைக்கு நகலெடுக்கப்பட்டது</s:String>
     <s:String x:Key="S.Encoder.Completed.Clipboard.Fail">நகலெடுப்பதில் தோல்வி</s:String>
     <s:String x:Key="S.Encoder.Completed.Command">கட்டளை செயல்படுத்தப்பட்டது</s:String>
     <s:String x:Key="S.Encoder.Completed.Command.Output">கட்டளை(களின்) வெளியீட்டைக் காட்டு.</s:String>
     <s:String x:Key="S.Encoder.Completed.Command.Fail">கட்டளையை இயக்குவதில் தோல்வி</s:String>
     <s:String x:Key="S.Encoder.Completed.Upload.Fail">பதிவேற்றுவதில் தோல்வி</s:String>
-    <s:String x:Key="S.Encoder.Completed.Upload.Delete">Ctrl + படத்தை நீக்க பக்கத்தைத் திறக்க கிளிக் செய்யவும் (கிடைத்தால்)</s:String>
+    <s:String x:Key="S.Encoder.Completed.Upload.Delete">Ctrl + படத்தை நீக்க பக்கத்தைத் திறக்க சொடுக்கவும் (கிடைத்தால்)</s:String>
     
     <s:String x:Key="S.Encoder.Completed.Elapsed">கடந்த நேரம், நிமிடங்களில்:</s:String>
     <s:String x:Key="S.Encoder.Completed.Elapsed.Analysis">பகுப்பாய்வு:</s:String>
@@ -886,9 +886,9 @@
     <s:String x:Key="S.Encoder.Completed.Elapsed.Commands">கட்டளைகள்:</s:String>
     
     <s:String x:Key="S.Encoder.DeletedMoved">கோப்பு நீக்கப்பட்டது அல்லது நகர்த்தப்பட்டது</s:String>
-    <s:String x:Key="S.Encoder.Canceled">ரத்து செய்யப்பட்டது</s:String>
+    <s:String x:Key="S.Encoder.Canceled">கைவிடப்பட்டது</s:String>
     <s:String x:Key="S.Encoder.Error">பிழை</s:String>
-    <s:String x:Key="S.Encoder.Error.Info">இந்தப் பிழையின் விவரங்களைக் காட்ட இங்கே கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.Encoder.Error.Info">இந்தப் பிழையின் விவரங்களைக் காட்ட இங்கே சொடுக்கவும்.</s:String>
     <s:String x:Key="S.Encoder.Uploading">பதிவேற்றுகிறது</s:String>
     <s:String x:Key="S.Encoder.Executing">கட்டளைகளை இயக்குதல்</s:String>
     <s:String x:Key="S.Encoder.Processing">செயலாக்குகிறது {0}</s:String>
@@ -902,22 +902,22 @@
     <s:String x:Key="S.Encoder.Remove">பட்டியலிலிருந்து அகற்று</s:String>
     <s:String x:Key="S.Encoder.Details">விவரங்களைக் காட்டு</s:String>
     <s:String x:Key="S.Encoder.Dismiss">முடிக்கப்பட்ட அனைத்து குறியாக்கங்களையும் நிராகரி</s:String>
-    
+
     <s:String x:Key="S.Encoder.Copy.Image">படமாக நகலெடு</s:String>
     <s:String x:Key="S.Encoder.Copy.Filename">கோப்பின் பெயரை நகலெடு</s:String>
     <s:String x:Key="S.Encoder.Copy.Folder">கோப்புறை பாதையை நகலெடு</s:String>
     <s:String x:Key="S.Encoder.Copy.Link">இணைப்பை நகலெடு</s:String>
     
-    <!--கட்டளை வெளியீடு-->
-    <s:String x:Key="S.Encoder.Command.Title">ScreenToGif - கட்டளை வெளியீடு</s:String>
+    <!--Command output-->
+    <s:String x:Key="S.Encoder.Command.Title">திரைபிடிபடம் - கட்டளை வெளியீடு</s:String>
     <s:String x:Key="S.Encoder.Command.Header">கட்டளை வெளியீடு</s:String>
     
-    <!--அறிவிப்புகள்-->
+    <!--Notifications-->
     <s:String x:Key="S.Notifications">அறிவிப்புகள்</s:String>
     <s:String x:Key="S.Notifications.Dismiss">அனைத்து அறிவிப்புகளையும் நிராகரி</s:String>
     
-    <!--ஆசிரியர்-->
-    <s:String x:Key="S.Editor.Title">ScreenToGif - Editor</s:String>
+    <!--Editor-->
+    <s:String x:Key="S.Editor.Title">திரைபிடிபடம் - Editor</s:String>
     <s:String x:Key="S.Editor.File">கோப்பு</s:String>
     <s:String x:Key="S.Editor.Home">முகப்பு</s:String>
     <s:String x:Key="S.Editor.Playback">பிளேபேக்</s:String>
@@ -929,21 +929,21 @@
     <s:String x:Key="S.Editor.Help">உதவி</s:String>
     <s:String x:Key="S.Editor.Extras">கூடுதல்கள்</s:String>
     <s:String x:Key="S.Editor.UpdateAvailable">புதிய புதுப்பிப்பு உள்ளது!</s:String>
-    <s:String x:Key="S.Editor.UpdateAvailable.Info">அதைப் பற்றி மேலும் படிக்க இங்கே கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.Editor.UpdateAvailable.Info">அதைப் பற்றி மேலும் படிக்க இங்கே சொடுக்கவும்.</s:String>
     <s:String x:Key="S.Editor.FrameNumbersInfo">மொத்த எண்ணிக்கை, தேர்வு எண்ணிக்கை, தேர்வு அட்டவணை</s:String>
     
-    <!--எடிட்டர் • ஏற்றுகிறது-->
+    <!--Editor • Loading-->
     <s:String x:Key="S.Editor.Preparing">பிரேம்களைத் தயாரித்தல்</s:String>
     <s:String x:Key="S.Editor.InvalidLoadingFiles">தவறான ஏற்றுதல் - நீங்கள் ஒரே நேரத்தில் பல கோப்புகளை இறக்குமதி செய்ய முடியாது. ஒரே ஒரு கோப்பைத் தேர்ந்தெடுக்க முயற்சிக்கவும்.</s:String>
     <s:String x:Key="S.Editor.InvalidLoadingProjects">தவறான ஏற்றுதல் - ஒரே நேரத்தில் பல திட்டங்களை ஏற்ற முடியாது. ஒரே ஒரு திட்டத்தைத் தேர்வுசெய்ய முயற்சிக்கவும்.</s:String>
     
-    <!--எடிட்டர் • கோப்பு உரையாடல்கள் (புதிய வரி எழுத்துகளுடன் வேலை செய்யாது)-->
+    <!--Editor • File dialogs (does not work with new line characters)-->
     <s:String x:Key="S.Editor.File.OpenMedia">மீடியா (படம் அல்லது வீடியோ) கோப்பைத் திறக்கவும்</s:String>
     <s:String x:Key="S.Editor.File.OpenMediaProject">ஒரு மீடியா (படம் அல்லது வீடியோ) அல்லது திட்டக் கோப்பைத் திறக்கவும்</s:String>
     <s:String x:Key="S.Editor.File.All">அனைத்து ஆதரிக்கப்படும் கோப்புகளும்</s:String>
     <s:String x:Key="S.Editor.File.Image">படம்</s:String>
     <s:String x:Key="S.Editor.File.Video">வீடியோ</s:String>
-    
+
     <s:String x:Key="S.Editor.File.Apng">Png அனிமேஷன்</s:String>
     <s:String x:Key="S.Editor.File.Gif">Gif அனிமேஷன்</s:String>
     <s:String x:Key="S.Editor.File.Webp">Webp அனிமேஷன்</s:String>
@@ -959,66 +959,66 @@
     <s:String x:Key="S.Editor.File.Image.Png">Png படம்</s:String>
     <s:String x:Key="S.Editor.File.Image.Zip">ஜிப் கோப்பு, படங்களுடன்</s:String>
     
-    <s:String x:Key="S.Editor.File.Project">ScreenToGif திட்டம்</s:String>
-    <s:String x:Key="S.Editor.File.Project.Zip">ScreenToGif திட்டம் ஜிப்பாக</s:String>
+    <s:String x:Key="S.Editor.File.Project">திரைபிடிபடம் திட்டம்</s:String>
+    <s:String x:Key="S.Editor.File.Project.Zip">திரைபிடிபடம் திட்டம் ஜிப்பாக</s:String>
     <s:String x:Key="S.Editor.File.Psd">Psd கோப்பு</s:String>
     
-    <!--ஆசிரியர் • வரவேற்கிறோம்-->
+    <!--Editor • Welcome-->
     <s:String x:Key="S.Editor.Welcome.New">புதிய பதிவைத் தொடங்க "கோப்பு > புதியது" என்பதற்குச் செல்லவும்</s:String>
     <s:String x:Key="S.Editor.Welcome.Import">இறக்குமதி செய்ய படங்கள், வீடியோக்கள் அல்லது திட்டப்பணிகளை இழுத்து விடுங்கள்</s:String>
     <s:String x:Key="S.Editor.Welcome.ThankYou">எனது பயன்பாட்டைப் பயன்படுத்தியதற்கு மிக்க நன்றி!</s:String>
     <s:String x:Key="S.Editor.Welcome.Size">பிரேம்ரேட், வண்ண எண்ணிக்கை அல்லது பிரேம்களுக்கு இடையே ஏற்படும் மாற்றங்களின் அளவு, அளவு சிறியது</s:String>
     <s:String x:Key="S.Editor.Welcome.Contact">நீங்கள் பேச விரும்புகிறீர்களா? தொடர்பு முறைகளுக்கு "விருப்பங்கள் > பற்றி" என்பதைத் திறக்கவும்</s:String>
     <s:String x:Key="S.Editor.Welcome.Trouble">சிக்கல் உள்ளதா? பின்னூட்டக் கருவி மூலம் என்னைத் தொடர்பு கொள்ளவும்</s:String>
-    <s:String x:Key="S.Editor.Welcome.NewRecorder">புதிய ரெக்கார்டரை முயற்சிக்க விரும்புகிறீர்களா?&amp;#x0d;அதை இயக்க, "விருப்பங்கள் > ரெக்கார்டர்" என்பதற்குச் செல்லவும்.</s:String>
+    <s:String x:Key="S.Editor.Welcome.NewRecorder">புதிய ரெக்கார்டரை முயற்சிக்க விரும்புகிறீர்களா?&#x0d;அதை இயக்க, "விருப்பங்கள் > பதிப்பாளர்" என்பதற்குச் செல்லவும்.</s:String>
     
-    <!--எடிட்டர் • கோப்பு தாவல் • புதியது-->
+    <!--Editor • File tab • New-->
     <s:String x:Key="S.Editor.File.New.Recording">பதிவு செய்தல்</s:String>
-    <s:String x:Key="S.Editor.File.New.Webcam">வெப்கேம்&amp;#x0d;பதிவு</s:String>
-    <s:String x:Key="S.Editor.File.New.Board">போர்டு&amp;#x0d;பதிவு</s:String>
-    <s:String x:Key="S.Editor.File.Blank">வெற்று&amp;#x0d;திட்டம்</s:String>
+    <s:String x:Key="S.Editor.File.New.Webcam">வலைஒளி&#x0d;பதிவு</s:String>
+    <s:String x:Key="S.Editor.File.New.Board">பலகை&#x0d;பதிவு</s:String>
+    <s:String x:Key="S.Editor.File.Blank">வெற்று&#x0d;திட்டம்</s:String>
     <s:String x:Key="S.Editor.File.New">புதியது</s:String>
     
-    <!--எடிட்டர் • கோப்பு தாவல் • செருகு-->
+    <!--Editor • File tab • Insert-->
     <s:String x:Key="S.Editor.File.Insert.Recording">பதிவு செய்தல்</s:String>
-    <s:String x:Key="S.Editor.File.Insert.Webcam">வெப்கேம்&amp;#x0d;பதிவு</s:String>
-    <s:String x:Key="S.Editor.File.Insert.Board">போர்டு&amp;#x0d;பதிவு</s:String>
+    <s:String x:Key="S.Editor.File.Insert.Webcam">வலைஒளி&#x0d;பதிவு</s:String>
+    <s:String x:Key="S.Editor.File.Insert.Board">பலகை&#x0d;பதிவு</s:String>
     <s:String x:Key="S.Editor.File.Insert.Media">மீடியா</s:String>
     <s:String x:Key="S.Editor.File.Insert">செருகு</s:String>
     
-    <!--எடிட்டர் • கோப்பு தாவல் • சேமி/நிராகரி-->
+    <!--Editor • File tab • Save/Discard-->
     <s:String x:Key="S.Editor.File.Save">இவ்வாறு சேமி</s:String>
     <s:String x:Key="S.Editor.File.Load">ஏற்றம்</s:String>
-    <s:String x:Key="S.Editor.File.LoadRecent">சமீபத்திய&amp;#x0d;திட்டங்கள்</s:String>
-    <s:String x:Key="S.Editor.File.SaveProject">இவ்வாறு சேமி&amp;#x0d;Project</s:String>
-    <s:String x:Key="S.Editor.File.Discard">நிராகரி&amp;#x0d;Project</s:String>
+    <s:String x:Key="S.Editor.File.LoadRecent">சமீபத்திய&#x0d;திட்டங்கள்</s:String>
+    <s:String x:Key="S.Editor.File.SaveProject">இவ்வாறு சேமி&#x0d;Project</s:String>
+    <s:String x:Key="S.Editor.File.Discard">நிராகரி&#x0d;Project</s:String>
     
-    <!--எடிட்டர் • முகப்பு தாவல் • செயல் அடுக்கு-->
+    <!--Editor • Home tab • Action Stack-->
     <s:String x:Key="S.Editor.Home.ActionStack">செயல் அடுக்கு</s:String>
     <s:String x:Key="S.Editor.Home.Undo">செயல்தவிர்</s:String>
     <s:String x:Key="S.Editor.Home.Redo">மீண்டும் செய்</s:String>
     <s:String x:Key="S.Editor.Home.Reset">மீட்டமை</s:String>
     
-    <!--எடிட்டர் • முகப்பு தாவல் • கிளிப்போர்டு-->
-    <s:String x:Key="S.Editor.Home.Clipboard">கிளிப்போர்டு</s:String>
+    <!--Editor • Home tab • Clipboard-->
+    <s:String x:Key="S.Editor.Home.Clipboard">கிளிப்பலகை</s:String>
     <s:String x:Key="S.Editor.Home.Clipboard.Show">கிளிப்போர்டைக் காட்டு</s:String>
     <s:String x:Key="S.Editor.Home.Paste">ஒட்டு</s:String>
     <s:String x:Key="S.Editor.Home.Cut">வெட்டு</s:String>
     <s:String x:Key="S.Editor.Home.Copy">நகல்</s:String>
     
-    <!--எடிட்டர் • முகப்பு தாவல் • பெரிதாக்கு-->
+    <!--Editor • Home tab • Zoom-->
     <s:String x:Key="S.Editor.Home.Zoom">பெரிதாக்கு</s:String>
-    <s:String x:Key="S.Editor.Home.SizeToContent">&amp;#x0d;உள்ளடக்கத்திற்குச் சரிசெய்யவும்</s:String>
+    <s:String x:Key="S.Editor.Home.SizeToContent">&#x0d;உள்ளடக்கத்திற்குச் சரிசெய்யவும்</s:String>
     <s:String x:Key="S.Editor.Home.FitImage">படத்தை பொருத்து</s:String>
     
-    <!--எடிட்டர் • முகப்பு தாவல் • தேர்ந்தெடு-->
+    <!--Editor • Home tab • Select-->
     <s:String x:Key="S.Editor.Home.Select">தேர்ந்தெடு</s:String>
-    <s:String x:Key="S.Editor.Home.SelectAll">தேர்ந்தெடு&amp;#x0d;அனைத்தையும்</s:String>
+    <s:String x:Key="S.Editor.Home.SelectAll">தேர்ந்தெடு&#x0d;அனைத்தையும்</s:String>
     <s:String x:Key="S.Editor.Home.GoTo">செல்</s:String>
     <s:String x:Key="S.Editor.Home.Inverse">தலைகீழ்</s:String>
     <s:String x:Key="S.Editor.Home.Deselect">தேர்வுநீக்கு</s:String>
     
-    <!--எடிட்டர் • பிளேபேக் டேப் • பிளேபேக்-->
+    <!--Editor • Playback tab • Playback-->
     <s:String x:Key="S.Editor.Playback.Playback">பிளேபேக்</s:String>
     <s:String x:Key="S.Editor.Playback.First">முதல்</s:String>
     <s:String x:Key="S.Editor.Playback.Previous">முந்தையது</s:String>
@@ -1027,64 +1027,64 @@
     <s:String x:Key="S.Editor.Playback.Next">அடுத்து</s:String>
     <s:String x:Key="S.Editor.Playback.Last">கடைசி</s:String>
     
-    <!--எடிட்டர் • பிளேபேக் டேப் • பிளேபேக் விருப்பங்கள்-->
+    <!--Editor • Playback tab • Playback Options-->
     <s:String x:Key="S.Editor.PlaybackOptions.Header">பிளேபேக் விருப்பங்கள்</s:String>
     <s:String x:Key="S.Editor.PlaybackOptions.Loop">பிளேபேக்கின் போது லூப்.</s:String>
-    <s:String x:Key="S.Editor.PlaybackOptions.Loop.Info">பிளேபேக்கின் போது மட்டுமே பயன்படுத்தப்படும்.&amp;#x0d;Gifs மற்றும் Apngs ஏற்றுமதி செய்வதற்கான லூப் அமைப்புகளை மாற்ற விரும்பினால் சில குறியாக்கிகளுக்கு 'இவ்வாறு சேமி' பேனலில் கிடைக்கும்.</s:String>
+    <s:String x:Key="S.Editor.PlaybackOptions.Loop.Info">பிளேபேக்கின் போது மட்டுமே பயன்படுத்தப்படும்.&#x0d;Gifs மற்றும் Apngs ஏற்றுமதி செய்வதற்கான லூப் அமைப்புகளை மாற்ற விரும்பினால் சில குறியாக்கிகளுக்கு 'இவ்வாறு சேமி' பேனலில் கிடைக்கும்.</s:String>
     
-    <!--எடிட்டர் • திருத்து தாவல் • பிரேம்கள்-->
+    <!--Editor • Edit tab • Frames-->  
     <s:String x:Key="S.Editor.Edit.Frames">பிரேம்கள்</s:String>
     <s:String x:Key="S.Editor.Edit.Delete">நீக்கு</s:String>
-    <s:String x:Key="S.Editor.Edit.Frames.Duplicates">நீக்கு&amp;#x0d;நகல்களை</s:String>
-    <s:String x:Key="S.Editor.Edit.Frames.Reduce">குறைக்க&amp;#x0d;பிரேம் எண்ணிக்கை</s:String>
-    <s:String x:Key="S.Editor.Edit.Frames.SmoothLoop">Smooth&amp;#x0d;Loop</s:String>
+    <s:String x:Key="S.Editor.Edit.Frames.Duplicates">நீக்கு&#x0d;நகல்களை</s:String>
+    <s:String x:Key="S.Editor.Edit.Frames.Reduce">குறைக்க&#x0d;பிரேம் எண்ணிக்கை</s:String>
+    <s:String x:Key="S.Editor.Edit.Frames.SmoothLoop">Smooth&#x0d;Loop</s:String>
     <s:String x:Key="S.Editor.Edit.DeletePrevious">முந்தைய அனைத்தையும் நீக்கு</s:String>
     <s:String x:Key="S.Editor.Edit.DeleteNext">அடுத்து அனைத்தையும் நீக்கு</s:String>
     
-    <!--எடிட்டர் • திருத்து தாவல் • மறுவரிசைப்படுத்துதல்-->
+    <!--Editor • Edit tab • Reordering-->
     <s:String x:Key="S.Editor.Edit.Reordering">மறுவரிசைப்படுத்துதல்</s:String>
     <s:String x:Key="S.Editor.Edit.Reverse">தலைகீழ்</s:String>
     <s:String x:Key="S.Editor.Edit.Yoyo">யோ-யோ</s:String>
-    <s:String x:Key="S.Editor.Edit.MoveLeft">நகர்த்து&amp;#x0d;இடதுபுறம்</s:String>
+    <s:String x:Key="S.Editor.Edit.MoveLeft">நகர்த்து&#x0d;இடதுபுறம்</s:String>
     <s:String x:Key="S.Editor.Edit.MoveRight">நகர்த்து&#x0d;வலது</s:String>
     
-    <!--எடிட்டர் • திருத்து தாவல் • தாமதம்/காலம்-->
+    <!--Editor • Edit tab • Delay/Duration-->
     <s:String x:Key="S.Editor.Edit.Delay">தாமதம் (காலம்)</s:String>
     <s:String x:Key="S.Editor.Edit.Delay.Override">ஓவர்ரைடு</s:String>
-    <s:String x:Key="S.Editor.Edit.Delay.IncreaseDecrease">அதிகரிப்பு அல்லது&amp;#x0d;குறைவு</s:String>
+    <s:String x:Key="S.Editor.Edit.Delay.IncreaseDecrease">அதிகரிப்பு அல்லது&#x0d;குறைவு</s:String>
     <s:String x:Key="S.Editor.Edit.Delay.Scale">அளவு</s:String>
     
-    <!--எடிட்டர் • படம் • அளவு மற்றும் சுழற்சி-->
+    <!--Editor • Image • Size and Rotation-->
     <s:String x:Key="S.Editor.Image.SizePosition">அளவு மற்றும் சுழற்சி</s:String>
     <s:String x:Key="S.Editor.Image.Resize">Resize</s:String>
     <s:String x:Key="S.Editor.Image.Crop">செதுக்குதல்</s:String>
     <s:String x:Key="S.Editor.Image.FlipRotate">Flip/Rotate</s:String>
     
-    <!--எடிட்டர் • படத் தாவல் • உரை-->
+    <!--Editor • Image tab • Text-->
     <s:String x:Key="S.Editor.Image.Text">உரை</s:String>
     <s:String x:Key="S.Editor.Image.Caption">தலைப்பு</s:String>
     <s:String x:Key="S.Editor.Image.FreeText">இலவச உரை</s:String>
     <s:String x:Key="S.Editor.Image.TitleFrame">தலைப்பு சட்டகம்</s:String>
-    <s:String x:Key="S.Editor.Image.KeyStrokes">விசை&amp;#x0d;ஸ்ட்ரோக்ஸ்</s:String>
+    <s:String x:Key="S.Editor.Image.KeyStrokes">விசை&#x0d;ஸ்ட்ரோக்ஸ்</s:String>
     
-    <!--எடிட்டர் • படத் தாவல் • மேலடுக்கு-->
+    <!--Editor • Image tab • Overlay-->
     <s:String x:Key="S.Editor.Image.Overlay">மேல்தளம்</s:String>
-    <s:String x:Key="S.Editor.Image.FreeDrawing">இலவச&amp;#x0d;வரைதல்</s:String>
+    <s:String x:Key="S.Editor.Image.FreeDrawing">இலவச&#x0d;வரைதல்</s:String>
     <s:String x:Key="S.Editor.Image.Shape">வடிவங்கள்</s:String>
-    <s:String x:Key="S.Editor.Image.MouseEvents">மவுஸ்&amp;#x0d;நிகழ்வுகள்</s:String>
+    <s:String x:Key="S.Editor.Image.MouseEvents">மவுஸ்&#x0d;நிகழ்வுகள்</s:String>
     <s:String x:Key="S.Editor.Image.Watermark">வாட்டர்மார்க்</s:String>
     <s:String x:Key="S.Editor.Image.Cinemagraph">சினிமாகிராஃப்</s:String>
     <s:String x:Key="S.Editor.Image.Border">பார்டர்</s:String>
     <s:String x:Key="S.Editor.Image.Shadow">நிழல்</s:String>
     <s:String x:Key="S.Editor.Image.Progress">முன்னேற்றம்</s:String>
     <s:String x:Key="S.Editor.Image.Obfuscate">மழுங்கடிப்பு</s:String>
-    
-    <!--எடிட்டர் • மாற்றங்கள் தாவல் • பாங்குகள்-->
+
+    <!--Editor • Transitions tab • Styles-->
     <s:String x:Key="S.Editor.Transitions.Styles">பாங்குகள்</s:String>
     <s:String x:Key="S.Editor.Transitions.Fade">Fade</s:String>
     <s:String x:Key="S.Editor.Transitions.Slide">ஸ்லைடு</s:String>
     
-    <!--எடிட்டர் • புள்ளியியல் தாவல்-->
+    <!--Editor • Statistics tab-->
     <s:String x:Key="S.Editor.Statistics.General">பொது</s:String>
     <s:String x:Key="S.Editor.Statistics.FrameCount">பிரேம் எண்ணிக்கை</s:String>
     <s:String x:Key="S.Editor.Statistics.TotalDuration">மொத்த காலம்</s:String>
@@ -1095,7 +1095,7 @@
     <s:String x:Key="S.Editor.Statistics.FrameDpi">பிரேம் DPI மற்றும் அளவுகோல்</s:String>
     <s:String x:Key="S.Editor.Statistics.SelectedFrame">தேர்ந்தெடுக்கப்பட்ட சட்டகம்</s:String>
     
-    <!--எடிட்டர் • செய்திகள்-->
+    <!--Editor • Messages-->
     <s:String x:Key="S.Editor.Clipboard.InvalidCut.Title">கட் ஆக்ஷன்</s:String>
     <s:String x:Key="S.Editor.Clipboard.InvalidCut.Instruction">உங்களால் எல்லா ஃப்ரேம்களையும் வெட்ட முடியாது.</s:String>
     <s:String x:Key="S.Editor.Clipboard.InvalidCut.Message">ரெக்கார்டிங்கிற்கு குறைந்தபட்சம் ஒரு சட்டமாவது தேவை.</s:String>
@@ -1104,12 +1104,12 @@
     <s:String x:Key="S.Editor.DeleteAll.Message">இந்தச் செயல் தற்போதைய திறந்த திட்டப்பணியை நிராகரித்துவிடும் மற்றும் செயல்தவிர்க்க முடியாது. தொடர விரும்புகிறீர்களா?</s:String>
     <s:String x:Key="S.Editor.DiscardProject.Title">திட்டத்தை நிராகரி</s:String>
     <s:String x:Key="S.Editor.DiscardProject.Instruction">திட்டத்தை நிராகரிக்க விரும்புகிறீர்களா?</s:String>
-    <s:String x:Key="S.Editor.DiscardProject.Message">இந்தச் செயல் திட்டப்பணியை நிராகரித்து, அனைத்து ஃப்ரேம்களையும் அகற்றும்.&amp;#x0d;இந்தச் செயல்பாட்டை நீங்கள் செயல்தவிர்க்க முடியாது.</s:String>
+    <s:String x:Key="S.Editor.DiscardProject.Message">இந்தச் செயல் திட்டப்பணியை நிராகரித்து, அனைத்து ஃப்ரேம்களையும் அகற்றும்.&#x0d;இந்தச் செயல்பாட்டை நீங்கள் செயல்தவிர்க்க முடியாது.</s:String>
     <s:String x:Key="S.Editor.DiscardPreviousProject.Instruction">முந்தைய திட்டத்தை நிராகரிக்க விரும்புகிறீர்களா?</s:String>
     <s:String x:Key="S.Editor.DiscardPreviousProject.Message">அவ்வாறு செய்ய வேண்டாம் என நீங்கள் தேர்வுசெய்தால், முந்தைய ப்ராஜெக்ட் சமீபத்திய திட்டங்கள் மூலம் திறக்கப்படும்.</s:String>
     <s:String x:Key="S.Editor.DeleteFrames.Title">ஃபிரேம்களை நீக்கு</s:String>
     <s:String x:Key="S.Editor.DeleteFrames.Instruction">நிச்சயமாக நீக்க விரும்புகிறீர்களா?</s:String>
-    <s:String x:Key="S.Editor.DeleteFrames.Message">இந்தச் செயல் {0} ஃபிரேம்(களை) நீக்கிவிடும்.&amp;#x0d;இதை நீங்கள் பின்னர் செயல்தவிர்க்க முடியும்.</s:String >
+    <s:String x:Key="S.Editor.DeleteFrames.Message">இந்தச் செயல் {0} ஃபிரேம்(களை) நீக்கிவிடும்.&#x0d;இதை நீங்கள் பின்னர் செயல்தவிர்க்க முடியும்.</s:String>
     <s:String x:Key="S.Editor.Exiting.Title">எடிட்டரிலிருந்து வெளியேறுதல்</s:String>
     <s:String x:Key="S.Editor.Exiting.Instruction">நீங்கள் நிச்சயமாக வெளியேற விரும்புகிறீர்களா?</s:String>
     <s:String x:Key="S.Editor.Exiting.Message">நீங்கள் பணிபுரியும் தற்போதைய திட்டப்பணியை 'சமீபத்திய திட்டங்கள்' மூலம் மீண்டும் திறக்க முடியும்.</s:String>
@@ -1121,7 +1121,7 @@
     <s:String x:Key="S.Editor.DragDrop.Invalid.Message">தவறான வடிவமைப்பைக் கொண்டிருப்பதால் கோப்பை ஏற்ற முடியவில்லை.</s:String>
     <s:String x:Key="S.Editor.DragDrop.InvalidProject.Instruction">ஒரே நேரத்தில் பல திட்டங்களை நீங்கள் இறக்குமதி செய்ய முடியாது</s:String>
     <s:String x:Key="S.Editor.DragDrop.InvalidProject.Message">ஒரே ஒரு திட்டத்தை மட்டும் தேர்ந்தெடுக்க முயற்சிக்கவும்.</s:String>
-    
+
     <s:String x:Key="S.Editor.Caption.WarningNoText">பயன்படுத்த எந்த உரையும் இல்லை.</s:String>
     <s:String x:Key="S.Editor.Caption.WarningSelection">தலைப்பைப் பயன்படுத்த, குறைந்தபட்சம் ஒரு சட்டத்தையாவது தேர்ந்தெடுக்க வேண்டும்.</s:String>
     <s:String x:Key="S.Editor.FreeText.WarningSelection">உரையைப் பயன்படுத்த குறைந்தபட்சம் ஒரு சட்டத்தையாவது தேர்ந்தெடுக்க வேண்டும்.</s:String>
@@ -1138,19 +1138,19 @@
     <s:String x:Key="S.Editor.Slide.WarningSelection">ஸ்லைடு மாற்றத்தைப் பயன்படுத்த, குறைந்தபட்சம் ஒரு சட்டத்தையாவது தேர்ந்தெடுக்க வேண்டும்.</s:String>
     <s:String x:Key="S.Editor.LoadingFrames">சட்டங்களை ஏற்றுகிறது</s:String>
     <s:String x:Key="S.Editor.LoadingFrames.ProjectCorrupted.Instruction">திட்டத்தை ஏற்றுவது சாத்தியமில்லை</s:String>
-    <s:String x:Key="S.Editor.LoadingFrames.ProjectCorrupted.Message">பிரேம்கள் அனைத்தும் சிதைந்துவிட்டதால் அல்லது படங்கள் எதிர்பார்க்கப்படும் இடத்தில் இல்லாததால் அவற்றை ஏற்ற முடியவில்லை.</s:String >
+    <s:String x:Key="S.Editor.LoadingFrames.ProjectCorrupted.Message">பிரேம்கள் அனைத்தும் சிதைந்துவிட்டதால் அல்லது படங்கள் எதிர்பார்க்கப்படும் இடத்தில் இல்லாததால் அவற்றை ஏற்ற முடியவில்லை.</s:String>
     <s:String x:Key="S.Editor.LoadingFrames.FramesCorrupted.Instruction">சில பிரேம்களை ஏற்ற முடியவில்லை</s:String>
     <s:String x:Key="S.Editor.LoadingFrames.FramesCorrupted.Message">ஃப்ரேம்கள் கண்டுபிடிக்க முடியாத காரணத்தினாலோ அல்லது சிதைந்திருப்பதாலோ அவற்றை ஏற்ற முடியவில்லை.</s:String>
     
-    <!--ஆசிரியர் • எச்சரிக்கைகள்-->
+    <!--Editor • Warnings-->
     <s:String x:Key="S.Editor.Warning.Selection">மேற்பரப்பைப் பயன்படுத்த, குறைந்தபட்சம் ஒரு சட்டத்தையாவது தேர்ந்தெடுக்க வேண்டும்.</s:String>
-    <s:String x:Key="S.Editor.Warning.Ffmpeg">FFmpeg இல்லை. பாதை சூழல் மாறிகளில் அதைச் சேர்க்கவும் அல்லது இருப்பிடத்தை அமைக்க விருப்பங்கள் > கூடுதல்களைத் திறக்க இங்கே கிளிக் செய்யவும்.</s:String>
-    <s:String x:Key="S.Editor.Warning.Gifski">Gifski இல்லை. பாதை சூழல் மாறிகளில் அதைச் சேர்க்கவும் அல்லது இருப்பிடத்தை அமைக்க விருப்பங்கள் > கூடுதல்களைத் திறக்க இங்கே கிளிக் செய்யவும்.</s:String>
-    <s:String x:Key="S.Editor.Warning.LowSpace">இந்த ஆப்ஸ் அதன் தற்காலிக சேமிப்பை சேமிக்கும் இயக்ககத்தில் போதுமான இடம் இல்லை ({0}% மீதமுள்ளது). சிறிது இடத்தை விடுவிக்க விருப்பங்கள் > தற்காலிக கோப்புகளைத் திறக்க இங்கே கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.Editor.Warning.Ffmpeg">FFmpeg இல்லை. பாதை சூழல் மாறிகளில் அதைச் சேர்க்கவும் அல்லது இருப்பிடத்தை அமைக்க விருப்பங்கள் > கூடுதல்களைத் திறக்க இங்கே சொடுக்கவும்.</s:String>
+    <s:String x:Key="S.Editor.Warning.Gifski">Gifski இல்லை. பாதை சூழல் மாறிகளில் அதைச் சேர்க்கவும் அல்லது இருப்பிடத்தை அமைக்க விருப்பங்கள் > கூடுதல்களைத் திறக்க இங்கே சொடுக்கவும்.</s:String>
+    <s:String x:Key="S.Editor.Warning.LowSpace">இந்த ஆப்ஸ் அதன் தற்காலிக சேமிப்பை சேமிக்கும் இயக்ககத்தில் போதுமான இடம் இல்லை ({0}% மீதமுள்ளது). சிறிது இடத்தை விடுவிக்க விருப்பங்கள் > தற்காலிக கோப்புகளைத் திறக்க இங்கே சொடுக்கவும்.</s:String>
     <s:String x:Key="S.Editor.Warning.DifferentDpi">நீங்கள் பல்வேறு DPIகளுடன் பல படங்களை இறக்குமதி செய்ய முயற்சித்தீர்கள், இது ஆதரிக்கப்படவில்லை. அவற்றில் சில இறக்குமதி செய்யப்பட்டன, மற்றவை தனித்தனியாக இறக்குமதி செய்யப்பட வேண்டும்.</s:String>
     <s:String x:Key="S.Editor.Warning.DifferentSize">நீங்கள் வெவ்வேறு அளவுகளில் பல படங்களை இறக்குமதி செய்ய முயற்சித்தீர்கள், இது ஆதரிக்கப்படவில்லை. அவற்றில் சில இறக்குமதி செய்யப்பட்டன, மற்றவை தனித்தனியாக இறக்குமதி செய்யப்பட வேண்டும்.</s:String>
     
-    <!--எடிட்டர் • நிலை-->
+    <!--Editor • Status-->
     <s:String x:Key="S.Editor.RetrievingFromCache">தேக்ககத்திலிருந்து சட்டகங்களை மீட்டெடுக்கிறது</s:String>
     <s:String x:Key="S.Editor.UpdatingFrames">ஃப்ரேம்களைப் புதுப்பிக்கிறது</s:String>
     <s:String x:Key="S.Editor.PreparingImport">இறக்குமதி செய்யத் தயாராகிறது</s:String>
@@ -1168,32 +1168,32 @@
     <s:String x:Key="S.Editor.ChangingDelay">தாமதத்தை மாற்றுகிறது</s:String>
     <s:String x:Key="S.Editor.ApplyingTransition">மாற்ற விளைவைப் பயன்படுத்துதல்</s:String>
     <s:String x:Key="S.Editor.PreparingSaving">சேமிப்பதற்குத் தயாராகிறது</s:String>
-    <s:String x:Key="S.Editor.CancelDiscard">ஏற்றுதலை ரத்துசெய்து திட்டத்தை நிராகரி.</s:String>
+    <s:String x:Key="S.Editor.CancelDiscard">ஏற்றுதலை கைவிட்டு திட்டத்தை நிராகரி.</s:String>
     <s:String x:Key="S.Editor.FindingLoop">சரியான வளையத்தைக் கண்டறிதல்</s:String>
     <s:String x:Key="S.Editor.DiscardingLoop">லூப்பில் பயன்படுத்தப்படாத ஃப்ரேம்களை நிராகரித்தல்</s:String>
-    
-    <!--எடிட்டர் • பிரேம் பட்டியல்-->
+
+    <!--Editor • Frame list-->
     <s:String x:Key="S.Editor.List.Frame">பிரேம்:</s:String>
     <s:String x:Key="S.Editor.List.OpenImage">படத்தைத் திற</s:String>
     <s:String x:Key="S.Editor.List.ExploreFolder">கோப்புறையை ஆராயுங்கள்</s:String>
     
-    <!--எடிட்டர் • செல்க-->
+    <!--Editor • Go to-->
     <s:String x:Key="S.GoTo.Title">சட்டத்திற்கு செல்க</s:String>
     <s:String x:Key="S.GoTo.Instruction">சட்டத்திற்குச் செல்லவும் (0 முதல் {0} வரை)</s:String>
     
-    <!--எடிட்டர் • சூழல் மெனு-->
+    <!--Editor • Context menu-->
     <s:String x:Key="S.Context.SaveAs">இவ்வாறு சேமி...</s:String>
     <s:String x:Key="S.Context.RemoveFrames">தேர்ந்தெடுத்த பிரேம்களை அகற்று</s:String>
     <s:String x:Key="S.Context.NewRecording">புதிய திரை பதிவு</s:String>
-    <s:String x:Key="S.Context.NewWebcamRecording">புதிய வெப்கேம் பதிவு</s:String>
+    <s:String x:Key="S.Context.NewWebcamRecording">புதிய வலைஒளி பதிவு</s:String>
     <s:String x:Key="S.Context.NewBoardRecording">புதிய பலகை பதிவு</s:String>
     <s:String x:Key="S.Context.NewBlankAnimation">புதிய திட்டம்</s:String>
     <s:String x:Key="S.Context.NewFromMediaProject">மீடியா அல்லது திட்டத்திலிருந்து புதியது</s:String>
-    
-    <!--ஆசிரியர் • குறிப்புகள்-->
+   
+    <!--Editor • Hints-->
     <s:String x:Key="S.Hint.NewRecording">புதிய பதிவு உருவாக்கப்பட்டது</s:String>
-    <s:String x:Key="S.Hint.NewWebcamRecording">புதிய வெப்கேம் பதிவு உருவாக்கப்பட்டது</s:String>
-    <s:String x:Key="S.Hint.NewBoardRecording">புதிய போர்டு ரெக்கார்டின்g உருவாக்கப்பட்டது</s:String>
+    <s:String x:Key="S.Hint.NewWebcamRecording">புதிய வலைஒளி பதிவு உருவாக்கப்பட்டது</s:String>
+    <s:String x:Key="S.Hint.NewBoardRecording">புதிய பலகை ரெக்கார்டின்g உருவாக்கப்பட்டது</s:String>
     <s:String x:Key="S.Hint.NewAnimation">புதிய திட்டம் உருவாக்கப்பட்டது</s:String>
     <s:String x:Key="S.Hint.Undo">செயல்படுத்தப்பட்டது செயல்தவிர்</s:String>
     <s:String x:Key="S.Hint.Reset">மீட்டமைவு செயல்படுத்தப்பட்டது</s:String>
@@ -1227,25 +1227,25 @@
     <s:String x:Key="S.Hint.Reduce">பிரேமரேட் குறைக்கப்பட்டது</s:String>
     <s:String x:Key="S.Hint.Duplicates">நகல்கள் அகற்றப்பட்டன</s:String>
     
-    <!--எடிட்டர் • செயல் குழு-->
+    <!--Editor • Action panel-->
     <s:String x:Key="S.Action.Hide">மறை</s:String>
     <s:String x:Key="S.Action.Apply">இடு</s:String>
     <s:String x:Key="S.Action.Open">திற</s:String>
     <s:String x:Key="S.Action.Save">சேமி</s:String>
     <s:String x:Key="S.Action.Cancel">கைவிடு</s:String>
-    
-    <!--எடிட்டர் • சமீபத்திய திட்டங்கள்-->
+
+    <!--Editor • Recent projects-->
     <s:String x:Key="S.Recent.Projects">சமீபத்திய திட்டங்கள்</s:String>
     <s:String x:Key="S.Recent.Searching">சமீபத்திய திட்டங்களைத் தேடுகிறது...</s:String>
     <s:String x:Key="S.Recent.Date">உருவாக்கிய தேதி</s:String>
     <s:String x:Key="S.Recent.Frames">பிரேம் எண்ணிக்கை</s:String>
     <s:String x:Key="S.Recent.Warning.NoSelection">எந்த திட்டமும் தேர்ந்தெடுக்கப்படவில்லை. ஏற்ற வேண்டிய பட்டியலின் திட்டத்தைத் தேர்ந்தெடுக்கவும்.</s:String>
-    <s:String x:Key="S.Recent.Warning.SameProject">இந்தத் திட்டம் ஏற்கனவே இந்த எடிட்டர் நிகழ்வால் காட்டப்படுகிறது.</s:String>
-    <s:String x:Key="S.Recent.Warning.AnotherEditor">இந்த திட்டம் ஏற்கனவே மற்றொரு எடிட்டர் நிகழ்வால் திறக்கப்பட்டது. திட்டம் ஏற்கனவே வேறொரு எடிட்டரில் திறந்திருந்தால் அதை இரண்டாவது முறையாக திறக்க முடியாது.</s:String>
+    <s:String x:Key="S.Recent.Warning.SameProject">இந்தத் திட்டம் ஏற்கனவே இந்த திருத்தி நிகழ்வால் காட்டப்படுகிறது.</s:String>
+    <s:String x:Key="S.Recent.Warning.AnotherEditor">இந்த திட்டம் ஏற்கனவே மற்றொரு திருத்தி நிகழ்வால் திறக்கப்பட்டது. திட்டம் ஏற்கனவே வேறொரு எடிட்டரில் திறந்திருந்தால் அதை இரண்டாவது முறையாக திறக்க முடியாது.</s:String>
     
-    <!--எடிட்டர் • கிளிப்போர்டு-->
-    <s:String x:Key="S.Clipboard.Entries">கிளிப்போர்டு உள்ளீடுகள்</s:String>
-    <s:String x:Key="S.Clipboard.Entry">கிளிப்போர்டு உள்ளீடு:</s:String>
+    <!--Editor • Clipboard-->
+    <s:String x:Key="S.Clipboard.Entries">கிளிப்பலகை உள்ளீடுகள்</s:String>
+    <s:String x:Key="S.Clipboard.Entry">கிளிப்பலகை உள்ளீடு:</s:String>
     <s:String x:Key="S.Clipboard.Entry.Image">{0} படம்</s:String>
     <s:String x:Key="S.Clipboard.Entry.Images">{0} படங்கள்</s:String>
     <s:String x:Key="S.Clipboard.Explore">உள்ளடக்கத்தை ஆராயுங்கள்</s:String>
@@ -1254,7 +1254,7 @@
     <s:String x:Key="S.Clipboard.Before">தேர்ந்தெடுக்கப்பட்ட சட்டத்திற்கு முன்</s:String>
     <s:String x:Key="S.Clipboard.After">தேர்ந்தெடுக்கப்பட்ட சட்டத்திற்குப் பிறகு</s:String>
     
-    <!--எடிட்டர் • அளவை மாற்றவும்-->
+    <!--Editor • Resize-->
     <s:String x:Key="S.Resize.Difference">வேறுபாடு</s:String>
     <s:String x:Key="S.Resize.Dpi">Dpi</s:String>
     <s:String x:Key="S.Resize.Options">விருப்பங்கள்</s:String>
@@ -1268,8 +1268,8 @@
     <s:String x:Key="S.Resize.ScalingQuality.NearestNeighbor">அருகிலுள்ள அண்டை வீட்டான் • குறைந்த தரம் மற்றும் வேகமானது</s:String>
     <s:String x:Key="S.Resize.ScalingQuality.Info">ஸ்கேலிங் தரம்.</s:String>
     <s:String x:Key="S.Resize.Warning">மறுஅளவிடுதல் செயலைப் பயன்படுத்த, நீங்கள் வேறு மதிப்பைத் தேர்ந்தெடுக்க வேண்டும்.</s:String>
-   
-    <!--எடிட்டர் • பயிர்-->
+    
+    <!--Editor • Crop-->
     <s:String x:Key="S.Crop.Points">புள்ளிகள்</s:String>
     <s:String x:Key="S.Crop.Top">மேல்:</s:String>
     <s:String x:Key="S.Crop.Left">இடது:</s:String>
@@ -1277,14 +1277,14 @@
     <s:String x:Key="S.Crop.Right">வலது:</s:String>
     <s:String x:Key="S.Crop.Warning">செய் தேர்வு தற்போதைய சட்ட அளவை விட சிறியதாக இருக்க வேண்டும்.</s:String>
     <s:String x:Key="S.Crop.Warning.Bigger">செய் தேர்வு 10x10 பிக்சல்களை விட பெரியதாக இருக்க வேண்டும்.</s:String>
-   
-    <!--எடிட்டர் • புரட்டு/சுழற்று-->
+    
+    <!--Editor • Flip/rotate-->
     <s:String x:Key="S.FlipRotate.FlipHorizontal">Flip Horizontal</s:String>
     <s:String x:Key="S.FlipRotate.FlipVertical">செங்குத்து புரட்டு</s:String>
     <s:String x:Key="S.FlipRotate.RotateLeft">இடதுபுறம் 90º சுழற்று</s:String>
     <s:String x:Key="S.FlipRotate.RotateRight">வலது 90º சுழற்று</s:String>
-   
-    <!--எடிட்டர் • ஃப்ரேம்ரேட்டைக் குறைக்கவும்-->
+    
+    <!--Editor • Reduce framerate-->
     <s:String x:Key="S.Reduce.Header">ஃபிரேம்ரேட்டைக் குறைக்கவும்</s:String>
     <s:String x:Key="S.Reduce.Factor">காரணி:</s:String>
     <s:String x:Key="S.Reduce.Count">எண்ணிக்கையை அகற்று:</s:String>
@@ -1293,13 +1293,13 @@
     <s:String x:Key="S.Reduce.Delay.Previous">முந்தைய சட்டத்துடன் கூட்டு</s:String>
     <s:String x:Key="S.Reduce.Delay.Evenly">மீதமுள்ள பிரேம்களுடன் சமமாக கூட்டுக</s:String>
     <s:String x:Key="S.Reduce.ApplyToAll">முழுத் திட்டத்தின் பிரேம்ரேட்டைக் குறைக்கவும்.</s:String>
-    <s:String x:Key="S.Reduce.ApplyToAll.Info">விருப்பம் தேர்வு செய்யப்படவில்லை எனில், நீங்கள் பல தொடர்ச்சியான ஃப்ரேம்களைத் தேர்ந்தெடுக்க வேண்டும்,&amp;#10;அகற்றல் காரணியை விட பெரியது.</s:String>
+    <s:String x:Key="S.Reduce.ApplyToAll.Info">விருப்பம் தேர்வு செய்யப்படவில்லை எனில், நீங்கள் பல தொடர்ச்சியான ஃப்ரேம்களைத் தேர்ந்தெடுக்க வேண்டும்,&#10;அகற்றல் காரணியை விட பெரியது.</s:String>
     <s:String x:Key="S.Reduce.Info">இது ஒவ்வொரு {1} ஃபிரேம்(களுக்கு) பிறகு, அகற்றப்பட்டவற்றைக் கணக்கிடாமல், {0} சட்டத்தை(களை) அகற்றும்.</s:String>
     <s:String x:Key="S.Reduce.Warning.NoSelection">ஃப்ரேம்ரேட் குறைப்பைப் பயன்படுத்த, ஃப்ரேம்களைத் தேர்ந்தெடுக்க வேண்டும் (அல்லது முழுத் திட்டத்திற்கும் விண்ணப்பிக்கும் விருப்பத்தைச் சரிபார்க்கவும்).</s:String>
     <s:String x:Key="S.Reduce.Warning.NonConsecutive">தேர்ந்தெடுக்கப்பட்ட பிரேம்களின் பட்டியல் தொடர்ச்சியாக இருக்க வேண்டும். தேர்ந்தெடுக்கப்பட்டவற்றில் சில ஃப்ரேம்களைத் தேர்ந்தெடுக்காமல் விட முடியாது.</s:String>
     <s:String x:Key="S.Reduce.Warning.SmallerThanFactor">அம்சத்தால் எதையும் அகற்ற முடியும் என்பதற்காக, ஃப்ரேம்களின் தேர்வு அகற்றும் காரணியை விட அதிகமாக இருக்க வேண்டும்.</s:String>
-   
-    <!--எடிட்டர் • நகல்களை அகற்று-->
+    
+    <!--Editor • Remove duplicates-->
     <s:String x:Key="S.RemoveDuplicates.Header">நகல்களை அகற்று</s:String>
     <s:String x:Key="S.RemoveDuplicates.Similarity">ஒத்துமை (%):</s:String>
     <s:String x:Key="S.RemoveDuplicates.Removal">பிரேம் அகற்றுதல்:</s:String>
@@ -1310,8 +1310,8 @@
     <s:String x:Key="S.RemoveDuplicates.Delay.Average">சராசரியைப் பயன்படுத்தவும்</s:String>
     <s:String x:Key="S.RemoveDuplicates.Delay.Sum">தொகையைப் பயன்படுத்தவும்</s:String>
     <s:String x:Key="S.RemoveDuplicates.Info">இந்தச் செயல் ஒவ்வொரு ஃபிரேமையும் (பிக்சல் பை பிக்சல்) பகுப்பாய்வு செய்து, அதன் உடனடி அண்டைக்கு குறைந்தபட்சம் {0} % ஒத்ததை நீக்குகிறது.&#x0d;நீங்கள் பிரேம்களின் தாமதத்தை (கண்காட்சியின் காலம்) சரிசெய்ய விரும்பினால் தேர்வு செய்யலாம்.</s:String>
-   
-    <!--எடிட்டர் • ஸ்மூத் லூப்-->
+
+    <!--Editor • Smooth Loop-->
     <s:String x:Key="S.SmoothLoop.Header">மென்மையான வளையத்தை உருவாக்கு</s:String>
     <s:String x:Key="S.SmoothLoop.StartThreshold">முதலில் புறக்கணிக்கவும்:</s:String>
     <s:String x:Key="S.SmoothLoop.From">இதிலிருந்து ஒப்பிடுக:</s:String>
@@ -1321,14 +1321,14 @@
     <s:String x:Key="S.SmoothLoop.Warning.Threshold">புறக்கணிக்க வேண்டிய ஃப்ரேம்களின் எண்ணிக்கை மொத்த பிரேம்களின் எண்ணிக்கையை விட சிறியதாக இருக்க வேண்டும்.</s:String>
     <s:String x:Key="S.SmoothLoop.Warning.NoLoopFound">தேர்ந்தெடுக்கப்பட்ட அமைப்புகளுடன் மென்மையான வளையத்தை உருவாக்க முடியவில்லை.</s:String>
     <s:String x:Key="S.SmoothLoop.Warning.AlreadySmoothLoop">தேர்ந்தெடுக்கப்பட்ட அமைப்புகளின் அடிப்படையில் உங்களிடம் ஏற்கனவே மென்மையான வளையம் உள்ளது.</s:String>
-   
-    <!--எடிட்டர் • தலைப்புகள்-->
+    
+    <!--Editor • Captions-->
     <s:String x:Key="S.Caption.Text">உரை</s:String>
     <s:String x:Key="S.Caption.Font">எழுத்துரு</s:String>
     <s:String x:Key="S.Caption.Family">குடும்பம்:</s:String>
     <s:String x:Key="S.Caption.Style">நடை:</s:String>
     <s:String x:Key="S.Caption.Weight">எடை:</s:String>
-    <s:String x:Key="S.Caption.அளவு">அளவு:</s:String>
+    <s:String x:Key="S.Caption.Size">அளவு:</s:String>
     <s:String x:Key="S.Caption.Color">வண்ணம்:</s:String>
     <s:String x:Key="S.Caption.BackgroundColor">பின்னணி நிறம்:</s:String>
     <s:String x:Key="S.Caption.Outline">அவுட்லைன்</s:String>
@@ -1338,8 +1338,8 @@
     <s:String x:Key="S.Caption.Horizontal">கிடைமட்ட:</s:String>
     <s:String x:Key="S.Caption.TextAlignment">சீரமைப்பு:</s:String>
     <s:String x:Key="S.Caption.TextDecoration">அலங்காரம்:</s:String>
-   
-    <!--எடிட்டர் • முக்கிய ஸ்ட்ரோக்குகள்-->
+
+    <!--Editor • Key strokes-->
     <s:String x:Key="S.KeyStrokes">முக்கிய ஸ்ட்ரோக்குகள்</s:String>
     <s:String x:Key="S.KeyStrokes.Keys">விசைகள்</s:String>
     <s:String x:Key="S.KeyStrokes.Separator">Separator:</s:String>
@@ -1352,15 +1352,15 @@
     <s:String x:Key="S.KeyStrokes.Earlier">விசை ஸ்ட்ரோக்குகளின் கண்காட்சியை முன்பே தொடங்கவும்.</s:String>
     <s:String x:Key="S.KeyStrokes.By">ஆல் (ms):</s:String>
     <s:String x:Key="S.KeyStrokes.Warning.None">உங்கள் பதிவில் விசை அழுத்தங்கள் எதுவும் இல்லை.</s:String>
-    <s:String x:Key="S.KeyStrokes.Edit.Title">ScreenToGif - கீ ஸ்ட்ரோக்ஸ் எடிட்டர்</s:String>
+    <s:String x:Key="S.KeyStrokes.Edit.Title">திரைபிடிபடம் - கீ ஸ்ட்ரோக்ஸ் திருத்தி</s:String>
     <s:String x:Key="S.KeyStrokes.Edit.Number">பிரேம் எண்</s:String>
     <s:String x:Key="S.KeyStrokes.Edit.Keys">கண்டறியப்பட்ட கீ ஸ்ட்ரோக்குகள்</s:String>
     <s:String x:Key="S.KeyStrokes.Edit.Remove">விசை ஸ்ட்ரோக்கை அகற்று</s:String>
     <s:String x:Key="S.KeyStrokes.Edit.Add">விசை ஸ்ட்ரோக்கைச் சேர்:</s:String>
     <s:String x:Key="S.KeyStrokes.Edit.Lower">சிறிய எழுத்து.</s:String>
     <s:String x:Key="S.KeyStrokes.Edit.Lower.Info">சிறிய எழுத்து ஒற்றை எழுத்துக்களைச் செருக இது உங்களை அனுமதிக்கிறது.</s:String>
-   
-    <!--எடிட்டர் • இலவச வரைதல்-->
+
+    <!--Editor • Free drawing-->
     <s:String x:Key="S.FreeDrawing.Mode">முறை</s:String>
     <s:String x:Key="S.FreeDrawing.Pen">பேனா</s:String>
     <s:String x:Key="S.FreeDrawing.Eraser">அழிப்பான்</s:String>
@@ -1376,18 +1376,18 @@
     <s:String x:Key="S.FreeDrawing.FitToCurve">வளைவுக்குப் பொருத்து.</s:String>
     <s:String x:Key="S.FreeDrawing.Warning.NoDrawing">நீங்கள் தேர்ந்தெடுத்த ஃப்ரேம்களுக்குப் பயன்படுத்துவதற்கு வரைபடங்கள் எதுவும் இல்லை.</s:String>
     <s:String x:Key="S.FreeDrawing.WarningSelection">இலவச வரைபடத்தைப் பயன்படுத்த, குறைந்தபட்சம் ஒரு சட்டத்தையாவது தேர்ந்தெடுக்க வேண்டும்.</s:String>
-   
-    <!--எடிட்டர் • வடிவங்கள்-->
+    
+    <!--Editor • Shapes-->
     <s:String x:Key="S.Shapes.Mode.Insert">செருகு</s:String>
     <s:String x:Key="S.Shapes.Shapes">வடிவங்கள்</s:String>
     <s:String x:Key="S.Shapes.Shapes.Radius">ஆரம்:</s:String>
     <s:String x:Key="S.Shapes.Shapes.Dashes">கோடுகள்:</s:String>
-    <s:String x:Key="S.Shapes.Shapes.Dashes.Info">கோடுகளின் அளவையும் இடைவெளிகளின் அளவையும் கட்டுப்படுத்துகிறது.&amp;#10;விரிவான கோடு பாணியை உருவாக்க நீங்கள் பல அளவுகளை அமைக்கலாம். &amp;#10;இயல்புநிலை "1 0" அல்லது காலியாக உள்ளது, அதாவது இடைவெளி இல்லாத கோடு.</s:String>
+    <s:String x:Key="S.Shapes.Shapes.Dashes.Info">கோடுகளின் அளவையும் இடைவெளிகளின் அளவையும் கட்டுப்படுத்துகிறது.&#10;விரிவான கோடு பாணியை உருவாக்க நீங்கள் பல அளவுகளை அமைக்கலாம். &#10;இயல்புநிலை "1 0" அல்லது காலியாக உள்ளது, அதாவது இடைவெளி இல்லாத கோடு.</s:String>
     <s:String x:Key="S.Shapes.Shapes.ResetRotatio">சுழற்சியை மீட்டமைக்கவும்</s:String>
     <s:String x:Key="S.Shapes.Shapes.Remove">நீக்கு</s:String>
     <s:String x:Key="S.Shapes.Fill">நிரப்பு</s:String>
-   
-    <!--எடிட்டர் • மவுஸ் நிகழ்வுகள்-->
+
+    <!--Editor • Mouse events-->
     <s:String x:Key="S.MouseEvents">மவுஸ் நிகழ்வுகள்</s:String>
     <s:String x:Key="S.MouseHighlight.Color">மவுஸ் ஹைலைட் நிறம்:</s:String>
     <s:String x:Key="S.MouseClicks.Color.Left">இடது பொத்தான் நிறம்:</s:String>
@@ -1395,8 +1395,8 @@
     <s:String x:Key="S.MouseClicks.Color.Right">வலது பொத்தான் நிறம்:</s:String>
     <s:String x:Key="S.MouseClicks.Color.FirstExtra">1வது கூடுதல் பொத்தான் நிறம்:</s:String>
     <s:String x:Key="S.MouseClicks.Color.SecondExtra">2வது கூடுதல் பொத்தான் நிறம்:</s:String>
-   
-    <!--எடிட்டர் • வாட்டர்மார்க்-->
+    
+    <!--Editor • Watermark-->
     <s:String x:Key="S.Watermark.Image">படம்</s:String>
     <s:String x:Key="S.Watermark.File">கோப்பு:</s:String>
     <s:String x:Key="S.Watermark.File.Nothing">எதுவும் தேர்ந்தெடுக்கப்படவில்லை</s:String>
@@ -1404,19 +1404,19 @@
     <s:String x:Key="S.Watermark.Select">ஒரு படத்தை தேர்ந்தெடு</s:String>
     <s:String x:Key="S.Watermark.WarningNoImage">தேர்ந்தெடுக்கப்பட்ட சட்டகங்களுக்குப் பயன்படுத்த, நீங்கள் ஒரு படத்தைத் தேர்ந்தெடுக்க வேண்டும்.</s:String>
     <s:String x:Key="S.Watermark.WarningSelection">வாட்டர்மார்க்கைப் பயன்படுத்த குறைந்தபட்சம் ஒரு சட்டத்தையாவது தேர்ந்தெடுக்க வேண்டும்.</s:String>
-   
-    <!--எடிட்டர் • பார்டர்-->
+    
+    <!--Editor • Border-->
     <s:String x:Key="S.Border.Appearance">தோற்றம்</s:String>
-    <s:String x:Key="S.Border.Info">எதிர்மறை மதிப்புகளைப் பயன்படுத்தி கரையை படத்தை விரிவுபடுத்தவும். அவ்வாறு செய்யும்போது, ​​பார்டர் அனைத்து ஃப்ரேம்களுக்கும் பயன்படுத்தப்படும்.&amp;#10;எதிர்மறை மதிப்பு பயன்படுத்தப்படாவிட்டால், தேர்ந்தெடுக்கப்பட்ட ஃப்ரேம்களுக்கு மட்டுமே பார்டர் பயன்படுத்தப்படும்.</s:String>
-   
-    <!--ஆசிரியர் • நிழல்-->
+    <s:String x:Key="S.Border.Info">எதிர்மறை மதிப்புகளைப் பயன்படுத்தி கரையை படத்தை விரிவுபடுத்தவும். அவ்வாறு செய்யும்போது, ​​பார்டர் அனைத்து ஃப்ரேம்களுக்கும் பயன்படுத்தப்படும்.&#10;எதிர்மறை மதிப்பு பயன்படுத்தப்படாவிட்டால், தேர்ந்தெடுக்கப்பட்ட ஃப்ரேம்களுக்கு மட்டுமே பார்டர் பயன்படுத்தப்படும்.</s:String>
+
+    <!--Editor • Shadow-->
     <s:String x:Key="S.Shadow.ShadowColor">நிழல் நிறம்:</s:String>
     <s:String x:Key="S.Shadow.BackgroundColor">பின்னணி நிறம்:</s:String>
     <s:String x:Key="S.Shadow.Direction">திசை:</s:String>
     <s:String x:Key="S.Shadow.BlurRadius">மங்கலான ஆரம்:</s:String>
     <s:String x:Key="S.Shadow.Depth">ஆழம்:</s:String>
-   
-    <!--எடிட்டர் • மழுப்பல்-->
+    
+    <!--Editor • Obfuscate-->
     <s:String x:Key="S.Obfuscate.Type.Pixelate">பிக்சலேட்</s:String>
     <s:String x:Key="S.Obfuscate.Type.Blur">மங்கலானது</s:String>
     <s:String x:Key="S.Obfuscate.Type.Darken">அடர்க</s:String>
@@ -1432,8 +1432,8 @@
     <s:String x:Key="S.Obfuscate.Info">தெரிவுக் கருவியைப் பயன்படுத்தி, சட்டத்தின் தெளிவற்ற பகுதியைத் தேர்ந்தெடுக்கவும்.</s:String>
     <s:String x:Key="S.Obfuscate.Info2">தெரிவுக் கருவியைப் பயன்படுத்தி, குழப்பமடையாத சட்டத்தின் பகுதியைத் தேர்ந்தெடுக்கவும்.</s:String>
     <s:String x:Key="S.Obfuscate.Warning">நீங்கள் எதையும் தேர்ந்தெடுக்கவில்லை. தெளிவில்லாமல் இருக்க வேண்டிய செவ்வகத்தைத் தேர்ந்தெடுக்க தேர்வுக் கருவியைப் பயன்படுத்தவும்.</s:String>
-   
-    <!--ஆசிரியர் • முன்னேற்றம்-->
+    
+    <!--Editor • Progress-->
     <s:String x:Key="S.Progress.Type">வகை</s:String>
     <s:String x:Key="S.Progress.Type.Bar">பட்டி</s:String>
     <s:String x:Key="S.Progress.Type.Text">உரை</s:String>
@@ -1455,14 +1455,14 @@
     <s:String x:Key="S.Progress.Format.FrameNumber">$f = சட்ட எண்</s:String>
     <s:String x:Key="S.Progress.Format.Totals">மொத்தம்:</s:String>
     <s:String x:Key="S.Progress.Format.Examples">எடுத்துக்காட்டுகள்:</s:String>
-    <s:String x:Key="S.Progress.Format.Date">நீங்கள் .Net Framework இலிருந்து தேதி மற்றும் நேர வடிவமைப்பைப் பயன்படுத்தலாம்.&amp;#x0d;குறிப்பிடுதல் கீழே உள்ள இந்த இரண்டு இணைப்புகளில் உள்ளது.</s:String>
+    <s:String x:Key="S.Progress.Format.Date">நீங்கள் .பிணை கட்டமைப்பு இலிருந்து தேதி மற்றும் நேர வடிவமைப்பைப் பயன்படுத்தலாம்.&#x0d;குறிப்பிடுதல் கீழே உள்ள இந்த இரண்டு இணைப்புகளில் உள்ளது.</s:String>
     <s:String x:Key="S.Progress.Format.Date.Standard">நிலையான வடிவங்கள்</s:String>
     <s:String x:Key="S.Progress.Format.Date.Custom">தனிப்பயன் வடிவங்கள்</s:String>
     <s:String x:Key="S.Progress.Precision.StartNumber">இதிலிருந்து எண்ணு:</s:String>
     <s:String x:Key="S.Progress.Precision.StartNumber.ToolTip">தேர்ந்தெடுக்கப்பட்ட இந்த எண்ணிலிருந்து சட்ட எண்ணை எண்ணத் தொடங்குகிறது.</s:String>
     <s:String x:Key="S.Progress.Orientation">நோக்குநிலை:</s:String>
-   
-    <!--ஆசிரியர் • தாமதம்-->
+    
+    <!--Editor • Delay-->
     <s:String x:Key="S.Delay.Update">தாமதப் புதுப்பிப்பு</s:String>
     <s:String x:Key="S.Delay.Mode">தாமத முறை:</s:String>
     <s:String x:Key="S.Delay.Mode.Override">ஓவர்ரைடு (மிசியில்)</s:String>
@@ -1475,11 +1475,11 @@
     <s:String x:Key="S.Delay.Override.Info">இந்தப் புதிய மதிப்பு தேர்ந்தெடுக்கப்பட்ட அனைத்து ஃப்ரேம்களின் கால அளவை (தாமதம்) மாற்றும். மதிப்பு 10ms முதல் 25500ms வரை இருக்கலாம்.</s:String>
     <s:String x:Key="S.Delay.IncreaseDecrease.Info">இந்த மதிப்பு தேர்ந்தெடுக்கப்பட்ட ஒவ்வொரு சட்டகத்தின் கால அளவையும் (தாமதத்தை) குறைக்கும்/அதிகரிக்கும். 10000ms மற்றும் 10000ms, ஆனால் ஒவ்வொரு சட்டகத்தின் இறுதி கால அளவும் 10ms முதல் 25500ms வரை கட்டுப்படுத்தப்படும்</s:String>
     <s:String x:Key="S.Delay.Scale.Info">தேர்ந்தெடுக்கப்பட்ட ஒவ்வொரு சட்டகத்தின் கால அளவை (தாமதத்தை) சதவீத மதிப்பின் மூலம் அளவிடவும் % மற்றும் 1000%, ஆனால் ஒவ்வொரு சட்டகத்தின் இறுதி கால அளவும் 10ms முதல் 25500ms வரை கட்டுப்படுத்தப்படும்</s:String>
-   
-    <!--எடிட்டர் • சினிமாகிராஃப்-->
+
+    <!--Editor • Cinemagraph-->
     <s:String x:Key="S.Cinemagraph.Info">பேனாவைப் பயன்படுத்தி, நிலையானதாக இருக்கக் கூடாத (பிரேம்களுக்கு இடையில் மாற வேண்டிய) பிக்சல்களைத் தேர்ந்தெடுக்க, அவற்றின் மேல் வண்ணம் தீட்டவும்.</s:String>
-   
-    <!--எடிட்டர் • மாற்றங்கள்-->
+
+    <!--Editor • Transitions-->
     <s:String x:Key="S.Transitions.Length">மாற்று நீளம்</s:String>
     <s:String x:Key="S.Transitions.Delay">மாற்றம் தாமதம்</s:String>
     <s:String x:Key="S.Transitions.FadeTo">Fade To...</s:String>
@@ -1487,23 +1487,23 @@
     <s:String x:Key="S.Transitions.FadeTo.Color">ஒரு வண்ணம்</s:String>
     <s:String x:Key="S.Transitions.Color">வண்ணம்</s:String>
     <s:String x:Key="S.Transitions.Info">தேர்ந்தெடுக்கப்பட்ட சட்டகத்திற்கும் அடுத்த சட்டத்திற்கும் இடையில் மாற்றம் பயன்படுத்தப்படும்.</s:String>
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி-->
+
+    <!--Editor • Save as-->
     <s:String x:Key="S.SaveAs.Type">கோப்பு வகை மற்றும் முன்னமைவு</s:String>
     <s:String x:Key="S.SaveAs.Type.Format">வெளியீட்டு கோப்பின் வடிவம்.</s:String>
-    <s:String x:Key="S.SaveAs.Type.Preset">தற்போது காண்பிக்கப்படும் அனைத்து அமைப்புகளையும் வைத்திருக்கும் ஏற்றுமதி முன்னமைவு.&amp;#10;கீழே உள்ள பொத்தான்கள் வழியாக உங்கள் ஏற்றுமதி முன்னமைவுகளை நிர்வகிக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Type.Preset">தற்போது காண்பிக்கப்படும் அனைத்து அமைப்புகளையும் வைத்திருக்கும் ஏற்றுமதி முன்னமைவு.&#10;கீழே உள்ள பொத்தான்கள் வழியாக உங்கள் ஏற்றுமதி முன்னமைவுகளை நிர்வகிக்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.Type.Animated">அனிமேஷன் படம்</s:String>
     <s:String x:Key="S.SaveAs.Type.Video">வீடியோ</s:String>
     <s:String x:Key="S.SaveAs.Type.Frames">பிரேம்கள்</s:String>
     <s:String x:Key="S.SaveAs.Type.Other">மற்றவை</s:String>
-   
+    
     <s:String x:Key="S.SaveAs.Apng">Apng</s:String>
     <s:String x:Key="S.SaveAs.Apng.Info">அனிமேஷன் போர்ட்டபிள் நெட்வொர்க் கிராபிக்ஸ்</s:String>
     <s:String x:Key="S.SaveAs.Gif">Gif</s:String>
     <s:String x:Key="S.SaveAs.Gif.Info">கிராபிக்ஸ் பரிமாற்ற வடிவம்</s:String>
     <s:String x:Key="S.SaveAs.Webp">Webp</s:String>
     <s:String x:Key="S.SaveAs.Webp.Info">இணையப் படம்</s:String>
-   
+    
     <s:String x:Key="S.SaveAs.Avi">Avi</s:String>
     <s:String x:Key="S.SaveAs.Avi.Info">ஆடியோ வீடியோ இன்டர்லீவ்</s:String>
     <s:String x:Key="S.SaveAs.Mkv">Mkv</s:String>
@@ -1514,20 +1514,20 @@
     <s:String x:Key="S.SaveAs.Mp4.Info">Mpeg-4</s:String>
     <s:String x:Key="S.SaveAs.Webm">Webm</s:String>
     <s:String x:Key="S.SaveAs.Webm.Info">இணையத் திரைப்படம்</s:String>
-   
+    
     <s:String x:Key="S.SaveAs.Bmp">Bmp</s:String>
     <s:String x:Key="S.SaveAs.Bmp.Info">பிட்மேப்</s:String>
     <s:String x:Key="S.SaveAs.Jpeg">Jpeg</s:String>
     <s:String x:Key="S.SaveAs.Jpeg.Info">கூட்டு புகைப்பட நிபுணர்கள் குழு</s:String>
     <s:String x:Key="S.SaveAs.Png">Png</s:String>
     <s:String x:Key="S.SaveAs.Png.Info">போர்ட்டபிள் நெட்வொர்க் கிராபிக்ஸ்</s:String>
-   
+    
     <s:String x:Key="S.SaveAs.Project">திட்டம்</s:String>
-    <s:String x:Key="S.SaveAs.Project.Info">ScreenToGif திட்டம்</s:String>
+    <s:String x:Key="S.SaveAs.Project.Info">திரைபிடிபடம் திட்டம்</s:String>
     <s:String x:Key="S.SaveAs.Psd">Psd</s:String>
     <s:String x:Key="S.SaveAs.Psd.Info">ஃபோட்டோஷாப் கோப்பு</s:String>
-   
-    <!--எடிட்டர் • சேமி > முன்னமைவுகள்-->
+    
+    <!--Editor • Save as > Presets-->
     <s:String x:Key="S.SaveAs.Presets">முன்னமைவுகள்:</s:String>
     <s:String x:Key="S.SaveAs.Presets.Default">இயல்புநிலை</s:String>
     <s:String x:Key="S.SaveAs.Presets.Add">புதிய ஏற்றுமதி முன்னமைவைச் சேர்க்கவும்.</s:String>
@@ -1535,20 +1535,20 @@
     <s:String x:Key="S.SaveAs.Presets.Edit">அடிப்படை ஏற்றுமதி முன்னமைவு அமைப்புகளைத் திருத்து.</s:String>
     <s:String x:Key="S.SaveAs.Presets.Remove">தற்போது தேர்ந்தெடுக்கப்பட்ட ஏற்றுமதி முன்னமைவை அகற்றவும்.</s:String>
     <s:String x:Key="S.SaveAs.Presets.Reset">இந்த ஏற்றுமதி முன்னமைவின் அமைப்புகளை அதன் இயல்புநிலைக்கு மீட்டமைக்கவும்.</s:String>
-   
-    <!--எடிட்டர் • சேமி > முன்னமைவுகள் > உரையாடல்கள்-->
+    
+    <!--Editor • Save as > Presets > Dialogs-->
     <s:String x:Key="S.SaveAs.Presets.Ask.Delete.Title">முன்னமைவை நீக்குகிறது</s:String>
     <s:String x:Key="S.SaveAs.Presets.Ask.Delete.Instruction">நிச்சயமாக முன்னமைவை நீக்க விரும்புகிறீர்களா?</s:String>
-    <s:String x:Key="S.SaveAs.Presets.Ask.Delete.Message">இந்தச் செயலைச் செயல்தவிர்க்க முடியாது.&amp;#10;&amp;#10;தேர்ந்தெடுக்கப்பட்ட முன்னமைவை நீக்க விரும்புகிறீர்களா?</s:String>
+    <s:String x:Key="S.SaveAs.Presets.Ask.Delete.Message">இந்தச் செயலைச் செயல்தவிர்க்க முடியாது.&#10;&#10;தேர்ந்தெடுக்கப்பட்ட முன்னமைவை நீக்க விரும்புகிறீர்களா?</s:String>
     <s:String x:Key="S.SaveAs.Presets.Ask.Reset.Title">முன்னமைவை மீட்டமைத்தல்</s:String>
     <s:String x:Key="S.SaveAs.Presets.Ask.Reset.Instruction">நிச்சயமாக முன்னமைவை மீட்டமைக்க விரும்புகிறீர்களா?</s:String>
-    <s:String x:Key="S.SaveAs.Presets.Ask.Reset.Message">இந்தச் செயலைச் செயல்தவிர்க்க முடியாது.&amp;#10;&amp;#10;தேர்ந்தெடுத்த முன்னமைவை அதன் இயல்புநிலை அமைப்புகளுக்கு மீட்டமைக்க விரும்புகிறீர்களா ?</s:String>
-   
-    <!--எடிட்டர் • ஆக சேமி> குறியாக்கி-->
+    <s:String x:Key="S.SaveAs.Presets.Ask.Reset.Message">இந்தச் செயலைச் செயல்தவிர்க்க முடியாது.&#10;&#10;தேர்ந்தெடுத்த முன்னமைவை அதன் இயல்புநிலை அமைப்புகளுக்கு மீட்டமைக்க விரும்புகிறீர்களா ?</s:String>
+    
+    <!--Editor • Save as > Encoder-->
     <s:String x:Key="S.SaveAs.Encoder">குறியாக்கி</s:String>
     <s:String x:Key="S.SaveAs.Encoder.Quantizer">குறியாக்கி மற்றும் குவாண்டிசர்</s:String>
     <s:String x:Key="S.SaveAs.Encoder.Info">வெளியீட்டு கோப்பை உருவாக்குவதற்கு என்கோடர் பொறுப்பு.</s:String>
-    <s:String x:Key="S.SaveAs.Encoder.ScreenToGif">ScreenToGif</s:String>
+    <s:String x:Key="S.SaveAs.Encoder.ScreenToGif">திரைபிடிபடம்</s:String>
     <s:String x:Key="S.SaveAs.Encoder.ScreenToGif.Info">உள்ளமைக்கப்பட்ட குறியாக்கி.</s:String>
     <s:String x:Key="S.SaveAs.Encoder.KGySoft">KGy சாஃப்ட்</s:String>
     <s:String x:Key="S.SaveAs.Encoder.KGySoft.Info">KGy SOFT GIF குறியாக்கி.</s:String>
@@ -1559,20 +1559,20 @@
     <s:String x:Key="S.SaveAs.Encoder.Gifski">Gifski</s:String>
     <s:String x:Key="S.SaveAs.Encoder.Gifski.Info">வெளிப்புற குறியாக்கி, Gif.ski ஆல் உருவாக்கப்பட்டது.</s:String>
     <s:String x:Key="S.SaveAs.Encoder.Options">குறியாக்கி விருப்பங்கள்</s:String>
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி > FFmpeg-->
+
+    <!--Editor • Save as > FFmpeg-->
     <s:String x:Key="S.SaveAs.Ffmpeg.UseParameters">மேம்பட்ட பயன்முறையை இயக்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.Ffmpeg.UseParameters.Info">குறியாக்கியைக் கட்டுப்படுத்த, அளவுருக்களை கைமுறையாக உள்ளிடவும்.</s:String>
     <s:String x:Key="S.SaveAs.Ffmpeg.Parameters">அளவுருக்கள்:</s:String>
-    <s:String x:Key="S.SaveAs.Ffmpeg.Parameters.Info">FFmpegக்கு அனுப்பப்படும் அளவுருக்களின் பட்டியல்.&amp;#10;&amp;#10;சிறப்பு அளவுருக்கள்:&amp;#10;{I } என்பது உள்ளீட்டு பாதை (பிரேம்கள்).&amp;#10;{O} என்பது வெளியீட்டு பாதை (ஏற்றுமதி செய்யப்பட்ட கோப்பு).&amp;#10;{W} என்பது சட்டகத்தின் அகலம்.&amp;#10;{H } என்பது சட்டகத்தின் உயரம்.</s:String>
+    <s:String x:Key="S.SaveAs.Ffmpeg.Parameters.Info">FFmpegக்கு அனுப்பப்படும் அளவுருக்களின் பட்டியல்.&#10;&#10;சிறப்பு அளவுருக்கள்:&#10;{I } என்பது உள்ளீட்டு பாதை (பிரேம்கள்).&#10;{O} என்பது வெளியீட்டு பாதை (ஏற்றுமதி செய்யப்பட்ட கோப்பு).&#10;{W} என்பது சட்டகத்தின் அகலம்.&#10;{H } என்பது சட்டகத்தின் உயரம்.</s:String>
     <s:String x:Key="S.SaveAs.Ffmpeg.Parameters.Pass">2-பாஸுடன் குறியாக்கம் செய்ய, '-pass 2'ஐச் சேர்க்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.Ffmpeg.Preview">முன்னோட்டம்</s:String>
     <s:String x:Key="S.SaveAs.Ffmpeg.Preview.Info">FFmpeg க்கு அனுப்பப்படும் அளவுரு பட்டியலை முன்னோட்டமிடுங்கள்.</s:String>
     <s:String x:Key="S.SaveAs.Ffmpeg.Help.Code">கோடெக் டாக்ஸ்</s:String>
     <s:String x:Key="S.SaveAs.Ffmpeg.Help.Format">டாக்ஸை வடிவமைக்கவும்</s:String>
     <s:String x:Key="S.SaveAs.Ffmpeg.Help.Filters">டாக்ஸை வடிகட்டி</s:String>
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி > Gif விருப்பங்கள்-->
+    
+    <!--Editor • Save as > Gif options-->
     <s:String x:Key="S.SaveAs.GifOptions">Gif விருப்பங்கள்</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.Quantizer.Info">வண்ண குறைப்பு அல்காரிதம் (அளவாக்கம்).</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.Quantizer.Neural">நியூரல் நெட்வொர்க்</s:String>
@@ -1586,7 +1586,7 @@
     <s:String x:Key="S.SaveAs.GifOptions.Quantizer.MostUsed">அதிகம் பயன்படுத்தப்படும் வண்ணங்கள்</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.Quantizer.MostUsed.Info">பிரேம்களில் அதிகம் பயன்படுத்தப்படும் வண்ணங்களை எடுக்கலாம்.</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.Sampling">மாதிரி:</s:String>
-    <s:String x:Key="S.SaveAs.GifOptions.Sampling.Info">மாதிரி காரணி:&amp;#10;1 இன் மதிப்பு gifஐ சிறப்பாக தோற்றமளிக்கும், ஆனால் வழங்குவது மெதுவாக இருக்கும்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Sampling.Info">மாதிரி காரணி:&#10;1 இன் மதிப்பு gifஐ சிறப்பாக தோற்றமளிக்கும், ஆனால் வழங்குவது மெதுவாக இருக்கும்.</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.Quality">தரம்:</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.Colors">நிறங்கள்:</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.Colors.Info">அதிகபட்ச வண்ணங்களின் எண்ணிக்கை (ஒவ்வொரு சட்டத்திற்கும்).</s:String>
@@ -1601,34 +1601,34 @@
     <s:String x:Key="S.SaveAs.GifOptions.RepeatForever">என்றென்றும் மீண்டும் செய்யவும்.</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.RepeatCount">மீண்டும் எண்ணிக்கை.</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.Transparency.Enable">வெளிப்படைத்தன்மையை இயக்கு.</s:String>
-    <s:String x:Key="S.SaveAs.GifOptions.Transparency.Enable.Info">முழு வெளிப்படைத்தன்மை பயன்முறையை இயக்குகிறது, இது gif இன் பின்னணியை முழுவதுமாக வெளிப்படையாக்குகிறது.&amp;#10;குரோமா விசை மாற்று செயல்முறை இந்த விருப்பம் இயக்கப்பட்டால் புறக்கணிக்கப்படும்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Transparency.Enable.Info">முழு வெளிப்படைத்தன்மை பயன்முறையை இயக்குகிறது, இது gif இன் பின்னணியை முழுவதுமாக வெளிப்படையாக்குகிறது.&#10;குரோமா விசை மாற்று செயல்முறை இந்த விருப்பம் இயக்கப்பட்டால் புறக்கணிக்கப்படும்.</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.Transparency.Pick">எந்த நிறத்தை வெளிப்படையானதாகக் காட்ட வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்.</s:String>
-    <s:String x:Key="S.SaveAs.GifOptions.Transparency.Pick.Info">ஒரு வண்ணம் தேர்ந்தெடுக்கப்பட்டால், அது வெளிப்படையானதாக மாற்றப்பட்டு, உருவாக்கப்பட்ட gif இல் அது வெளிப்படையானதாகத் தோன்றும்.&amp;#10; எந்த நிறமும் தேர்ந்தெடுக்கப்படவில்லை என்றால், அனைத்து வெளிப்படையான நிறங்களும் (ஆல்பா = 0%) பொதுவாக வெளிப்படையானதாக தோன்றும்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Transparency.Pick.Info">ஒரு வண்ணம் தேர்ந்தெடுக்கப்பட்டால், அது வெளிப்படையானதாக மாற்றப்பட்டு, உருவாக்கப்பட்ட gif இல் அது வெளிப்படையானதாகத் தோன்றும்.&#10; எந்த நிறமும் தேர்ந்தெடுக்கப்படவில்லை என்றால், அனைத்து வெளிப்படையான நிறங்களும் (ஆல்பா = 0%) பொதுவாக வெளிப்படையானதாக தோன்றும்.</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.DetectUnchanged">மாறாத பிக்சல்களைக் கண்டறிக.</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.DetectUnchanged.Info">பிரேம்களுக்கு இடையே மாறாத பிக்சல்களை பகுப்பாய்வு செய்து கண்டறிவதன் மூலம், தேவையான பகுதிகளை மட்டும் gif இல் சேமிக்க முடியும்.</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.PaintWithChroma">இந்த பிக்சல்களை ஒரு குரோமா விசையுடன் மாற்றவும்.</s:String>
-    <s:String x:Key="S.SaveAs.GifOptions.PaintWithChroma.Info">மீண்டும்/மாற்றப்படாத பிக்சல்கள் இந்த குரோமா விசையால் மாற்றப்படும்,&amp;#10;ஒரு சட்டத்திற்கு குறைவான வண்ணங்களைப் பயன்படுத்துவதை சாத்தியமாக்குகிறது.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.PaintWithChroma.Info">மீண்டும்/மாற்றப்படாத பிக்சல்கள் இந்த குரோமா விசையால் மாற்றப்படும்,&#10;ஒரு சட்டத்திற்கு குறைவான வண்ணங்களைப் பயன்படுத்துவதை சாத்தியமாக்குகிறது.</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.ChromaKey">குரோமா விசை:</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.Dither">Dither:</s:String>
     <s:String x:Key="S.SaveAs.GifOptions.Dither.Scale">பேயர் அளவுகோல்:</s:String>
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி > KGy SOFT விருப்பங்கள்-->
+
+    <!--Editor • Save as > KGy SOFT options-->
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer">குவாண்டிசர்</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.BackColor">பின்னணி நிறம்:</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.BackColor.Info">தேர்ந்தெடுக்கப்பட்ட குவாண்டிசரால் ஒளிபுகாதாகக் கருதப்படும் ஆல்பா (வெளிப்படைத்தன்மை) கொண்ட பிக்சல்கள், அளவிடப்பட்ட நிறத்தைப் பெறுவதற்கு முன், இந்த நிறத்துடன் கலக்கப்படும்.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.AlphaThreshold">ஆல்ஃபா த்ரெஷோல்ட்:</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.AlphaThreshold.Info">அளவிடப்பட்ட நிறம் வெளிப்படையானதாக இருக்கும் உள்ளீட்டு ஆல்பா மதிப்பைத் தீர்மானிக்கிறது.&amp;#x0d;&amp;#x0a;0 என்றால், பிறகு முடிவு ஒருபோதும் வெளிப்படைத்தன்மையைக் கொண்டிருக்காது.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.AlphaThreshold.Info">அளவிடப்பட்ட நிறம் வெளிப்படையானதாக இருக்கும் உள்ளீட்டு ஆல்பா மதிப்பைத் தீர்மானிக்கிறது.&#x0d;&#x0a;0 என்றால், பிறகு முடிவு ஒருபோதும் வெளிப்படைத்தன்மையைக் கொண்டிருக்காது.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.WhiteThreshold">வெள்ளை வாசல்:</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.WhiteThreshold.Info">முடிவு நிறத்தை வெள்ளையாகக் கருதுவதற்கு குறைந்த உள்ளீடு பிரகாசத்தைத் தீர்மானிக்கிறது.&amp;#x0d;&amp;#x0a;இது பிரகாசத்தை பாதிக்கிறது முடிவு. இந்த அளவுருவின் மதிப்பை ஒரு பிழை பரவல் டிதரிங் ஈடுசெய்யலாம்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.WhiteThreshold.Info">முடிவு நிறத்தை வெள்ளையாகக் கருதுவதற்கு குறைந்த உள்ளீடு பிரகாசத்தைத் தீர்மானிக்கிறது.&#x0d;&#x0a;இது பிரகாசத்தை பாதிக்கிறது முடிவு. இந்த அளவுருவின் மதிப்பை ஒரு பிழை பரவல் டிதரிங் ஈடுசெய்யலாம்.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.DirectMapping">நேரடி மேப்பிங்</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.DirectMapping.Info">சரிபார்க்கப்படும்போது, ​​அருகிலுள்ள தட்டு உள்ளீட்டைப் பார்க்காமல், நேரடி மேப்பிங்கின் மூலம் அளவிடப்பட்ட வண்ணம் தீர்மானிக்கப்படுகிறது.&amp;#x0d;&amp; #x0a;இது அளவுப்படுத்தலை விரைவுபடுத்துகிறது, ஆனால் அதிக மாறுபட்ட முடிவில் முடிவடையும். இந்த அளவுருவின் மதிப்பை ஒரு பிழை பரவல் டித்தரிங் ஈடுசெய்யலாம்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.DirectMapping.Info">சரிபார்க்கப்படும்போது, ​​அருகிலுள்ள தட்டு உள்ளீட்டைப் பார்க்காமல், நேரடி மேப்பிங்கின் மூலம் அளவிடப்பட்ட வண்ணம் தீர்மானிக்கப்படுகிறது.&#x0d;&#x0a;இது அளவுப்படுத்தலை விரைவுபடுத்துகிறது, ஆனால் அதிக மாறுபட்ட முடிவில் முடிவடையும். இந்த அளவுருவின் மதிப்பை ஒரு பிழை பரவல் டித்தரிங் ஈடுசெய்யலாம்.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PaletteSize">தட்டு அளவு:</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PaletteSize.Info">ஒரு ஃபிரேமிற்கான தட்டுகளின் அதிகபட்ச அளவை தீர்மானிக்கிறது.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.CustomBitLevel">தனிப்பயன் பிட் நிலை.</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.CustomBitLevel.Info">சரிபார்க்கும்போது, ​​பிட் அளவை கைமுறையாக உள்ளமைக்க முடியும்.&amp;#x0d;&amp;#x0a;⚠️ எச்சரிக்கை: அதிக பிட் நிலை நிறைய நினைவகம் தேவைப்படலாம்!</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.BitLevel.Info">அதிக மதிப்பு என்பது அதிக துல்லியம், பெரிய இலக்கு வண்ண இடம், மெதுவான செயலாக்கம் மற்றும் அதிக நினைவக பயன்பாடு.&amp;#x0d;&amp;#x0a; எடுத்துக்காட்டாக, 1 எனில், அதன் விளைவாக 8 நிறங்களுக்கு மேல் இருக்கக்கூடாது, அல்லது 2 என்றால், 64 நிறங்களுக்கு மேல் இருக்கக்கூடாது. .&amp;#x0d;&amp;#x0a;உதாரணமாக, 5 என்றால் (இது வூ குவாண்டிசரின் இயல்புநிலை), 32 ஒரே வண்ணமுடைய நிழல்களை மட்டுமே வேறுபடுத்த முடியும்.&amp;#x0d;&amp;#x0a;⚠️ எச்சரிக்கை: தி வு குவாண்டிசர் அதிகபட்ச மதிப்புடன் குறைந்தபட்சம் 650 MB ஐப் பயன்படுத்துகிறது.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.CustomBitLevel.Info">சரிபார்க்கும்போது, ​​பிட் அளவை கைமுறையாக உள்ளமைக்க முடியும்.&#x0d;&#x0a;⚠️ எச்சரிக்கை: அதிக பிட் நிலை நிறைய நினைவகம் தேவைப்படலாம்!</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.BitLevel.Info">அதிக மதிப்பு என்பது அதிக துல்லியம், பெரிய இலக்கு வண்ண இடம், மெதுவான செயலாக்கம் மற்றும் அதிக நினைவக பயன்பாடு.&#x0d;&#x0a; எடுத்துக்காட்டாக, 1 எனில், அதன் விளைவாக 8 நிறங்களுக்கு மேல் இருக்கக்கூடாது, அல்லது 2 என்றால், 64 நிறங்களுக்கு மேல் இருக்கக்கூடாது. .&#x0d;&#x0a;உதாரணமாக, 5 என்றால் (இது வூ குவாண்டிசரின் இயல்புநிலை), 32 ஒரே வண்ணமுடைய நிழல்களை மட்டுமே வேறுபடுத்த முடியும்.&#x0d;&#x0a;⚠️ எச்சரிக்கை: தி வு குவாண்டிசர் அதிகபட்ச மதிப்புடன் குறைந்தபட்சம் 650 MB ஐப் பயன்படுத்துகிறது.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.LinearColorSpace">லீனியர் கலர் ஸ்பேஸ்</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.LinearColorSpace.Info">சரிபார்க்கப்படும் போது, ​​சில செயல்பாடுகள் (பின்னணி நிறத்துடன் ஆல்பாவை கலத்தல், அளவீடு செய்தல், துண்டித்தல், தட்டில் அருகில் உள்ள வண்ணங்களைப் பார்ப்பது) sRGB ஒன்றை விட நேரியல் வண்ண இடைவெளி. &amp;#x0a;&amp;#x0d;&amp;#x0a;⚠️ குறிப்பு: ஒரு சில வண்ணங்களைப் பயன்படுத்தும் போது, ​​sRGB வண்ண இடத்தில் WPF மறுஅளவிடுதலைச் செய்வதால், சாத்தியமான அளவு மாற்றப்பட்ட மாதிரிக்காட்சியின் பிரகாசம் தவறாக இருக்கலாம்.</s:String >
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.LinearColorSpace.Info">சரிபார்க்கப்படும் போது, ​​சில செயல்பாடுகள் (பின்னணி நிறத்துடன் ஆல்பாவை கலத்தல், அளவீடு செய்தல், துண்டித்தல், தட்டில் அருகில் உள்ள வண்ணங்களைப் பார்ப்பது) sRGB ஒன்றை விட நேரியல் வண்ண இடைவெளி. &#x0a;&#x0d;&#x0a;⚠️ குறிப்பு: ஒரு சில வண்ணங்களைப் பயன்படுத்தும் போது, ​​sRGB வண்ண இடத்தில் WPF மறுஅளவிடுதலைச் செய்வதால், சாத்தியமான அளவு மாற்றப்பட்ட மாதிரிக்காட்சியின் பிரகாசம் தவறாக இருக்கலாம்.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.BlackAndWhite">கருப்பு மற்றும் வெள்ளை</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.BlackAndWhite.Info">கருப்பு மற்றும் வெள்ளை நிறங்களுடன் நிலையான 1 பிபிபி தட்டு.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Grayscale4">கிரேஸ்கேல் 4 நிறங்கள்</s:String>
@@ -1649,16 +1649,16 @@
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.MedianCut.Info">மீடியன் கட் அல்காரிதம் மூலம் ஒவ்வொரு ஃப்ரேமிற்கும் பேலட்டை மேம்படுத்துகிறது.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.Wu">Wu Quantizer</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.Wu.Info">Xiaolin Wu இன் அல்காரிதம் மூலம் ஒவ்வொரு சட்டகத்திற்கும் தட்டுகளை மேம்படுத்துகிறது.</s:String>
-   
+
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer">டித்தரர்</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.Strength">பலம்:</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.Strength.Info">டித்தரரின் வலிமை அல்லது வலிமையை தானாக அளவீடு செய்ய 0.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.Seed">விதை:</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.Seed.Info">குறிப்பிட்ட சீரற்ற டித்தரிங் பேட்டர்னை உருவாக்க ஒரு முழு எண் விதை பயன்படுத்தப்படும்.&amp;#x0d;&amp;#x0a;பயன்படுத்த காலியாக விடவும் ஒவ்வொரு சட்டத்திற்கும் ஒரு சீரற்ற விதை.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.Seed.Info">குறிப்பிட்ட சீரற்ற டித்தரிங் பேட்டர்னை உருவாக்க ஒரு முழு எண் விதை பயன்படுத்தப்படும்.&#x0d;&#x0a;பயன்படுத்த காலியாக விடவும் ஒவ்வொரு சட்டத்திற்கும் ஒரு சீரற்ற விதை.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.None">இல்லை</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.None.Info">பிரேம்கள் சிதைவடையாமல் அளவிடப்படுகின்றன.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.IsSerpentineProcessing">பாம்பு செயலாக்கம்</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.IsSerpentineProcessing.Info">சரிபார்க்கும்போது, ​​பிழை பரப்பும் திசையானது வரியிலிருந்து வரிக்கு மாற்றப்படுகிறது.&amp;#x0d;&amp;#x0a;இது குறைக்க உதவுகிறது பிழை பரவல் சிதைவின் சிற்றலை விளைவு.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.IsSerpentineProcessing.Info">சரிபார்க்கும்போது, ​​பிழை பரப்பும் திசையானது வரியிலிருந்து வரிக்கு மாற்றப்படுகிறது.&#x0d;&#x0a;இது குறைக்க உதவுகிறது பிழை பரவல் சிதைவின் சிற்றலை விளைவு.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer2X2">பேயர் 2x2 (ஆர்டர் செய்யப்பட்டது)</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer2X2.Info">2x2 பேயர் மேட்ரிக்ஸ் பேட்டர்ன்.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer3X3">பேயர் 3x3 (ஆர்டர் செய்யப்பட்டது)</s:String>
@@ -1678,7 +1678,7 @@
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.FloydSteinberg">Floyd-Steinberg (பிழை பரவல்)</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.FloydSteinberg.Info">ஃபிலாய்ட் மற்றும் ஸ்டெய்ன்பெர்க்கின் அசல் 3x2 மேட்ரிக்ஸ்.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.JarvisJudiceNinke">Jarvis-Judice-Ninke (பிழை பரவல்)</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.JarvisJudiceNinke.Info">    ஜார்விஸ், ஜூடிஸ் மற்றும் நின்கே வழங்கிய 5x3 அணி.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.JarvisJudiceNinke.Info">சார்விச், சூடிச் மற்றும் நின்கே வழங்கிய 5x3 அணி.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Sierra3">சியரா 3 (பிழை பரவல்)</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Sierra3.Info">Frankie Sierra's 5x3 matrix.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Sierra2">சியரா 2 (பிழை பரவல்)</s:String>
@@ -1693,31 +1693,31 @@
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.RandomNoiseDitherer.Info">சீரற்ற வெள்ளை இரைச்சல்.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.InterleavedGradientNoiseDitherer">இன்டர்லீவ் கிரேடியன்ட் சத்தம்</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.InterleavedGradientNoiseDitherer.Info">சூத்திரத்தால் உருவாக்கப்பட்ட சீரற்ற சாய்வு இரைச்சல்.</s:String>
-   
+
     <s:String x:Key="S.SaveAs.KGySoft.Preview">முன்னோட்டம்</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Preview.ShowCurrentFrame">தற்போதைய சட்டகத்தைக் காட்டு.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Preview.ShowCurrentFrame.Info">சரிபார்க்கும்போது, ​​மாதிரிக்காட்சியானது நிலையான பட உதாரணத்திற்கு பதிலாக தற்போதைய சட்டகத்தை காட்டுகிறது.</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Preview.Refresh">தற்போதைய அமைப்புகளின் அதிக நினைவகத் தேவையின் காரணமாக தானியங்கு முன்னோட்டம் முடக்கப்பட்டுள்ளது. முன்னோட்டத்தைப் புதுப்பிக்க கிளிக் செய்யவும்.</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Preview.Error">முன்னோட்டத்தை உருவாக்குவதில் தோல்வி: {0}&amp;#x0d;&#x0a;அதை மீண்டும் உருவாக்க முயற்சிக்க கிளிக் செய்யவும்.</s:String>
-   
+    <s:String x:Key="S.SaveAs.KGySoft.Preview.Refresh">தற்போதைய அமைப்புகளின் அதிக நினைவகத் தேவையின் காரணமாக தானியங்கு முன்னோட்டம் முடக்கப்பட்டுள்ளது. முன்னோட்டத்தைப் புதுப்பிக்க சொடுக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Preview.Error">முன்னோட்டத்தை உருவாக்குவதில் தோல்வி: {0}&#x0d;&#x0a;அதை மீண்டும் உருவாக்க முயற்சிக்க சொடுக்கவும்.</s:String>
+
     <s:String x:Key="S.SaveAs.KGySoft.Animation">அனிமேஷன் அமைப்புகள்</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Animation.EndlessLoop">முடிவற்ற லூப்.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Animation.EndlessLoop.Info">சரிபார்க்கும்போது, ​​அனிமேஷன் காலவரையின்றி லூப் செய்யப்படும்.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Animation.PingPong">முன்னும் பின்னுமாக.</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Animation.PingPong.Info">சரிபார்க்கும்போது, ​​அனிமேஷன் முன்னும் பின்னுமாக இயக்கப்படும்.&amp;#x0d;&amp;#x0a;இதை நகலெடுப்பதன் மூலம் இது அடையப்படுகிறது பிரேம்கள் பெரிய கோப்பு அளவு மற்றும் நீண்ட குறியாக்க நேரத்தைக் குறிக்கும்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.PingPong.Info">சரிபார்க்கும்போது, ​​அனிமேஷன் முன்னும் பின்னுமாக இயக்கப்படும்.&#x0d;&#x0a;இதை நகலெடுப்பதன் மூலம் இது அடையப்படுகிறது பிரேம்கள் பெரிய கோப்பு அளவு மற்றும் நீண்ட குறியாக்க நேரத்தைக் குறிக்கும்.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Animation.LoopCount">மீண்டும் எண்ணிக்கை:</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Animation.LoopCount.Info">அனிமேஷன் எத்தனை முறை இயக்கப்படும் என்பதைக் குறிப்பிடுகிறது.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowDeltaFrames">டெல்டா பிரேம்களை அனுமதி.</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowDeltaFrames.Info">சரிபார்க்கப்படும் போது, ​​குறியாக்கத்தின் போது மாறாத பிக்சல்கள் கண்டறிய முயற்சிக்கும்.&amp;#x0d;&amp;#x0a; மேம்படுத்தப்பட்ட குவாண்டிசர், இந்த விருப்பம் ஒரு சட்டகத்திற்கு 256க்கும் மேற்பட்ட வண்ணங்களைக் கொண்டிருப்பதை சாத்தியமாக்குகிறது. &amp;#x0a;&amp;#x0d;&amp;#x0a;⚠️ குறிப்பு: இந்த விருப்பமானது குறிப்பிடத்தக்க கலைப்பொருட்களை நிறங்களிலோ அல்லது சிதைவு வடிவத்திலோ ஏற்படுத்தலாம்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowDeltaFrames.Info">சரிபார்க்கப்படும் போது, ​​குறியாக்கத்தின் போது மாறாத பிக்சல்கள் கண்டறிய முயற்சிக்கும்.&#x0d;&#x0a; மேம்படுத்தப்பட்ட குவாண்டிசர், இந்த விருப்பம் ஒரு சட்டகத்திற்கு 256க்கும் மேற்பட்ட வண்ணங்களைக் கொண்டிருப்பதை சாத்தியமாக்குகிறது. &#x0a;&#x0d;&#x0a;⚠️ குறிப்பு: இந்த விருப்பமானது குறிப்பிடத்தக்க கலைப்பொருட்களை நிறங்களிலோ அல்லது சிதைவு வடிவத்திலோ ஏற்படுத்தலாம்.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Animation.DeltaTolerance">டெல்டா சகிப்புத்தன்மை:</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Animation.DeltaTolerance.Info">மாற்றப்பட்ட பிக்சல்களைக் கண்டறியும் போது அதிகபட்ச சகிப்புத்தன்மையைக் குறிப்பிடுகிறது அனைத்தும். மேம்படுத்தப்பட்ட குவாண்டிசருக்கு 16. நிலையான வண்ணங்களைக் கொண்டவை, சற்றே பெரிய மதிப்புகளுடன் டித்தரிங் மூலம் பயன்படுத்தப்படலாம்.</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Animation.HighDeltaTolerance">டெல்டா சகிப்புத்தன்மை மிக அதிகமாக இருந்தால், விளைவு மோசமான தரத்தைக் கொண்டிருக்கலாம். டெல்டா சகிப்புத்தன்மையை மீட்டமைக்க கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.HighDeltaTolerance">டெல்டா சகிப்புத்தன்மை மிக அதிகமாக இருந்தால், விளைவு மோசமான தரத்தைக் கொண்டிருக்கலாம். டெல்டா சகிப்புத்தன்மையை மீட்டமைக்க சொடுக்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowClippedFrames">கிளிப் செய்யப்பட்ட பிரேம்களை அனுமதி.</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowClippedFrames.Info">சரிபார்க்கும்போது, ​​உண்மையான தெளிவுத்திறனைக் காட்டிலும் சிறிய ஃப்ரேம்களைச் சேர்க்க குறியாக்கி அனுமதிக்கப்படும்.&amp;#x0d;&amp;#x0a;அனுமதித்தால் டெல்டா ஃப்ரேம்கள் தேர்வு செய்யப்படவில்லை, பின்னர் சாத்தியமான வெளிப்படையான பார்டர்களை கிளிப்பிங் செய்ய மட்டுமே அனுமதிக்கிறது.</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowDeltaIgnored">தற்போதைய உள்ளமைவு ஆல்பாவைப் பயன்படுத்தாததால் டெல்டா ஃப்ரேம்களை அனுமதி என்பது புறக்கணிக்கப்பட்டது மற்றும் கிளிப் செய்யப்பட்ட பிரேம்களை அனுமதி என்பது தேர்வு செய்யப்படவில்லை. கிளிப் செய்யப்பட்ட பிரேம்களை இயக்க கிளிக் செய்யவும்.</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowClippedIgnored">தற்போதைய உள்ளமைவு ஆல்பாவைப் பயன்படுத்தாததாலும், டெல்டா ஃப்ரேம்களை அனுமதிப்பதாலும் தேர்வு செய்யப்படாததால், கிளிப் செய்யப்பட்ட பிரேம்களை அனுமதித்தால் எந்தப் பலனும் இல்லை. டெல்டா ஃப்ரேம்களை இயக்க கிளிக் செய்யவும்.</s:String>
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி > Apng விருப்பங்கள்-->
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowClippedFrames.Info">சரிபார்க்கும்போது, ​​உண்மையான தெளிவுத்திறனைக் காட்டிலும் சிறிய ஃப்ரேம்களைச் சேர்க்க குறியாக்கி அனுமதிக்கப்படும்.&#x0d;&#x0a;அனுமதித்தால் டெல்டா ஃப்ரேம்கள் தேர்வு செய்யப்படவில்லை, பின்னர் சாத்தியமான வெளிப்படையான பார்டர்களை கிளிப்பிங் செய்ய மட்டுமே அனுமதிக்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowDeltaIgnored">தற்போதைய உள்ளமைவு ஆல்பாவைப் பயன்படுத்தாததால் டெல்டா ஃப்ரேம்களை அனுமதி என்பது புறக்கணிக்கப்பட்டது மற்றும் கிளிப் செய்யப்பட்ட பிரேம்களை அனுமதி என்பது தேர்வு செய்யப்படவில்லை. கிளிப் செய்யப்பட்ட பிரேம்களை இயக்க சொடுக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowClippedIgnored">தற்போதைய உள்ளமைவு ஆல்பாவைப் பயன்படுத்தாததாலும், டெல்டா ஃப்ரேம்களை அனுமதிப்பதாலும் தேர்வு செய்யப்படாததால், கிளிப் செய்யப்பட்ட பிரேம்களை அனுமதித்தால் எந்தப் பலனும் இல்லை. டெல்டா ஃப்ரேம்களை இயக்க சொடுக்கவும்.</s:String>
+
+    <!--Editor • Save as > Apng options-->
     <s:String x:Key="S.SaveAs.ApngOptions">Apng விருப்பங்கள்</s:String>
     <s:String x:Key="S.SaveAs.ApngOptions.Prediction">கணிப்பு:</s:String>
     <s:String x:Key="S.SaveAs.ApngOptions.Prediction.None">இல்லை</s:String>
@@ -1728,25 +1728,25 @@
     <s:String x:Key="S.SaveAs.ApngOptions.Looped">Loped apng.</s:String>
     <s:String x:Key="S.SaveAs.ApngOptions.DetectUnchanged">மாறாத பிக்சல்களைக் கண்டறிக.</s:String>
     <s:String x:Key="S.SaveAs.ApngOptions.PaintTransparent">அனைத்து மாறாத பிக்சல்களையும் வெளிப்படையான நிறத்துடன் பெயிண்ட் செய்யவும்.</s:String>
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி > Webp விருப்பங்கள்-->
+    
+    <!--Editor • Save as > Webp options-->
     <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset">முன்னமைவு:</s:String>
     <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.None">இல்லை</s:String>
     <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Default">இயல்புநிலை</s:String>
     <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Picture">படம்</s:String>
     <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Photo">புகைப்படம்</s:String>
     <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Drawing">வரைதல்</s:String>
-    <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Icon">ஐகான்</s:String>
+    <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Icon">சிறியபடம்</s:String>
     <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Text">உரை</s:String>
     <s:String x:Key="S.SaveAs.WebpOptions.Lossless">இழப்பற்ற பயன்முறையைப் பயன்படுத்தவும்.</s:String>
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி > வீடியோ விருப்பங்கள்-->
+    
+    <!--Editor • Save as > Video options-->
     <s:String x:Key="S.SaveAs.VideoOptions.Mode">முறை:</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.Mode.Normal">இயல்பான</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.Mode.Advanced">மேம்பட்டது</s:String>
-    <s:String x:Key="S.SaveAs.VideoOptions.Mode.Info">குறியாக்கி அளவுருக்களை உள்ளமைக்கும் முறை:&amp;#10;இயல்பு: நிலையான UI கட்டுப்பாடுகளைப் பயன்படுத்தவும்.&amp;#10;மேம்பட்டது: உரைப்பெட்டியைப் பயன்படுத்தவும் அளவுருக்களை தட்டச்சு செய்ய.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Mode.Info">குறியாக்கி அளவுருக்களை உள்ளமைக்கும் முறை:&#10;இயல்பு: நிலையான UI கட்டுப்பாடுகளைப் பயன்படுத்தவும்.&#10;மேம்பட்டது: உரைப்பெட்டியைப் பயன்படுத்தவும் அளவுருக்களை தட்டச்சு செய்ய.</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.Codec">கோடெக்:</s:String>
-    <s:String x:Key="S.SaveAs.VideoOptions.Codec.Info">வீடியோ குறியாக்கி, மூல பிக்சல்களை வெளியீட்டு கோப்பாக மாற்றுவதற்கு&amp;#10;பொறுப்பு.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Codec.Info">வீடியோ குறியாக்கி, மூல பிக்சல்களை வெளியீட்டு கோப்பாக மாற்றுவதற்கு&#10;பொறுப்பு.</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset">முன்னமைவு:</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.None">இல்லை</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.VerySlow">மிகவும் மெதுவாக</s:String>
@@ -1770,12 +1770,12 @@
     <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.LowLatency">குறைந்த தாமதம்</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.LowLatencyHp">குறைந்த தாமதம் (உயர் செயல்திறன்)</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.LowLatencyHq">குறைந்த தாமதம் (உயர் தரம்)</s:String>
-    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Info">என்கோடிங் வேகம் சுருக்க விகிதத்தில்,&amp;#10;மெதுவான முன்னமைவுகள் உங்களுக்கு சிறந்த சுருக்கத்தை வழங்கலாம்&amp;#10;(கோப்பின் அளவுக்கே தரம்).</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Info">என்கோடிங் வேகம் சுருக்க விகிதத்தில்,&#10;மெதுவான முன்னமைவுகள் உங்களுக்கு சிறந்த சுருக்கத்தை வழங்கலாம்&#10;(கோப்பின் அளவுக்கே தரம்).</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration">Hardware Ac.:</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration.Off">முடக்கு</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration.On">ஆன்</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration.Auto">தானியங்கு தேர்வு</s:String>
-    <s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration.Info">பிரத்யேக வன்பொருளின் (வீடியோ கிராபிக்ஸ்) பயன்பாட்டைக் கட்டுப்படுத்துகிறது.&amp;#10;ஆஃப்: பிரத்யேக வன்பொருளைப் பயன்படுத்தாது.&amp;#10; ஆன்: பிரத்யேக வன்பொருளைப் பயன்படுத்துகிறது மற்றும் சிறப்பு குறியாக்கிகளைத் தேர்ந்தெடுக்க உங்களை அனுமதிக்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration.Info">பிரத்யேக வன்பொருளின் (வீடியோ கிராபிக்ஸ்) பயன்பாட்டைக் கட்டுப்படுத்துகிறது.&#10;ஆஃப்: பிரத்யேக வன்பொருளைப் பயன்படுத்தாது.&#10; ஆன்: பிரத்யேக வன்பொருளைப் பயன்படுத்துகிறது மற்றும் சிறப்பு குறியாக்கிகளைத் தேர்ந்தெடுக்க உங்களை அனுமதிக்கிறது.</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.PixelFormat">பிக்சல் வடிவம்:</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.PixelFormat.Auto">தானியங்கி</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.Vsync">Vsync:</s:String>
@@ -1788,7 +1788,7 @@
     <s:String x:Key="S.SaveAs.VideoOptions.Framerate.Film">திரைப்படம்</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.Framerate.Custom">தனிப்பயன்</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.Pass">பாஸ்:</s:String>
-    <s:String x:Key="S.SaveAs.VideoOptions.Crf.Info">நிலையான விகிதக் காரணி.&amp;#10;தரம் மற்றும் விகிதக் கட்டுப்பாடு அமைப்பு இந்த சொத்தை அமைக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Crf.Info">நிலையான விகிதக் காரணி.&#10;தரம் மற்றும் விகிதக் கட்டுப்பாடு அமைப்பு இந்த சொத்தை அமைக்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.QualityLevel">தர நிலை:</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.QualityLevel.Info">சிறிய மதிப்புகள் சிறந்த தரத்தை குறிக்கும்.</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.Bitrate">பிட்ரேட்:</s:String>
@@ -1797,23 +1797,23 @@
     <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Mode.Constant">நிலையான</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Mode.Variable">மாறி</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Minimum">குறைந்தபட்ச விகிதம்:</s:String>
-    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Minimum.Info">குறைந்தபட்ச பிட்ரேட் சகிப்புத்தன்மை.&amp;#10;CBR பயன்முறையைப் பயன்படுத்தும் போது மிகவும் பயனுள்ளதாக இருக்கும் இந்த சொத்து.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Minimum.Info">குறைந்தபட்ச பிட்ரேட் சகிப்புத்தன்மை.&#10;CBR பயன்முறையைப் பயன்படுத்தும் போது மிகவும் பயனுள்ளதாக இருக்கும் இந்த சொத்து.</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Maximum">அதிகபட்ச விகிதம்:</s:String>
-    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Maximum.Info">அதிகபட்ச பிட்ரேட் சகிப்புத்தன்மை பூஜ்ஜியத்திற்கு &amp;#10;நீங்கள் இந்த சொத்தை அமைக்க விரும்பவில்லை என்றால்.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Maximum.Info">அதிகபட்ச பிட்ரேட் சகிப்புத்தன்மை பூஜ்ஜியத்திற்கு &#10;நீங்கள் இந்த சொத்தை அமைக்க விரும்பவில்லை என்றால்.</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Buffer">இடையக அளவு:</s:String>
-    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Buffer.Info">விகிதக் கட்டுப்பாட்டு இடையக அளவு.&amp;#10;அதை காலியாக விடவும் அல்லது பூஜ்ஜியத்திற்கு அமைக்கவும் இந்த சொத்தை அமைக்க.</s:String>
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி > பட விருப்பங்கள்-->
+    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Buffer.Info">விகிதக் கட்டுப்பாட்டு இடையக அளவு.&#10;அதை காலியாக விடவும் அல்லது பூஜ்ஜியத்திற்கு அமைக்கவும் இந்த சொத்தை அமைக்க.</s:String>
+
+    <!--Editor • Save as > Image options-->
     <s:String x:Key="S.SaveAs.ImageOptions.Zip">படங்களை ஜிப் செய்யவும்.</s:String>
     <s:String x:Key="S.SaveAs.ImageOptions.Zip.Info">ஜிப் செய்யப்பட்ட கோப்புறையில் உள்ள படங்களை ஏற்றுமதி செய்கிறது.</s:String>
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி > Psd விருப்பங்கள்-->
+    
+    <!--Editor • Save as > Psd options-->
     <s:String x:Key="S.SaveAs.PsdOptions.Compress">படத்தை சுருக்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.PsdOptions.Compress.Info">RLE அல்காரிதத்தைப் பயன்படுத்தி படத் தரவைச் சுருக்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.PsdOptions.Timeline">காலவரிசைத் தரவைச் சேமிக்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.PsdOptions.Timeline.Info">ஃப்ரேம்களுக்குப் பதிலாக ஃப்ரேம்களின் நேரத்தை ஏற்றுமதி செய்கிறது.</s:String>
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி > விருப்பங்களைச் சேமி-->
+    
+    <!--Editor • Save as > Save options-->
     <s:String x:Key="S.SaveAs.SaveOptions">ஏற்றுமதி விருப்பங்கள்</s:String>
     <s:String x:Key="S.SaveAs.SaveOptions.Partial">பகுதி ஏற்றுமதி.</s:String>
     <s:String x:Key="S.SaveAs.SaveOptions.PickFolder">உங்களுக்கு விருப்பமான கோப்புறையில் கோப்பைச் சேமிக்கவும்.</s:String>
@@ -1826,7 +1826,7 @@
     <s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode.Allow.Info">கோப்பை மேலெழுதும்.</s:String>
     <s:String x:Key="S.SaveAs.SaveOptions.ProjectToo">திட்டமாகவும் சேமிக்கவும் (அதே கோப்புறை, அதே கோப்பு பெயர்).</s:String>
     <s:String x:Key="S.SaveAs.SaveOptions.UploadFile">கோப்பைப் பதிவேற்றவும்.</s:String>
-    <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard">கிளிப்போர்டுக்கு நகலெடுக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard">கிளிப்பலகைக்கு நகலெடுக்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.File">கோப்பு</s:String>
     <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.File.Info">வெளியீட்டு கோப்பை கிளிப்போர்டில் நகலெடுக்கிறது.</s:String>
     <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.FolderPath">கோப்புறை பாதை</s:String>
@@ -1836,9 +1836,9 @@
     <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.Link">இணைப்பு</s:String>
     <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.Link.Info">கிளிப்போர்டில் பதிவேற்ற சேவையால் உருவாக்கப்பட்ட இணைப்பை நகலெடுக்கிறது.</s:String>
     <s:String x:Key="S.SaveAs.SaveOptions.ExecuteCommands">இடுகை குறியாக்க கட்டளைகளை இயக்கவும்.</s:String>
-    <s:String x:Key="S.SaveAs.SaveOptions.ExecuteCommands.Info">குறியீட்டிற்குப் பிறகு செயல்படுத்த வேண்டிய கட்டளைகளைத் தட்டச்சு செய்க.&amp;#x0d;பல கட்டளைகளை இயக்க, ஒவ்வொன்றையும் தனித்தனி வரியில் தட்டச்சு செய்யவும்.&amp;# x0d;மேக்ரோக்கள்:&amp;#x0d;{p} = வெளியீட்டு கோப்பு பாதை.&amp;#x0d;{f} = வெளியீட்டு கோப்புறை பாதை.&amp;#x0d;{u} = பதிவேற்றப்பட்ட கோப்பின் URL.</s:String >
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி > பகுதி ஏற்றுமதி-->
+    <s:String x:Key="S.SaveAs.SaveOptions.ExecuteCommands.Info">குறியீட்டிற்குப் பிறகு செயல்படுத்த வேண்டிய கட்டளைகளைத் தட்டச்சு செய்க.&#x0d;பல கட்டளைகளை இயக்க, ஒவ்வொன்றையும் தனித்தனி வரியில் தட்டச்சு செய்யவும்.&# x0d;மேக்ரோக்கள்:&#x0d;{p} = வெளியீட்டு கோப்பு பாதை.&#x0d;{f} = வெளியீட்டு கோப்புறை பாதை.&#x0d;{u} = பதிவேற்றப்பட்ட கோப்பின் URL.</s:String>
+    
+    <!--Editor • Save As > Partial export-->
     <s:String x:Key="S.SaveAs.Partial">பகுதி ஏற்றுமதி</s:String>
     <s:String x:Key="S.SaveAs.Partial.Mode">முறை:</s:String>
     <s:String x:Key="S.SaveAs.Partial.Mode.Info">பகுதி ஏற்றுமதி முறையைத் தேர்ந்தெடுக்கவும்.</s:String>
@@ -1856,13 +1856,13 @@
     <s:String x:Key="S.SaveAs.Partial.From">இருந்து:</s:String>
     <s:String x:Key="S.SaveAs.Partial.To">இவருக்கு:</s:String>
     <s:String x:Key="S.SaveAs.Partial.Expression">வெளிப்பாடு:</s:String>
-    <s:String x:Key="S.SaveAs.Partial.Expression.Info">பிரேம் எண்களை காற்புள்ளியால் பிரிக்கவும் அல்லது &amp;#10;பிரேம் வரிசைகளை கழித்தல் குறியால் பிரிக்கவும்:&amp;#10;1, 3, 4 , 6 - 9</s:String>
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி > கோப்பு-->
+    <s:String x:Key="S.SaveAs.Partial.Expression.Info">பிரேம் எண்களை காற்புள்ளியால் பிரிக்கவும் அல்லது &#10;பிரேம் வரிசைகளை கழித்தல் குறியால் பிரிக்கவும்:&#10;1, 3, 4 , 6 - 9</s:String>
+    
+    <!--Editor • Save as > File-->
     <s:String x:Key="S.SaveAs.File">கோப்பு</s:String>
     <s:String x:Key="S.SaveAs.File.Location">இலக்குக் கோப்புறை.</s:String>
     <s:String x:Key="S.SaveAs.File.SelectFolder">வெளியீட்டு கோப்புறையைத் தேர்ந்தெடுக்கவும்</s:String>
-    <s:String x:Key="S.SaveAs.File.Choose">இடத்தைத் தேர்ந்தெடுக்கவும்.&amp;#x0d;Shift ஐ அழுத்தி &amp;#x0d;கோப்பின் பெயரையும் தேர்ந்தெடுக்க கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.SaveAs.File.Choose">இடத்தைத் தேர்ந்தெடுக்கவும்.&#x0d;Shift ஐ அழுத்தி &#x0d;கோப்பின் பெயரையும் தேர்ந்தெடுக்க சொடுக்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.File.Format">கோப்பு வடிவம்</s:String>
     <s:String x:Key="S.SaveAs.File.Name">கோப்பின் பெயர். '?' இடையே தேதி/நேர வடிவமைப்பைச் செருகவும்</s:String>
     <s:String x:Key="S.SaveAs.File.Animation">அனிமேஷன்</s:String>
@@ -1870,12 +1870,12 @@
     <s:String x:Key="S.SaveAs.File.Decrease">கோப்பு எண்ணைக் குறைக்கவும்</s:String>
     <s:String x:Key="S.SaveAs.File.Exists">அதே பெயரில் ஒரு கோப்பு ஏற்கனவே உள்ளது.</s:String>
     <s:String x:Key="S.SaveAs.File.Clipboard">கிளிப்போர்டில் சேமி.</s:String>
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி > எச்சரிக்கைகள்-->
-    <s:String x:Key="S.SaveAs.Warning.Type">கோப்பை எங்கு சேமிப்பது என்பதை நீங்கள் தேர்ந்தெடுக்க வேண்டும் (ஒரு கோப்புறையில், கிளிப்போர்டுக்கு அல்லது வேறு எங்காவது பதிவேற்றவும்).</s:String>
+    
+    <!--Editor • Save as > Warnings-->
+    <s:String x:Key="S.SaveAs.Warning.Type">கோப்பை எங்கு சேமிப்பது என்பதை நீங்கள் தேர்ந்தெடுக்க வேண்டும் (ஒரு கோப்புறையில், கிளிப்பலகைக்கு அல்லது வேறு எங்காவது பதிவேற்றவும்).</s:String>
     <s:String x:Key="S.SaveAs.Warning.Extension">நீங்கள் கோப்பு நீட்டிப்பைத் தேர்ந்தெடுக்கவில்லை.</s:String>
     <s:String x:Key="S.SaveAs.Warning.Ffmpeg.Empty">மேம்பட்ட பயன்முறையைத் தேர்ந்தெடுக்கும்போது, ​​அளவுருக்கள் புலத்தில் அளவுருக்களை உள்ளிட வேண்டும்.</s:String>
-    <s:String x:Key="S.SaveAs.Warning.Ffmpeg.MissingPath">சிறப்பு அளவுருக்கள் {I} (உள்ளீடு) மற்றும்/அல்லது {O} (வெளியீடு) அளவுருக்கள் புலத்தில் இல்லை.</s:String >
+    <s:String x:Key="S.SaveAs.Warning.Ffmpeg.MissingPath">சிறப்பு அளவுருக்கள் {I} (உள்ளீடு) மற்றும்/அல்லது {O} (வெளியீடு) அளவுருக்கள் புலத்தில் இல்லை.</s:String>
     <s:String x:Key="S.SaveAs.Warning.Commands.Empty">இடுகை குறியாக்க கட்டளையை இயக்க, நீங்கள் கட்டளைகள் உரை புலத்தில் ஏதாவது தட்டச்சு செய்ய வேண்டும்.</s:String>
     <s:String x:Key="S.SaveAs.Warning.Partial.NoSelection">தேர்ந்தெடுக்கப்பட்ட பிரேம்களை மட்டும் ஏற்றுமதி செய்யும் விருப்பம் இருக்கும்போது, ​​குறைந்தபட்சம் ஒரு சட்டத்தையாவது தேர்ந்தெடுக்க வேண்டும்.</s:String>
     <s:String x:Key="S.SaveAs.Warning.Partial.InvalidExpression">திட்டத்தை ஓரளவு ஏற்றுமதி செய்வதற்கான வெளிப்பாடு தவறானது.</s:String>
@@ -1889,9 +1889,9 @@
     <s:String x:Key="S.SaveAs.Warning.Filename.Invalid">வெளியீட்டு கோப்பு பெயரில் ஒன்று அல்லது அதற்கு மேற்பட்ட தவறான எழுத்துகள் உள்ளன. சரியான கோப்பு பெயரைத் தேர்ந்தெடுக்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.Warning.Overwrite">கோப்பின் பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது. மேலெழுத அல்லது மற்றொரு கோப்பு பெயர் அல்லது கோப்புறையைத் தேர்ந்தெடுக்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.Warning.Overwrite.Project">ஏற்கனவே அதே கோப்பு பெயரில் ஒரு திட்டம் உள்ளது. மேலெழுத அல்லது மற்றொரு கோப்பு பெயர் அல்லது கோப்புறையைத் தேர்ந்தெடுக்கவும்.</s:String>
-    <s:String x:Key="S.SaveAs.Warning.Canceled">செயல்பாடு ரத்து செய்யப்பட்டது.</s:String>
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி > பதிவேற்றம்-->
+    <s:String x:Key="S.SaveAs.Warning.Canceled">செயல்பாடு கைவிடப்பட்டது.</s:String>
+    
+    <!--Editor • Save As > Upload-->
     <s:String x:Key="S.SaveAs.Upload">பதிவேற்றம்</s:String>
     <s:String x:Key="S.SaveAs.Upload.Info">பதிவேற்ற முன்னமைவைத் தேர்ந்தெடுக்கவும், அதில் பதிவேற்றம் செய்வதற்குப் பயன்பாட்டில் உள்ள சேவையைப் பற்றிய விவரங்கள் உள்ளன.</s:String>
     <s:String x:Key="S.SaveAs.Upload.Limit">இந்தப் பதிவேற்றச் சேவை வரம்புகளை விதிக்கிறது.</s:String>
@@ -1903,13 +1903,13 @@
     <s:String x:Key="S.SaveAs.Upload.Select.Description">இந்தப் பட்டியலில் இருந்து ஒன்றைத் தேர்ந்தெடுக்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.Upload.Unavailable.Title">இந்த வடிவமைப்பிற்கான பதிவேற்ற முன்னமைவு எதுவும் இல்லை</s:String>
     <s:String x:Key="S.SaveAs.Upload.Unavailable.Description">கீழே உள்ள பொத்தானைப் பயன்படுத்தி முன்னமைவைச் சேர்க்கவும்.</s:String>
-   
-    <!--எடிட்டர் • இவ்வாறு சேமி > பதிவேற்றம் > உரையாடல்கள்-->
+    
+    <!--Editor • Save as > Upload > Dialogs-->
     <s:String x:Key="S.SaveAs.Upload.Ask.Delete.Title">பதிவேற்ற முன்னமைவை நீக்குகிறது</s:String>
     <s:String x:Key="S.SaveAs.Upload.Ask.Delete.Instruction">பதிவேற்ற முன்னமைவை நீக்க விரும்புகிறீர்களா?</s:String>
-    <s:String x:Key="S.SaveAs.Upload.Ask.Delete.Message">இந்தச் செயலைச் செயல்தவிர்க்க முடியாது.&amp;#10;&amp;#10;தேர்ந்தெடுக்கப்பட்ட பதிவேற்ற முன்னமைவை நீக்க விரும்புகிறீர்களா?</s:String>
-   
-    <!--இவ்வாறு சேமி • உரையாடல்கள்-->
+    <s:String x:Key="S.SaveAs.Upload.Ask.Delete.Message">இந்தச் செயலைச் செயல்தவிர்க்க முடியாது.&#10;&#10;தேர்ந்தெடுக்கப்பட்ட பதிவேற்ற முன்னமைவை நீக்க விரும்புகிறீர்களா?</s:String>
+    
+    <!--Save As • Dialogs-->
     <s:String x:Key="S.SaveAs.Dialogs.Multiple.Title">பிரேம்களை ஏற்றுமதி செய்</s:String>
     <s:String x:Key="S.SaveAs.Dialogs.Multiple.Instruction">ஃபிரேம்களை நிச்சயமாக ஏற்றுமதி செய்ய விரும்புகிறீர்களா?</s:String>
     <s:String x:Key="S.SaveAs.Dialogs.Multiple.Message">இந்தச் செயல் தேர்ந்தெடுக்கப்பட்ட கோப்புறையில் நேரடியாக {0} பிரேம்களை ஏற்றுமதி செய்யும்.</s:String>
@@ -1918,14 +1918,14 @@
     <s:String x:Key="S.SaveAs.Dialogs.Overwrite.Message">'{0}' என்ற பெயரில் ஒரு கோப்பு ஏற்கனவே அந்தக் கோப்புறையில் உள்ளது.\r\nஅதை மேலெழுத விரும்புகிறீர்களா?</s:String>
     <s:String x:Key="S.SaveAs.Dialogs.OverwriteMultiple.Instruction">கோப்புகளை மேலெழுத விரும்புகிறீர்களா?</s:String>
     <s:String x:Key="S.SaveAs.Dialogs.OverwriteMultiple.Message">ஒரே பெயரில் உள்ள ஒன்று அல்லது அதற்கு மேற்பட்ட கோப்புகள் ஏற்கனவே அந்தக் கோப்புறையில் உள்ளன.\r\nஅவற்றை மேலெழுத விரும்புகிறீர்களா?</s:String>
-   
-    <!--கட்டளை முன்னோட்டம்-->
+    
+    <!--Command Preview-->
     <s:String x:Key="S.CommandPreviewer.Title">கட்டளை முன்னோட்டம்</s:String>
     <s:String x:Key="S.CommandPreviewer.Command">கட்டளை</s:String>
     <s:String x:Key="S.CommandPreviewer.Input">உள்ளீட்டு பாதை</s:String>
     <s:String x:Key="S.CommandPreviewer.Output">வெளியீட்டு பாதை</s:String>
-   
-    <!--கருத்து-->
+    
+    <!--Feedback-->
     <s:String x:Key="S.Feedback.Feedback">கருத்து</s:String>
     <s:String x:Key="S.Feedback.Send">அனுப்பு</s:String>
     <s:String x:Key="S.Feedback.Preview">முன்னோட்டம்</s:String>
@@ -1947,11 +1947,11 @@
     <s:String x:Key="S.Feedback.LanguageInfo1">எனக்கு ஆங்கிலம் புரியும்</s:String>
     <s:String x:Key="S.Feedback.LanguageInfo2">மற்றும் போர்த்துகீசியம் (பிரேசிலியன் மற்றும் ஐரோப்பிய).</s:String>
     <s:String x:Key="S.Feedback.Preview.Info">இதைத்தான் நீங்கள் அனுப்புவீர்கள், மேலும் அனைத்து இணைப்புகளும்.</s:String>
-   
-    <!--பிழையறிந்து-->
+    
+    <!--Troubleshoot-->
     <s:String x:Key="S.Troubleshoot.Title">சிக்கல் தீர்க்கவும்</s:String>
     <s:String x:Key="S.Troubleshoot.Windows">ஏதேனும் சாளரம் காணவில்லையா?</s:String>
-    <s:String x:Key="S.Troubleshoot.Windows.Info">சாளரங்களில் ஏதேனும் ஒன்று விடுபட்டிருந்தால் (திரைக்கு வெளியே),&amp;#x0d;அதன் தற்போதைய மற்றும் தொடக்க நிலையை மீட்டமைக்க கீழே உள்ள விருப்பங்களைப் பயன்படுத்தவும்.</s:String>
+    <s:String x:Key="S.Troubleshoot.Windows.Info">சாளரங்களில் ஏதேனும் ஒன்று விடுபட்டிருந்தால் (திரைக்கு வெளியே),&#x0d;அதன் தற்போதைய மற்றும் தொடக்க நிலையை மீட்டமைக்க கீழே உள்ள விருப்பங்களைப் பயன்படுத்தவும்.</s:String>
     <s:String x:Key="S.Troubleshoot.Windows.Current">இங்கே ஒவ்வொரு சாளரமும் தற்போது அமைந்துள்ளன:</s:String>
     <s:String x:Key="S.Troubleshoot.Windows.Next">இங்கே ஒவ்வொரு சாளரமும் அடுத்த முறை திறக்கும்:</s:String>
     <s:String x:Key="S.Troubleshoot.Windows.BringBack">எல்லா சாளரங்களையும் முதன்மைத் திரைக்கு நகர்த்தவும்.</s:String>
@@ -1961,7 +1961,7 @@
     <s:String x:Key="S.FontStyles.Normal">இயல்பான</s:String>
     <s:String x:Key="S.FontStyles.Italic">சாய்வு</s:String>
     <s:String x:Key="S.FontStyles.Oblique">சாய்ந்த</s:String>
-   
+    
     <!--FontWeight-->
     <s:String x:Key="S.FontWeights.Black">கருப்பு</s:String>
     <s:String x:Key="S.FontWeights.Bold">தடித்த</s:String>
@@ -1979,28 +1979,28 @@
     <s:String x:Key="S.FontWeights.UltraBlack">அல்ட்ரா பிளாக்</s:String>
     <s:String x:Key="S.FontWeights.UltraBold">அல்ட்ரா போல்ட்</s:String>
     <s:String x:Key="S.FontWeights.UltraLight">அல்ட்ரா லைட்</s:String>
-   
-    <!--செங்குத்து சீரமைப்பு-->
+    
+    <!--VerticalAlignment-->
     <s:String x:Key="S.VerticalAlignment.Top">மேல்</s:String>
     <s:String x:Key="S.VerticalAlignment.Center">மையம்</s:String>
     <s:String x:Key="S.VerticalAlignment.Bottom">கீழே</s:String>
     <s:String x:Key="S.Alignment.Stretch">நீட்டு</s:String>
-   
-    <!--கிடைமட்ட சீரமைப்பு-->
-    <s:String x:Key="S.HorizontalAlinment.Left">இடது</s:String>
+
+    <!--HorizontalAlignment-->
+    <s:String x:Key="S.HorizontalAlignment.Left">இடது</s:String>
     <s:String x:Key="S.HorizontalAlignment.Center">மையம்</s:String>
-    <s:String x:Key="S.HorizontalAlinment.Right">வலது</s:String>
-   
-    <!--நோக்குநிலை-->
+    <s:String x:Key="S.HorizontalAlignment.Right">வலது</s:String>
+    
+    <!--Orientation-->
     <s:String x:Key="S.Orientation.Horizontal">கிடைமட்ட</s:String>
     <s:String x:Key="S.Orientation.Vertical">செங்குத்து</s:String>
-   
-    <!--TextAlinment-->
+    
+    <!--TextAlignment-->
     <s:String x:Key="S.TextAlignment.Left">இடது</s:String>
     <s:String x:Key="S.TextAlignment.Right">வலது</s:String>
     <s:String x:Key="S.TextAlignment.Center">மையம்</s:String>
     <s:String x:Key="S.TextAlignment.Justify">நியாயப்படுத்து</s:String>
-   
+    
     <!--TextDecoration-->
     <s:String x:Key="S.TextDecorations.None">இல்லை</s:String>
     <s:String x:Key="S.TextDecorations.Underline">அடிக்கோடு</s:String>
