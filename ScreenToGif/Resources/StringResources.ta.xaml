@@ -1266,209 +1266,209 @@
     <s:String x:Key="S.Resize.ScalingQuality.Fant">Fant • உயர் தரம்</s:String>
     <s:String x:Key="S.Resize.ScalingQuality.Linear">லீனியர் • குறைந்த தரம்</s:String>
     <s:String x:Key="S.Resize.ScalingQuality.NearestNeighbor">அருகிலுள்ள அண்டை வீட்டான் • குறைந்த தரம் மற்றும் வேகமானது</s:String>
-    <!--<s:String x:Key="S.Resize.ScalingQuality.Info">Scaling quality.</s:String>-->
-    <!--<s:String x:Key="S.Resize.Warning">You have to select a different value to apply the Resize action to.</s:String>-->
-    
-    <!--Editor • Crop-->
-    <!--<s:String x:Key="S.Crop.Points">Points</s:String>-->
-    <!--<s:String x:Key="S.Crop.Top">Top:</s:String>-->
-    <!--<s:String x:Key="S.Crop.Left">Left:</s:String>-->
-    <!--<s:String x:Key="S.Crop.Bottom">Bottom:</s:String>-->
-    <!--<s:String x:Key="S.Crop.Right">Right:</s:String>-->
-    <!--<s:String x:Key="S.Crop.Warning">The crop selection has to be smaller than the current frame size.</s:String>-->
-    <!--<s:String x:Key="S.Crop.Warning.Bigger">The crop selection has to be bigger than 10x10 pixels.</s:String>-->
-    
-    <!--Editor • Flip/rotate-->
-    <!--<s:String x:Key="S.FlipRotate.FlipHorizontal">Flip Horizontal</s:String>-->
-    <!--<s:String x:Key="S.FlipRotate.FlipVertical">Flip Vertical</s:String>-->
-    <!--<s:String x:Key="S.FlipRotate.RotateLeft">Rotate Left 90º</s:String>-->
-    <!--<s:String x:Key="S.FlipRotate.RotateRight">Rotate Right 90º</s:String>-->
-    
-    <!--Editor • Reduce framerate-->
-    <!--<s:String x:Key="S.Reduce.Header">Reduce framerate</s:String>-->
-    <!--<s:String x:Key="S.Reduce.Factor">Factor:</s:String>-->
-    <!--<s:String x:Key="S.Reduce.Count">Remove Count:</s:String>-->
-    <!--<s:String x:Key="S.Reduce.Delay">Delay adjustment:</s:String>-->
-    <!--<s:String x:Key="S.Reduce.Delay.NoAdjustment">Don't adjust</s:String>-->
-    <!--<s:String x:Key="S.Reduce.Delay.Previous">Sum with the previous frame</s:String>-->
-    <!--<s:String x:Key="S.Reduce.Delay.Evenly">Sum evenly with the remaining frames</s:String>-->
-    <!--<s:String x:Key="S.Reduce.ApplyToAll">Reduce the framerate of the entire project.</s:String>-->
-    <!--<s:String x:Key="S.Reduce.ApplyToAll.Info">If the option is unchecked, you must select multiple consecutive frames,&#10;greater than the removal factor.</s:String>-->
-    <!--<s:String x:Key="S.Reduce.Info">It will remove {0} frame(s) after every {1} frame(s), without counting the removed ones.</s:String>-->
-    <!--<s:String x:Key="S.Reduce.Warning.NoSelection">You must select the frames to apply the framerate reduction (or check the option to apply to the entire project).</s:String>-->
-    <!--<s:String x:Key="S.Reduce.Warning.NonConsecutive">The list of frames selected must be consecutive. You can't leave some frames unselected among selected ones.</s:String>-->
-    <!--<s:String x:Key="S.Reduce.Warning.SmallerThanFactor">The selection of frames must be greater than the removal factor, in order for the feature to be able to remove anything.</s:String>-->
-    
-    <!--Editor • Remove duplicates-->
-    <!--<s:String x:Key="S.RemoveDuplicates.Header">Remove duplicates</s:String>-->
-    <!--<s:String x:Key="S.RemoveDuplicates.Similarity">Similarity (%):</s:String>-->
-    <!--<s:String x:Key="S.RemoveDuplicates.Removal">Frame removal:</s:String>-->
-    <!--<s:String x:Key="S.RemoveDuplicates.Removal.First">Remove the first frame</s:String>-->
-    <!--<s:String x:Key="S.RemoveDuplicates.Removal.Last">Remove the last frame</s:String>-->
-    <!--<s:String x:Key="S.RemoveDuplicates.Delay">Delay adjustment:</s:String>-->
-    <!--<s:String x:Key="S.RemoveDuplicates.Delay.NoAdjustment">Don't adjust</s:String>-->
-    <!--<s:String x:Key="S.RemoveDuplicates.Delay.Average">Use the average</s:String>-->
-    <!--<s:String x:Key="S.RemoveDuplicates.Delay.Sum">Use the sum</s:String>-->
-    <!--<s:String x:Key="S.RemoveDuplicates.Info">This action analyzes each frame (pixel by pixel) and removes the ones that are at least {0} % similar to its immediate neighbor.&#x0d;You can choose if you want to adjust the delay (duration of exhibition) of the frames.</s:String>-->
-
-    <!--Editor • Smooth Loop-->
-    <!--<s:String x:Key="S.SmoothLoop.Header">Create smooth loop</s:String>-->
-    <!--<s:String x:Key="S.SmoothLoop.StartThreshold">Ignore first:</s:String>-->
-    <!--<s:String x:Key="S.SmoothLoop.From">Compare from:</s:String>-->
-    <!--<s:String x:Key="S.SmoothLoop.From.Last">End</s:String>-->
-    <!--<s:String x:Key="S.SmoothLoop.From.First">Start</s:String>-->
-    <!--<s:String x:Key="S.SmoothLoop.Info">Tries to find a frame at least {0} % similar to the start frame and deletes all later frames.&#x0d;You can choose if you want to ignore some initial frames and initiate the comparison from the start (after the threshold) or the end.</s:String>-->
-    <!--<s:String x:Key="S.SmoothLoop.Warning.Threshold">The number of frames to ignore needs to be smaller than the total number of frames.</s:String>-->
-    <!--<s:String x:Key="S.SmoothLoop.Warning.NoLoopFound">It was not possible to create a smooth loop with the selected settings.</s:String>-->
-    <!--<s:String x:Key="S.SmoothLoop.Warning.AlreadySmoothLoop">You already have a smooth loop based on selected settings.</s:String>-->
-    
-    <!--Editor • Captions-->
-    <!--<s:String x:Key="S.Caption.Text">Text</s:String>-->
-    <!--<s:String x:Key="S.Caption.Font">Font</s:String>-->
-    <!--<s:String x:Key="S.Caption.Family">Family:</s:String>-->
-    <!--<s:String x:Key="S.Caption.Style">Style:</s:String>-->
-    <!--<s:String x:Key="S.Caption.Weight">Weight:</s:String>-->
-    <!--<s:String x:Key="S.Caption.Size">Size:</s:String>-->
-    <!--<s:String x:Key="S.Caption.Color">Color:</s:String>-->
-    <!--<s:String x:Key="S.Caption.BackgroundColor">Background Color:</s:String>-->
-    <!--<s:String x:Key="S.Caption.Outline">Outline</s:String>-->
-    <!--<s:String x:Key="S.Caption.Thickness">Thickness:</s:String>-->
-    <!--<s:String x:Key="S.Caption.Layout">Layout</s:String>-->
-    <!--<s:String x:Key="S.Caption.Vertical">Vertical:</s:String>-->
-    <!--<s:String x:Key="S.Caption.Horizontal">Horizontal:</s:String>-->
-    <!--<s:String x:Key="S.Caption.TextAlignment">Alignment:</s:String>-->
-    <!--<s:String x:Key="S.Caption.TextDecoration">Decoration:</s:String>-->
-
-    <!--Editor • Key strokes-->
-    <!--<s:String x:Key="S.KeyStrokes">Key Strokes</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.Keys">Keys</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.Separator">Separator:</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.Edit">Edit your key strokes</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.IgnoreModifiers">Ignore Ctrl, Alt, Shift, and Windows keys while not being used as modifiers.</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.IgnoreModifiers.Info">It will ignore lone key presses such as "Control", but it will not ignore "Control + C".</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.IgnoreInjected">Ignore software simulated keystrokes.</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.IgnoreInjected.Info">Only record user input keystrokes.</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.Extend">Extend the exhibition of the key strokes.</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.Earlier">Start the exhibition of the key strokes earlier.</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.By">By (ms):</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.Warning.None">There's no keystrokes on your recording.</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.Edit.Title">ScreenToGif - Key Strokes Editor</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.Edit.Number">Frame number</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.Edit.Keys">Detected key strokes</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.Edit.Remove">Remove key stroke</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.Edit.Add">Add a key stroke:</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.Edit.Lower">Lowercase lettering.</s:String>-->
-    <!--<s:String x:Key="S.KeyStrokes.Edit.Lower.Info">It lets you insert lower case single letters.</s:String>-->
-
-    <!--Editor • Free drawing-->
-    <!--<s:String x:Key="S.FreeDrawing.Mode">Mode</s:String>-->
-    <!--<s:String x:Key="S.FreeDrawing.Pen">Pen</s:String>-->
-    <!--<s:String x:Key="S.FreeDrawing.Eraser">Eraser</s:String>-->
-    <!--<s:String x:Key="S.FreeDrawing.Select">Select</s:String>-->
-    <!--<s:String x:Key="S.FreeDrawing.StrokeEraser">Stroke Eraser</s:String>-->
-    <!--<s:String x:Key="S.FreeDrawing.Width">Width:</s:String>-->
-    <!--<s:String x:Key="S.FreeDrawing.Height">Height:</s:String>-->
-    <!--<s:String x:Key="S.FreeDrawing.Tip">Tip:</s:String>-->
-    <!--<s:String x:Key="S.FreeDrawing.Rectangle">Rectangle</s:String>-->
-    <!--<s:String x:Key="S.FreeDrawing.Ellipse">Ellipse</s:String>-->
-    <!--<s:String x:Key="S.FreeDrawing.Other">Other:</s:String>-->
-    <!--<s:String x:Key="S.FreeDrawing.Highlighter">Highlighter.</s:String>-->
-    <!--<s:String x:Key="S.FreeDrawing.FitToCurve">Fit To Curve.</s:String>-->
-    <!--<s:String x:Key="S.FreeDrawing.Warning.NoDrawing">There are no drawings to be applied to the frames you selected.</s:String>-->
-    <!--<s:String x:Key="S.FreeDrawing.WarningSelection">You have to select at least one frame to apply the Free Drawing to.</s:String>-->
-    
-    <!--Editor • Shapes-->
-    <!--<s:String x:Key="S.Shapes.Mode.Insert">Insert</s:String>-->
-    <!--<s:String x:Key="S.Shapes.Shapes">Shapes</s:String>-->
-    <!--<s:String x:Key="S.Shapes.Shapes.Radius">Radius:</s:String>-->
-    <!--<s:String x:Key="S.Shapes.Shapes.Dashes">Dashes:</s:String>-->
-    <!--<s:String x:Key="S.Shapes.Shapes.Dashes.Info">Controls the size of the dashes and the size of the gaps.&#10;You can set multiple sizes to create an elaborate dash style.&#10;The default is "1 0" or empty, meaning a dash with no gaps.</s:String>-->
-    <!--<s:String x:Key="S.Shapes.Shapes.ResetRotatio">Reset rotation</s:String>-->
-    <!--<s:String x:Key="S.Shapes.Shapes.Remove">Remove</s:String>-->
-    <!--<s:String x:Key="S.Shapes.Fill">Fill</s:String>-->
-
-    <!--Editor • Mouse events-->
-    <!--<s:String x:Key="S.MouseEvents">Mouse Events</s:String>-->
-    <!--<s:String x:Key="S.MouseHighlight.Color">Mouse Highlight Color:</s:String>-->
-    <!--<s:String x:Key="S.MouseClicks.Color.Left">Left button color:</s:String>-->
-    <!--<s:String x:Key="S.MouseClicks.Color.Middle">Middle button color:</s:String>-->
-    <!--<s:String x:Key="S.MouseClicks.Color.Right">Right button color:</s:String>-->
-    <!--<s:String x:Key="S.MouseClicks.Color.FirstExtra">1st extra button color:</s:String>-->
-    <!--<s:String x:Key="S.MouseClicks.Color.SecondExtra">2nd extra button color:</s:String>-->
-    
-    <!--Editor • Watermark-->
-    <!--<s:String x:Key="S.Watermark.Image">Image</s:String>-->
-    <!--<s:String x:Key="S.Watermark.File">File:</s:String>-->
-    <!--<s:String x:Key="S.Watermark.File.Nothing">None selected</s:String>-->
-    <!--<s:String x:Key="S.Watermark.Opacity">Opacity:</s:String>-->
-    <!--<s:String x:Key="S.Watermark.Select">Select an Image</s:String>-->
-    <!--<s:String x:Key="S.Watermark.WarningNoImage">You have to select an image to apply to the selected frame(s).</s:String>-->
-    <!--<s:String x:Key="S.Watermark.WarningSelection">You have to select at least one frame to apply the Watermark to.</s:String>-->
-    
-    <!--Editor • Border-->
-    <!--<s:String x:Key="S.Border.Appearance">Appearance</s:String>-->
-    <!--<s:String x:Key="S.Border.Info">Use negative values to make the border expand the image. When doing so, the border will be applied to all frames.&#10;If no negative value being used, the border will be applied only to the selected frames.</s:String>-->
-
-    <!--Editor • Shadow-->
-    <!--<s:String x:Key="S.Shadow.ShadowColor">Shadow color:</s:String>-->
-    <!--<s:String x:Key="S.Shadow.BackgroundColor">Background color:</s:String>-->
-    <!--<s:String x:Key="S.Shadow.Direction">Direction:</s:String>-->
-    <!--<s:String x:Key="S.Shadow.BlurRadius">Blur radius:</s:String>-->
-    <!--<s:String x:Key="S.Shadow.Depth">Depth:</s:String>-->
-    
-    <!--Editor • Obfuscate-->
-    <!--<s:String x:Key="S.Obfuscate.Type.Pixelate">Pixelate</s:String>-->
-    <!--<s:String x:Key="S.Obfuscate.Type.Blur">Blur</s:String>-->
-    <!--<s:String x:Key="S.Obfuscate.Type.Darken">Darken</s:String>-->
-    <!--<s:String x:Key="S.Obfuscate.Type.Lighten">Lighten</s:String>-->
-    <!--<s:String x:Key="S.Obfuscate.Options">Obfuscation options</s:String>-->
-    <!--<s:String x:Key="S.Obfuscate.PixelSize">Pixel size:</s:String>-->
-    <!--<s:String x:Key="S.Obfuscate.BlurLevel">Blur level:</s:String>-->
-    <!--<s:String x:Key="S.Obfuscate.DarkenLevel">Darkening level:</s:String>-->
-    <!--<s:String x:Key="S.Obfuscate.LightenLevel">Lightening level:</s:String>-->
-    <!--<s:String x:Key="S.Obfuscate.UseAverage">Calculate the average color for each pixelated block.</s:String>-->
-    <!--<s:String x:Key="S.Obfuscate.Invert">Apply the obfuscation to the inverse of the selection.</s:String>-->
-    <!--<s:String x:Key="S.Obfuscate.Smoothness">Smoothness</s:String>-->
-    <!--<s:String x:Key="S.Obfuscate.Info">Use the selection tool to select the part of the frame that should be obfuscated.</s:String>-->
-    <!--<s:String x:Key="S.Obfuscate.Info2">Use the selection tool to select the part of the frame that should not be obfuscated.</s:String>-->
-    <!--<s:String x:Key="S.Obfuscate.Warning">You didn't select anything. Please use the selection tool to select the rectangle that should be obfuscated.</s:String>-->
-    
-    <!--Editor • Progress-->
-    <!--<s:String x:Key="S.Progress.Type">Type</s:String>-->
-    <!--<s:String x:Key="S.Progress.Type.Bar">Bar</s:String>-->
-    <!--<s:String x:Key="S.Progress.Type.Text">Text</s:String>-->
-    <!--<s:String x:Key="S.Progress.Precision">Precision:</s:String>-->
-    <!--<s:String x:Key="S.Progress.Precision.Minutes">Minutes</s:String>-->
-    <!--<s:String x:Key="S.Progress.Precision.Seconds">Seconds</s:String>-->
-    <!--<s:String x:Key="S.Progress.Precision.Milliseconds">Milliseconds</s:String>-->
-    <!--<s:String x:Key="S.Progress.Precision.Percentage">Percentage</s:String>-->
-    <!--<s:String x:Key="S.Progress.Precision.Count">Frame Number</s:String>-->
-    <!--<s:String x:Key="S.Progress.Precision.DateOfRecording">Actual date/time</s:String>-->
-    <!--<s:String x:Key="S.Progress.Precision.Custom">Custom</s:String>-->
-    <!--<s:String x:Key="S.Progress.Precision.ShowTotal">Show the total.</s:String>-->
-    <!--<s:String x:Key="S.Progress.Format">Format:</s:String>-->
-    <!--<s:String x:Key="S.Progress.Format.Header">Format</s:String>-->
-    <!--<s:String x:Key="S.Progress.Format.Milliseconds">$ms = milliseconds</s:String>-->
-    <!--<s:String x:Key="S.Progress.Format.Seconds">$s = seconds</s:String>-->
-    <!--<s:String x:Key="S.Progress.Format.Minutes">$m = minutes</s:String>-->
-    <!--<s:String x:Key="S.Progress.Format.Percentage">$p = percentage</s:String>-->
-    <!--<s:String x:Key="S.Progress.Format.FrameNumber">$f = frame number</s:String>-->
-    <!--<s:String x:Key="S.Progress.Format.Totals">Totals:</s:String>-->
-    <!--<s:String x:Key="S.Progress.Format.Examples">Examples:</s:String>-->
-    <!--<s:String x:Key="S.Progress.Format.Date">You can use the date and time format from .Net Framework.&#x0d;The specification is available in these two links below.</s:String>-->
-    <!--<s:String x:Key="S.Progress.Format.Date.Standard">Standard formats</s:String>-->
-    <!--<s:String x:Key="S.Progress.Format.Date.Custom">Custom formats</s:String>-->
-    <!--<s:String x:Key="S.Progress.Precision.StartNumber">Count from:</s:String>-->
-    <!--<s:String x:Key="S.Progress.Precision.StartNumber.ToolTip">Starts counting the frame number from this selected number.</s:String>-->
-    <!--<s:String x:Key="S.Progress.Orientation">Orientation:</s:String>-->
-    
-    <!--Editor • Delay-->
-    <!--<s:String x:Key="S.Delay.Update">Delay update</s:String>-->
-    <!--<s:String x:Key="S.Delay.Mode">Delay mode:</s:String>-->
-    <!--<s:String x:Key="S.Delay.Mode.Override">Override (in ms)</s:String>-->
-    <!--<s:String x:Key="S.Delay.Mode.IncreaseDecrease">Increase or decrease (in ms)</s:String>-->
-    <!--<s:String x:Key="S.Delay.Mode.Scale">Scale (in %)</s:String>-->
-    <!--<s:String x:Key="S.Delay.NewValue">New Value</s:String>-->
+    <s:String x:Key="S.Resize.ScalingQuality.Info">ஸ்கேலிங் தரம்.</s:String>
+    <s:String x:Key="S.Resize.Warning">மறுஅளவிடுதல் செயலைப் பயன்படுத்த, நீங்கள் வேறு மதிப்பைத் தேர்ந்தெடுக்க வேண்டும்.</s:String>
+   
+    <!--எடிட்டர் • பயிர்-->
+    <s:String x:Key="S.Crop.Points">புள்ளிகள்</s:String>
+    <s:String x:Key="S.Crop.Top">மேல்:</s:String>
+    <s:String x:Key="S.Crop.Left">இடது:</s:String>
+    <s:String x:Key="S.Crop.Bottom">கீழே:</s:String>
+    <s:String x:Key="S.Crop.Right">வலது:</s:String>
+    <s:String x:Key="S.Crop.Warning">செய் தேர்வு தற்போதைய சட்ட அளவை விட சிறியதாக இருக்க வேண்டும்.</s:String>
+    <s:String x:Key="S.Crop.Warning.Bigger">செய் தேர்வு 10x10 பிக்சல்களை விட பெரியதாக இருக்க வேண்டும்.</s:String>
+   
+    <!--எடிட்டர் • புரட்டு/சுழற்று-->
+    <s:String x:Key="S.FlipRotate.FlipHorizontal">Flip Horizontal</s:String>
+    <s:String x:Key="S.FlipRotate.FlipVertical">செங்குத்து புரட்டு</s:String>
+    <s:String x:Key="S.FlipRotate.RotateLeft">இடதுபுறம் 90º சுழற்று</s:String>
+    <s:String x:Key="S.FlipRotate.RotateRight">வலது 90º சுழற்று</s:String>
+   
+    <!--எடிட்டர் • ஃப்ரேம்ரேட்டைக் குறைக்கவும்-->
+    <s:String x:Key="S.Reduce.Header">ஃபிரேம்ரேட்டைக் குறைக்கவும்</s:String>
+    <s:String x:Key="S.Reduce.Factor">காரணி:</s:String>
+    <s:String x:Key="S.Reduce.Count">எண்ணிக்கையை அகற்று:</s:String>
+    <s:String x:Key="S.Reduce.Delay">தாமத சரிசெய்தல்:</s:String>
+    <s:String x:Key="S.Reduce.Delay.NoAdjustment">சரி செய்ய வேண்டாம்</s:String>
+    <s:String x:Key="S.Reduce.Delay.Previous">முந்தைய சட்டத்துடன் கூட்டு</s:String>
+    <s:String x:Key="S.Reduce.Delay.Evenly">மீதமுள்ள பிரேம்களுடன் சமமாக கூட்டுக</s:String>
+    <s:String x:Key="S.Reduce.ApplyToAll">முழுத் திட்டத்தின் பிரேம்ரேட்டைக் குறைக்கவும்.</s:String>
+    <s:String x:Key="S.Reduce.ApplyToAll.Info">விருப்பம் தேர்வு செய்யப்படவில்லை எனில், நீங்கள் பல தொடர்ச்சியான ஃப்ரேம்களைத் தேர்ந்தெடுக்க வேண்டும்,&amp;#10;அகற்றல் காரணியை விட பெரியது.</s:String>
+    <s:String x:Key="S.Reduce.Info">இது ஒவ்வொரு {1} ஃபிரேம்(களுக்கு) பிறகு, அகற்றப்பட்டவற்றைக் கணக்கிடாமல், {0} சட்டத்தை(களை) அகற்றும்.</s:String>
+    <s:String x:Key="S.Reduce.Warning.NoSelection">ஃப்ரேம்ரேட் குறைப்பைப் பயன்படுத்த, ஃப்ரேம்களைத் தேர்ந்தெடுக்க வேண்டும் (அல்லது முழுத் திட்டத்திற்கும் விண்ணப்பிக்கும் விருப்பத்தைச் சரிபார்க்கவும்).</s:String>
+    <s:String x:Key="S.Reduce.Warning.NonConsecutive">தேர்ந்தெடுக்கப்பட்ட பிரேம்களின் பட்டியல் தொடர்ச்சியாக இருக்க வேண்டும். தேர்ந்தெடுக்கப்பட்டவற்றில் சில ஃப்ரேம்களைத் தேர்ந்தெடுக்காமல் விட முடியாது.</s:String>
+    <s:String x:Key="S.Reduce.Warning.SmallerThanFactor">அம்சத்தால் எதையும் அகற்ற முடியும் என்பதற்காக, ஃப்ரேம்களின் தேர்வு அகற்றும் காரணியை விட அதிகமாக இருக்க வேண்டும்.</s:String>
+   
+    <!--எடிட்டர் • நகல்களை அகற்று-->
+    <s:String x:Key="S.RemoveDuplicates.Header">நகல்களை அகற்று</s:String>
+    <s:String x:Key="S.RemoveDuplicates.Similarity">ஒத்துமை (%):</s:String>
+    <s:String x:Key="S.RemoveDuplicates.Removal">பிரேம் அகற்றுதல்:</s:String>
+    <s:String x:Key="S.RemoveDuplicates.Removal.First">முதல் சட்டகத்தை அகற்று</s:String>
+    <s:String x:Key="S.RemoveDuplicates.Removal.Last">கடைசி சட்டகத்தை அகற்று</s:String>
+    <s:String x:Key="S.RemoveDuplicates.Delay">தாமத சரிசெய்தல்:</s:String>
+    <s:String x:Key="S.RemoveDuplicates.Delay.NoAdjustment">சரிசெய்ய வேண்டாம்</s:String>
+    <s:String x:Key="S.RemoveDuplicates.Delay.Average">சராசரியைப் பயன்படுத்தவும்</s:String>
+    <s:String x:Key="S.RemoveDuplicates.Delay.Sum">தொகையைப் பயன்படுத்தவும்</s:String>
+    <s:String x:Key="S.RemoveDuplicates.Info">இந்தச் செயல் ஒவ்வொரு ஃபிரேமையும் (பிக்சல் பை பிக்சல்) பகுப்பாய்வு செய்து, அதன் உடனடி அண்டைக்கு குறைந்தபட்சம் {0} % ஒத்ததை நீக்குகிறது.&#x0d;நீங்கள் பிரேம்களின் தாமதத்தை (கண்காட்சியின் காலம்) சரிசெய்ய விரும்பினால் தேர்வு செய்யலாம்.</s:String>
+   
+    <!--எடிட்டர் • ஸ்மூத் லூப்-->
+    <s:String x:Key="S.SmoothLoop.Header">மென்மையான வளையத்தை உருவாக்கு</s:String>
+    <s:String x:Key="S.SmoothLoop.StartThreshold">முதலில் புறக்கணிக்கவும்:</s:String>
+    <s:String x:Key="S.SmoothLoop.From">இதிலிருந்து ஒப்பிடுக:</s:String>
+    <s:String x:Key="S.SmoothLoop.From.Last">முடிவு</s:String>
+    <s:String x:Key="S.SmoothLoop.From.First">தொடங்கு</s:String>
+    <s:String x:Key="S.SmoothLoop.Info">ஸ்டார்ட் ஃப்ரேமைப் போலவே குறைந்தபட்சம் {0} % ஃப்ரேமைக் கண்டுபிடிக்க முயற்சிக்கிறது மற்றும் அனைத்து பிந்தைய ஃப்ரேம்களையும் நீக்குகிறது.&#x0d;நீங்கள் விரும்பினால் தேர்வு செய்யலாம். சில ஆரம்ப சட்டங்களை புறக்கணித்து, தொடக்கத்தில் (வாசலுக்குப் பிறகு) அல்லது முடிவில் இருந்து ஒப்பீட்டைத் தொடங்கவும்.</s:String>
+    <s:String x:Key="S.SmoothLoop.Warning.Threshold">புறக்கணிக்க வேண்டிய ஃப்ரேம்களின் எண்ணிக்கை மொத்த பிரேம்களின் எண்ணிக்கையை விட சிறியதாக இருக்க வேண்டும்.</s:String>
+    <s:String x:Key="S.SmoothLoop.Warning.NoLoopFound">தேர்ந்தெடுக்கப்பட்ட அமைப்புகளுடன் மென்மையான வளையத்தை உருவாக்க முடியவில்லை.</s:String>
+    <s:String x:Key="S.SmoothLoop.Warning.AlreadySmoothLoop">தேர்ந்தெடுக்கப்பட்ட அமைப்புகளின் அடிப்படையில் உங்களிடம் ஏற்கனவே மென்மையான வளையம் உள்ளது.</s:String>
+   
+    <!--எடிட்டர் • தலைப்புகள்-->
+    <s:String x:Key="S.Caption.Text">உரை</s:String>
+    <s:String x:Key="S.Caption.Font">எழுத்துரு</s:String>
+    <s:String x:Key="S.Caption.Family">குடும்பம்:</s:String>
+    <s:String x:Key="S.Caption.Style">நடை:</s:String>
+    <s:String x:Key="S.Caption.Weight">எடை:</s:String>
+    <s:String x:Key="S.Caption.அளவு">அளவு:</s:String>
+    <s:String x:Key="S.Caption.Color">வண்ணம்:</s:String>
+    <s:String x:Key="S.Caption.BackgroundColor">பின்னணி நிறம்:</s:String>
+    <s:String x:Key="S.Caption.Outline">அவுட்லைன்</s:String>
+    <s:String x:Key="S.Caption.Thickness">தடிமன்:</s:String>
+    <s:String x:Key="S.Caption.Layout">தளவமைப்பு</s:String>
+    <s:String x:Key="S.Caption.Vertical">செங்குத்து:</s:String>
+    <s:String x:Key="S.Caption.Horizontal">கிடைமட்ட:</s:String>
+    <s:String x:Key="S.Caption.TextAlignment">சீரமைப்பு:</s:String>
+    <s:String x:Key="S.Caption.TextDecoration">அலங்காரம்:</s:String>
+   
+    <!--எடிட்டர் • முக்கிய ஸ்ட்ரோக்குகள்-->
+    <s:String x:Key="S.KeyStrokes">முக்கிய ஸ்ட்ரோக்குகள்</s:String>
+    <s:String x:Key="S.KeyStrokes.Keys">விசைகள்</s:String>
+    <s:String x:Key="S.KeyStrokes.Separator">Separator:</s:String>
+    <s:String x:Key="S.KeyStrokes.Edit">உங்கள் முக்கிய ஸ்ட்ரோக்குகளைத் திருத்தவும்</s:String>
+    <s:String x:Key="S.KeyStrokes.IgnoreModifiers">Ctrl, Alt, Shift மற்றும் Windows விசைகளை மாற்றிகளாகப் பயன்படுத்தாதபோது புறக்கணிக்கவும்.</s:String>
+    <s:String x:Key="S.KeyStrokes.IgnoreModifiers.Info">இது "கண்ட்ரோல்" போன்ற தனி விசை அழுத்தங்களைப் புறக்கணிக்கும், ஆனால் "கண்ட்ரோல் + சி" ஐப் புறக்கணிக்காது.</s:String>
+    <s:String x:Key="S.KeyStrokes.IgnoreInjected">மென்பொருள் உருவகப்படுத்தப்பட்ட விசை அழுத்தங்களை புறக்கணிக்கவும்.</s:String>
+    <s:String x:Key="S.KeyStrokes.IgnoreInjected.Info">பயனர் உள்ளீட்டு விசை அழுத்தங்களை மட்டும் பதிவு செய்யவும்.</s:String>
+    <s:String x:Key="S.KeyStrokes.Extend">விசை ஸ்ட்ரோக்குகளின் கண்காட்சியை நீட்டிக்கவும்.</s:String>
+    <s:String x:Key="S.KeyStrokes.Earlier">விசை ஸ்ட்ரோக்குகளின் கண்காட்சியை முன்பே தொடங்கவும்.</s:String>
+    <s:String x:Key="S.KeyStrokes.By">ஆல் (ms):</s:String>
+    <s:String x:Key="S.KeyStrokes.Warning.None">உங்கள் பதிவில் விசை அழுத்தங்கள் எதுவும் இல்லை.</s:String>
+    <s:String x:Key="S.KeyStrokes.Edit.Title">ScreenToGif - கீ ஸ்ட்ரோக்ஸ் எடிட்டர்</s:String>
+    <s:String x:Key="S.KeyStrokes.Edit.Number">பிரேம் எண்</s:String>
+    <s:String x:Key="S.KeyStrokes.Edit.Keys">கண்டறியப்பட்ட கீ ஸ்ட்ரோக்குகள்</s:String>
+    <s:String x:Key="S.KeyStrokes.Edit.Remove">விசை ஸ்ட்ரோக்கை அகற்று</s:String>
+    <s:String x:Key="S.KeyStrokes.Edit.Add">விசை ஸ்ட்ரோக்கைச் சேர்:</s:String>
+    <s:String x:Key="S.KeyStrokes.Edit.Lower">சிறிய எழுத்து.</s:String>
+    <s:String x:Key="S.KeyStrokes.Edit.Lower.Info">சிறிய எழுத்து ஒற்றை எழுத்துக்களைச் செருக இது உங்களை அனுமதிக்கிறது.</s:String>
+   
+    <!--எடிட்டர் • இலவச வரைதல்-->
+    <s:String x:Key="S.FreeDrawing.Mode">முறை</s:String>
+    <s:String x:Key="S.FreeDrawing.Pen">பேனா</s:String>
+    <s:String x:Key="S.FreeDrawing.Eraser">அழிப்பான்</s:String>
+    <s:String x:Key="S.FreeDrawing.Select">தேர்ந்தெடு</s:String>
+    <s:String x:Key="S.FreeDrawing.StrokeEraser">ஸ்ட்ரோக் அழிப்பான்</s:String>
+    <s:String x:Key="S.FreeDrawing.Width">அகலம்:</s:String>
+    <s:String x:Key="S.FreeDrawing.Height">உயரம்:</s:String>
+    <s:String x:Key="S.FreeDrawing.Tip">உதவிக்குறிப்பு:</s:String>
+    <s:String x:Key="S.FreeDrawing.Rectangle">செவ்வகம்</s:String>
+    <s:String x:Key="S.FreeDrawing.Ellipse">Ellipse</s:String>
+    <s:String x:Key="S.FreeDrawing.Other">மற்றவை:</s:String>
+    <s:String x:Key="S.FreeDrawing.Highlighter">Highlighter.</s:String>
+    <s:String x:Key="S.FreeDrawing.FitToCurve">வளைவுக்குப் பொருத்து.</s:String>
+    <s:String x:Key="S.FreeDrawing.Warning.NoDrawing">நீங்கள் தேர்ந்தெடுத்த ஃப்ரேம்களுக்குப் பயன்படுத்துவதற்கு வரைபடங்கள் எதுவும் இல்லை.</s:String>
+    <s:String x:Key="S.FreeDrawing.WarningSelection">இலவச வரைபடத்தைப் பயன்படுத்த, குறைந்தபட்சம் ஒரு சட்டத்தையாவது தேர்ந்தெடுக்க வேண்டும்.</s:String>
+   
+    <!--எடிட்டர் • வடிவங்கள்-->
+    <s:String x:Key="S.Shapes.Mode.Insert">செருகு</s:String>
+    <s:String x:Key="S.Shapes.Shapes">வடிவங்கள்</s:String>
+    <s:String x:Key="S.Shapes.Shapes.Radius">ஆரம்:</s:String>
+    <s:String x:Key="S.Shapes.Shapes.Dashes">கோடுகள்:</s:String>
+    <s:String x:Key="S.Shapes.Shapes.Dashes.Info">கோடுகளின் அளவையும் இடைவெளிகளின் அளவையும் கட்டுப்படுத்துகிறது.&amp;#10;விரிவான கோடு பாணியை உருவாக்க நீங்கள் பல அளவுகளை அமைக்கலாம். &amp;#10;இயல்புநிலை "1 0" அல்லது காலியாக உள்ளது, அதாவது இடைவெளி இல்லாத கோடு.</s:String>
+    <s:String x:Key="S.Shapes.Shapes.ResetRotatio">சுழற்சியை மீட்டமைக்கவும்</s:String>
+    <s:String x:Key="S.Shapes.Shapes.Remove">நீக்கு</s:String>
+    <s:String x:Key="S.Shapes.Fill">நிரப்பு</s:String>
+   
+    <!--எடிட்டர் • மவுஸ் நிகழ்வுகள்-->
+    <s:String x:Key="S.MouseEvents">மவுஸ் நிகழ்வுகள்</s:String>
+    <s:String x:Key="S.MouseHighlight.Color">மவுஸ் ஹைலைட் நிறம்:</s:String>
+    <s:String x:Key="S.MouseClicks.Color.Left">இடது பொத்தான் நிறம்:</s:String>
+    <s:String x:Key="S.MouseClicks.Color.Middle">நடுநிலை பொத்தான் நிறம்:</s:String>
+    <s:String x:Key="S.MouseClicks.Color.Right">வலது பொத்தான் நிறம்:</s:String>
+    <s:String x:Key="S.MouseClicks.Color.FirstExtra">1வது கூடுதல் பொத்தான் நிறம்:</s:String>
+    <s:String x:Key="S.MouseClicks.Color.SecondExtra">2வது கூடுதல் பொத்தான் நிறம்:</s:String>
+   
+    <!--எடிட்டர் • வாட்டர்மார்க்-->
+    <s:String x:Key="S.Watermark.Image">படம்</s:String>
+    <s:String x:Key="S.Watermark.File">கோப்பு:</s:String>
+    <s:String x:Key="S.Watermark.File.Nothing">எதுவும் தேர்ந்தெடுக்கப்படவில்லை</s:String>
+    <s:String x:Key="S.Watermark.Opacity">ஒளிபுகாநிலை:</s:String>
+    <s:String x:Key="S.Watermark.Select">ஒரு படத்தை தேர்ந்தெடு</s:String>
+    <s:String x:Key="S.Watermark.WarningNoImage">தேர்ந்தெடுக்கப்பட்ட சட்டகங்களுக்குப் பயன்படுத்த, நீங்கள் ஒரு படத்தைத் தேர்ந்தெடுக்க வேண்டும்.</s:String>
+    <s:String x:Key="S.Watermark.WarningSelection">வாட்டர்மார்க்கைப் பயன்படுத்த குறைந்தபட்சம் ஒரு சட்டத்தையாவது தேர்ந்தெடுக்க வேண்டும்.</s:String>
+   
+    <!--எடிட்டர் • பார்டர்-->
+    <s:String x:Key="S.Border.Appearance">தோற்றம்</s:String>
+    <s:String x:Key="S.Border.Info">எதிர்மறை மதிப்புகளைப் பயன்படுத்தி கரையை படத்தை விரிவுபடுத்தவும். அவ்வாறு செய்யும்போது, ​​பார்டர் அனைத்து ஃப்ரேம்களுக்கும் பயன்படுத்தப்படும்.&amp;#10;எதிர்மறை மதிப்பு பயன்படுத்தப்படாவிட்டால், தேர்ந்தெடுக்கப்பட்ட ஃப்ரேம்களுக்கு மட்டுமே பார்டர் பயன்படுத்தப்படும்.</s:String>
+   
+    <!--ஆசிரியர் • நிழல்-->
+    <s:String x:Key="S.Shadow.ShadowColor">நிழல் நிறம்:</s:String>
+    <s:String x:Key="S.Shadow.BackgroundColor">பின்னணி நிறம்:</s:String>
+    <s:String x:Key="S.Shadow.Direction">திசை:</s:String>
+    <s:String x:Key="S.Shadow.BlurRadius">மங்கலான ஆரம்:</s:String>
+    <s:String x:Key="S.Shadow.Depth">ஆழம்:</s:String>
+   
+    <!--எடிட்டர் • மழுப்பல்-->
+    <s:String x:Key="S.Obfuscate.Type.Pixelate">பிக்சலேட்</s:String>
+    <s:String x:Key="S.Obfuscate.Type.Blur">மங்கலானது</s:String>
+    <s:String x:Key="S.Obfuscate.Type.Darken">அடர்க</s:String>
+    <s:String x:Key="S.Obfuscate.Type.Lighten">Lighten</s:String>
+    <s:String x:Key="S.Obfuscate.Options">ஒழுங்கல் விருப்பங்கள்</s:String>
+    <s:String x:Key="S.Obfuscate.PixelSize">பிக்சல் அளவு:</s:String>
+    <s:String x:Key="S.Obfuscate.BlurLevel">மங்கலான நிலை:</s:String>
+    <s:String x:Key="S.Obfuscate.DarkenLevel">இருண்ட நிலை:</s:String>
+    <s:String x:Key="S.Obfuscate.LightenLevel">லைட்னிங் லெவல்:</s:String>
+    <s:String x:Key="S.Obfuscate.UseAverage">ஒவ்வொரு பிக்சலேட்டட் தொகுதிக்கும் சராசரி நிறத்தைக் கணக்கிடவும்.</s:String>
+    <s:String x:Key="S.Obfuscate.Invert">தேர்வின் தலைகீழில் தெளிவின்மையைப் பயன்படுத்தவும்.</s:String>
+    <s:String x:Key="S.Obfuscate.Smoothness">மென்மை</s:String>
+    <s:String x:Key="S.Obfuscate.Info">தெரிவுக் கருவியைப் பயன்படுத்தி, சட்டத்தின் தெளிவற்ற பகுதியைத் தேர்ந்தெடுக்கவும்.</s:String>
+    <s:String x:Key="S.Obfuscate.Info2">தெரிவுக் கருவியைப் பயன்படுத்தி, குழப்பமடையாத சட்டத்தின் பகுதியைத் தேர்ந்தெடுக்கவும்.</s:String>
+    <s:String x:Key="S.Obfuscate.Warning">நீங்கள் எதையும் தேர்ந்தெடுக்கவில்லை. தெளிவில்லாமல் இருக்க வேண்டிய செவ்வகத்தைத் தேர்ந்தெடுக்க தேர்வுக் கருவியைப் பயன்படுத்தவும்.</s:String>
+   
+    <!--ஆசிரியர் • முன்னேற்றம்-->
+    <s:String x:Key="S.Progress.Type">வகை</s:String>
+    <s:String x:Key="S.Progress.Type.Bar">பட்டி</s:String>
+    <s:String x:Key="S.Progress.Type.Text">உரை</s:String>
+    <s:String x:Key="S.Progress.Precision">துல்லியம்:</s:String>
+    <s:String x:Key="S.Progress.Precision.Minutes">நிமிடங்கள்</s:String>
+    <s:String x:Key="S.Progress.Precision.Seconds">வினாடிகள்</s:String>
+    <s:String x:Key="S.Progress.Precision.Milliseconds">மில்லி விநாடிகள்</s:String>
+    <s:String x:Key="S.Progress.Precision.Percentage">சதவீதம்</s:String>
+    <s:String x:Key="S.Progress.Precision.Count">பிரேம் எண்</s:String>
+    <s:String x:Key="S.Progress.Precision.DateOfRecording">உண்மையான தேதி/நேரம்</s:String>
+    <s:String x:Key="S.Progress.Precision.Custom">தனிப்பயன்</s:String>
+    <s:String x:Key="S.Progress.Precision.ShowTotal">மொத்தத்தைக் காட்டு.</s:String>
+    <s:String x:Key="S.Progress.Format">வடிவம்:</s:String>
+    <s:String x:Key="S.Progress.Format.Header">வடிவம்</s:String>
+    <s:String x:Key="S.Progress.Format.Milliseconds">$ms = milliseconds</s:String>
+    <s:String x:Key="S.Progress.Format.Seconds">$s = வினாடிகள்</s:String>
+    <s:String x:Key="S.Progress.Format.Minutes">$m = நிமிடங்கள்</s:String>
+    <s:String x:Key="S.Progress.Format.Percentage">$p = சதவீதம்</s:String>
+    <s:String x:Key="S.Progress.Format.FrameNumber">$f = சட்ட எண்</s:String>
+    <s:String x:Key="S.Progress.Format.Totals">மொத்தம்:</s:String>
+    <s:String x:Key="S.Progress.Format.Examples">எடுத்துக்காட்டுகள்:</s:String>
+    <s:String x:Key="S.Progress.Format.Date">நீங்கள் .Net Framework இலிருந்து தேதி மற்றும் நேர வடிவமைப்பைப் பயன்படுத்தலாம்.&amp;#x0d;குறிப்பிடுதல் கீழே உள்ள இந்த இரண்டு இணைப்புகளில் உள்ளது.</s:String>
+    <s:String x:Key="S.Progress.Format.Date.Standard">நிலையான வடிவங்கள்</s:String>
+    <s:String x:Key="S.Progress.Format.Date.Custom">தனிப்பயன் வடிவங்கள்</s:String>
+    <s:String x:Key="S.Progress.Precision.StartNumber">இதிலிருந்து எண்ணு:</s:String>
+    <s:String x:Key="S.Progress.Precision.StartNumber.ToolTip">தேர்ந்தெடுக்கப்பட்ட இந்த எண்ணிலிருந்து சட்ட எண்ணை எண்ணத் தொடங்குகிறது.</s:String>
+    <s:String x:Key="S.Progress.Orientation">நோக்குநிலை:</s:String>
+   
+    <!--ஆசிரியர் • தாமதம்-->
+    <s:String x:Key="S.Delay.Update">தாமதப் புதுப்பிப்பு</s:String>
+    <s:String x:Key="S.Delay.Mode">தாமத முறை:</s:String>
+    <s:String x:Key="S.Delay.Mode.Override">ஓவர்ரைடு (மிசியில்)</s:String>
+    <s:String x:Key="S.Delay.Mode.IncreaseDecrease">அதிகரிப்பு அல்லது குறைத்தல் (மி.எஸ்.களில்)</s:String>
+    <s:String x:Key="S.Delay.Mode.Scale">அளவு (% இல்)</s:String>
+    <s:String x:Key="S.Delay.NewValue">புதிய மதிப்பு</s:String>
     <!--<s:String x:Key="S.Delay.Minimum10Ms">Minimum of 10ms per frame.</s:String>-->
     <!--<s:String x:Key="S.Delay.DecreaseIncrease">Decrease/Increase Value</s:String>-->
     <!--<s:String x:Key="S.Delay.Scale">Scale Value</s:String>-->
