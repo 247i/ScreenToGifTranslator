@@ -6,8 +6,7 @@
     <!--To use a new line: &amp;#x0d; or CarriageReturn + NewLine: &amp;#x0d;&amp;#x0a; or &amp;#10;--> 
     <!--You can use the zero-width-divider to suggest where the word should be divided when there's no space &amp;#8203;-->
     <!--Special texts like {0}, are place holders for dynamic values, such as numbers.-->
-    
-    <!--General-->
+    <!--பொது-->
     <s:String x:Key="S.Ok">சரி</s:String>
     <s:String x:Key="S.Back">பின்</s:String>
     <s:String x:Key="S.Cancel">கைவிடு</s:String>
@@ -33,8 +32,7 @@
     <s:String x:Key="S.Padding">திணிப்பு:</s:String>
     <s:String x:Key="S.MinHeight">குறைந்தபட்ச உயரம்:</s:String>
     <s:String x:Key="S.AndOr">மற்றும்/அல்லது</s:String>
-    
-    <!--Warnings-->
+    <!--முன்னறிவிப்புகள்-->
     <s:String x:Key="S.Crash">அடடா, பயன்பாடு செயலிழந்தது :(</s:String>
     <s:String x:Key="S.Required">தேவையான புலம்</s:String>
     <s:String x:Key="S.Warning.Net.Title">காணாமல் போன சார்பு</s:String>
@@ -43,37 +41,30 @@
     <s:String x:Key="S.Warning.Single.Title">ஒரே ஒரு நிகழ்வு மட்டுமே அனுமதிக்கப்படுகிறது</s:String>
     <s:String x:Key="S.Warning.Single.Header">பயன்பாடு ஏற்கனவே இயங்குகிறது</s:String>
     <s:String x:Key="S.Warning.Single.Message">திரைபிடிபடம் ஏற்கனவே இயங்குகிறது, ஆனால் வெளிப்படையாக எந்த சாளரமும் திறக்கப்படவில்லை. கணினி ட்ரேயைச் சரிபார்க்கவும், திரைபிடிபடம் சிறியபடம் இருக்க வேண்டும்.</s:String>
-    
     <s:String x:Key="S.SavingSettings.Title">அமைப்புகளைச் சேமிக்கிறது</s:String>
     <s:String x:Key="S.SavingSettings.Instruction">இதை மீண்டும் சேமிக்க முயற்சிக்க விரும்புகிறீர்களா?</s:String>
     <s:String x:Key="S.SavingSettings.Message">அமைப்புகளை வட்டில் சேமிக்க திரைபிடிபடம் க்கு போதுமான சலுகைகள் இல்லை என்பது போல் தெரிகிறது.&amp;#10;&amp;#10;மீண்டும் முயற்சிக்க விரும்புகிறீர்களா, ஆனால் இந்த முறை நிர்வாக உரிமைகளைப் பயன்படுத்துகிறீர்களா?</s:String>
-    
     <s:String x:Key="S.Exiting.Title">திரைபிடிபடத்திலிருந்து வெளியேறுகிறது</s:String>
     <s:String x:Key="S.Exiting.Instruction">நீங்கள் நிச்சயமாக வெளியேற விரும்புகிறீர்களா?</s:String>
     <s:String x:Key="S.Exiting.Message">எல்லா சாளரங்களும் மூடப்பட்டு, தட்டு சிறியபடம் அகற்றப்படும்.</s:String>
-
     <!--Warnings • Graphics engine-->
     <s:String x:Key="S.Warning.Graphics.Title">கிராபிக்ஸ் அடாப்டரை மாற்றவும்</s:String>
     <s:String x:Key="S.Warning.Graphics.Instruction">தேர்ந்தெடுக்கப்பட்ட திரையைப் பிடிக்க சரியான கிராபிக்ஸ் அடாப்டருக்கு மாறவும்</s:String>
     <s:String x:Key="S.Warning.Graphics.Message">DirectX இல் உள்ள வரம்பு காரணமாக, திரைபிடிபடம் ஆனது திரை பிடிக்கப்படும் அதே கிராபிக்ஸ் அடாப்டரில் இயங்க வேண்டும்.</s:String>
     <s:String x:Key="S.Warning.Graphics.Action">Windows Settings > System > Display > Graphics Settings அல்லது கீழே உள்ள இணைப்பைக் சொடுக்குவதன் மூலம் திரைபிடிபடத்திற்கான கிராபிக்ஸ் அடாப்டரை மாற்றவும்.</s:String>
     <s:String x:Key="S.Warning.Graphics.Action.Legacy">உங்கள் கிராபிக்ஸ் அடாப்டரின் கிராபிக்ஸ் அமைப்புகளைத் திறப்பதன் மூலம் திரைபிடிபடத்திற்கான கிராபிக்ஸ் அடாப்டரை மாற்றவும்.</s:String>
-    <s:String x:Key="S.Warning.Graphics.Switch">Windows அமைப்புகளைத் திற</s:String>
-    
+    <s:String x:Key="S.Warning.Graphics.Switch">Windows அமைப்புகளைத் திற</s:String> 
     <!--Keys-->
     <s:String x:Key="S.Keys.Enter">Enter</s:String>
     <s:String x:Key="S.Keys.Esc">Esc</s:String>
     <s:String x:Key="S.Keys.Space">ஸ்பேஸ்</s:String>
-
     <!--Mouse-->
     <s:String x:Key="S.Mouse.Right">வலது சொடுக்கம்</s:String>
-    
     <!--Tray icon-->
     <s:String x:Key="S.NewRecording">புதிய திரை பதிவு</s:String>
     <s:String x:Key="S.NewWebcamRecording">புதிய வலைஒளி பதிவு</s:String>
     <s:String x:Key="S.NewBoardRecording">புதிய பலகை பதிவு</s:String>
     <s:String x:Key="S.Exit">வெளியேறு</s:String>
-    
     <!--Commands-->
     <s:String x:Key="S.Command.NewRecording">புதிய திரை பதிவு</s:String>
     <s:String x:Key="S.Command.NewWebcamRecording">புதிய வலைஒளி பதிவு</s:String>
@@ -145,7 +136,6 @@
     <s:String x:Key="S.Command.Save">தேர்ந்தெடுத்த பொருளைச் சேமி</s:String>
     <s:String x:Key="S.Command.Remove">தேர்ந்தெடுத்த உருப்படியை அகற்று</s:String>
     <s:String x:Key="S.Command.ViewHistory">வரலாற்றைக் காண்க</s:String>
-    
     <!--StartUp-->
     <s:String x:Key="S.StartUp.Title">திரைபிடிபடம் - StartUp</s:String>
     <s:String x:Key="S.StartUp.Recorder">பதிப்பாளர்</s:String>
@@ -159,7 +149,6 @@
     <s:String x:Key="S.StartUp.Options">விருப்பங்கள்</s:String>
     <s:String x:Key="S.StartUp.NewRelease">புதிய பதிப்பு உள்ளது</s:String>
     <s:String x:Key="S.StartUp.NewRelease.Tooltip">திரைபிடிபடத்தின் சமீபத்திய பதிப்பைப் பதிவிறக்குகிறது.</s:String>
-
     <!--Updater-->
     <s:String x:Key="S.Updater.Title">திரைபிடிபடம் - புதுப்பிப்பு</s:String>
     <s:String x:Key="S.Updater.Header">புதிய புதுப்பிப்பு உள்ளது</s:String>
@@ -180,12 +169,10 @@
     <s:String x:Key="S.Updater.Warning.Show">பதிவிறக்க விவரங்களைக் காட்ட முடியவில்லை.</s:String>
     <s:String x:Key="S.Updater.Warning.Download">புதுப்பிப்பைப் பதிவிறக்க முடியவில்லை.</s:String>
     <s:String x:Key="S.Updater.Warning.Encoding">புதுப்பிக்கும் முன் அனைத்து குறியாக்கங்களும் முடிவடையும் வரை நீங்கள் காத்திருக்க வேண்டும்.</s:String>
-    
     <!--Downloader-->
     <s:String x:Key="S.Downloader.Title">திரைபிடிபடம் - டவுன்லோடர்</s:String>
     <s:String x:Key="S.Downloader.Header">பதிவிறக்கி</s:String>
     <s:String x:Key="S.Downloader.Size">{0} / {1}</s:String>
-    
     <!--Options-->
     <s:String x:Key="S.Options.Title">திரைபிடிபடம் - விருப்பங்கள்</s:String>
     <s:String x:Key="S.Options.App">பயன்பாடு</s:String>
@@ -202,7 +189,6 @@
     <s:String x:Key="S.Options.Other">மற்றவை</s:String>
     <s:String x:Key="S.Options.Warning.Follow.Header">பின்வரும் கர்சருக்கான குறுக்குவழி விசை காணவில்லை</s:String>
     <s:String x:Key="S.Options.Warning.Follow.Message">மவுஸ் கர்சரைப் பின்வரும் அம்சத்தைப் பயன்படுத்த, தேவைப்படும்போது அதை மாற்றுவதற்கு குறுக்குவழி விசையை அமைக்க வேண்டும்.</s:String>
-
     <!--Options • Application-->
     <s:String x:Key="S.Options.App.Startup">Startup</s:String>
     <s:String x:Key="S.Options.App.Startup.Mode.Manual">தொடங்கு&amp;#10;கைமுறையாக</s:String>
@@ -263,12 +249,10 @@
     <s:String x:Key="S.Options.App.General.PromptToInstall">நிறுவல் தொடங்கும் முன் என்னிடம் கேட்கவும்.</s:String>
     <s:String x:Key="S.Options.App.General.DownloadWithMeteredNetwork">மீட்டர் நெட்வொர்க்குகளில் புதுப்பிப்புகளைப் பதிவிறக்கவும்.</s:String>
     <s:String x:Key="S.Options.App.General.DownloadWithMeteredNetwork.Info">(மீட்டர் நெட்வொர்க்குகளில் புதுப்பிப்புகளைப் பதிவிறக்க அனுமதிக்கிறது)</s:String>
-
     <!--Options • Recorder-->
     <s:String x:Key="S.Options.Recorder.Interface">இடைமுகம்</s:String>
     <s:String x:Key="S.Options.Recorder.Interface.Old">பழைய</s:String>
     <s:String x:Key="S.Options.Recorder.Interface.New">புதியது</s:String>
-    
     <s:String x:Key="S.Options.Recorder.Frequency">கேப்சர் அதிர்வெண்</s:String>
     <s:String x:Key="S.Options.Recorder.Frequency.Manual">கையேடு</s:String>
     <s:String x:Key="S.Options.Recorder.Frequency.Manual.Info">பிடிப்பு பொத்தானை அல்லது அதற்கு சமமான விசைப்பலகை குறுக்குவழியை அழுத்துவதன் மூலம், ஒவ்வொரு சட்டமும் கைமுறையாக உங்களால் கைப்பற்றப்படும்.</s:String>
@@ -285,7 +269,6 @@
     <s:String x:Key="S.Options.Recorder.Frequency.Trigger">Trigger தாமதம்:</s:String>
     <s:String x:Key="S.Options.Recorder.Frequency.Trigger.Info">(MS இல், ஒவ்வொரு ஃபிரேம் பிடிப்பும் தொடங்கும் முன் இவ்வளவு நேரம் காத்திருக்கும்)</s:String>
     <s:String x:Key="S.Options.Recorder.Frequency.Interval">ஒவ்வொரு சட்டமும் {0} இடைவெளியில் எடுக்கப்படும்.</s:String>
-    
     <s:String x:Key="S.Options.Recorder.Mode">பிடிப்பு முறை</s:String>
     <s:String x:Key="S.Options.Recorder.Bitblt.Info">பழைய பிடிப்பு முறையைப் பயன்படுத்தவும், இது மெதுவானது மற்றும் கேம்களைக் கைப்பற்றுவதில் வேலை செய்யாமல் போகலாம்,&amp;#10;ஆனால் கூடுதல் செருகுநிரல்கள் தேவையில்லை.</s:String>
     <s:String x:Key="S.Options.Recorder.DirectX.Info">திரைப்பலக நகல் API பிடிப்பு முறையைப் பயன்படுத்தவும், இது வேகமானது மற்றும்&amp;#10;முழுத்திரை கேம்களைப் பிடிக்க முடியும், ஆனால் Windows 8 அல்லது அதற்குப் புதியது தேவைப்படுகிறது. </s:String>
@@ -1056,9 +1039,9 @@
     
     <!--Editor • Image • Size and Rotation-->
     <s:String x:Key="S.Editor.Image.SizePosition">அளவு மற்றும் சுழற்சி</s:String>
-    <s:String x:Key="S.Editor.Image.Resize">Resize</s:String>
+    <s:String x:Key="S.Editor.Image.Resize">மறுஅளவு</s:String>
     <s:String x:Key="S.Editor.Image.Crop">செதுக்குதல்</s:String>
-    <s:String x:Key="S.Editor.Image.FlipRotate">Flip/Rotate</s:String>
+    <s:String x:Key="S.Editor.Image.FlipRotate">தலைகீழ்/சுற்று</s:String>
     
     <!--Editor • Image tab • Text-->
     <s:String x:Key="S.Editor.Image.Text">உரை</s:String>
@@ -1870,7 +1853,6 @@
     <s:String x:Key="S.SaveAs.File.Decrease">கோப்பு எண்ணைக் குறைக்கவும்</s:String>
     <s:String x:Key="S.SaveAs.File.Exists">அதே பெயரில் ஒரு கோப்பு ஏற்கனவே உள்ளது.</s:String>
     <s:String x:Key="S.SaveAs.File.Clipboard">கிளிப்போர்டில் சேமி.</s:String>
-    
     <!--Editor • Save as > Warnings-->
     <s:String x:Key="S.SaveAs.Warning.Type">கோப்பை எங்கு சேமிப்பது என்பதை நீங்கள் தேர்ந்தெடுக்க வேண்டும் (ஒரு கோப்புறையில், கிளிப்பலகைக்கு அல்லது வேறு எங்காவது பதிவேற்றவும்).</s:String>
     <s:String x:Key="S.SaveAs.Warning.Extension">நீங்கள் கோப்பு நீட்டிப்பைத் தேர்ந்தெடுக்கவில்லை.</s:String>
@@ -1890,7 +1872,6 @@
     <s:String x:Key="S.SaveAs.Warning.Overwrite">கோப்பின் பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது. மேலெழுத அல்லது மற்றொரு கோப்பு பெயர் அல்லது கோப்புறையைத் தேர்ந்தெடுக்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.Warning.Overwrite.Project">ஏற்கனவே அதே கோப்பு பெயரில் ஒரு திட்டம் உள்ளது. மேலெழுத அல்லது மற்றொரு கோப்பு பெயர் அல்லது கோப்புறையைத் தேர்ந்தெடுக்கவும்.</s:String>
     <s:String x:Key="S.SaveAs.Warning.Canceled">செயல்பாடு கைவிடப்பட்டது.</s:String>
-    
     <!--Editor • Save As > Upload-->
     <s:String x:Key="S.SaveAs.Upload">பதிவேற்றம்</s:String>
     <s:String x:Key="S.SaveAs.Upload.Info">பதிவேற்ற முன்னமைவைத் தேர்ந்தெடுக்கவும், அதில் பதிவேற்றம் செய்வதற்குப் பயன்பாட்டில் உள்ள சேவையைப் பற்றிய விவரங்கள் உள்ளன.</s:String>
