@@ -1469,542 +1469,542 @@
     <s:String x:Key="S.Delay.Mode.IncreaseDecrease">அதிகரிப்பு அல்லது குறைத்தல் (மி.எஸ்.களில்)</s:String>
     <s:String x:Key="S.Delay.Mode.Scale">அளவு (% இல்)</s:String>
     <s:String x:Key="S.Delay.NewValue">புதிய மதிப்பு</s:String>
-    <!--<s:String x:Key="S.Delay.Minimum10Ms">Minimum of 10ms per frame.</s:String>-->
-    <!--<s:String x:Key="S.Delay.DecreaseIncrease">Decrease/Increase Value</s:String>-->
-    <!--<s:String x:Key="S.Delay.Scale">Scale Value</s:String>-->
-    <!--<s:String x:Key="S.Delay.Override.Info">This new value will replace the duration (delay) of all selected frames. The value can be from 10ms to 25500ms.</s:String>-->
-    <!--<s:String x:Key="S.Delay.IncreaseDecrease.Info">This value will decrease/increase the duration (delay) of each selected frame.&#x0d;You can decrement/increment by selecting a value between -10000ms and 10000ms, but the final duration of each frame will be restricted to between 10ms and 25500ms</s:String>-->
-    <!--<s:String x:Key="S.Delay.Scale.Info">Scale the duration (delay) of each selected frame by the percent value.&#x0d;You can scale each frame's duration by selecting a value between 1% and 1000%, but the final duration of each frame will be restricted to between 10ms and 25500ms</s:String>-->
-
-    <!--Editor • Cinemagraph-->
-    <!--<s:String x:Key="S.Cinemagraph.Info">Use the pen to select the pixels that should not remain static (that should change among frames), by painting on top of them.</s:String>-->
-
-    <!--Editor • Transitions-->
-    <!--<s:String x:Key="S.Transitions.Length">Transition Length</s:String>-->
-    <!--<s:String x:Key="S.Transitions.Delay">Transition Delay</s:String>-->
-    <!--<s:String x:Key="S.Transitions.FadeTo">Fade To...</s:String>-->
-    <!--<s:String x:Key="S.Transitions.FadeTo.Frame">The next frame</s:String>-->
-    <!--<s:String x:Key="S.Transitions.FadeTo.Color">A color</s:String>-->
-    <!--<s:String x:Key="S.Transitions.Color">Color</s:String>-->
-    <!--<s:String x:Key="S.Transitions.Info">The transition will be applied between the selected frame and the next one.</s:String>-->
-
-    <!--Editor • Save as-->
-    <!--<s:String x:Key="S.SaveAs.Type">File type and preset</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Type.Format">The format of the output file.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Type.Preset">The export preset that holds all currently displayed settings.&#10;Manage your export presets via the buttons below.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Type.Animated">Animated image</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Type.Video">Video</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Type.Frames">Frames</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Type.Other">Other</s:String>-->
-    
-    <!--<s:String x:Key="S.SaveAs.Apng">Apng</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Apng.Info">Animated Portable Network Graphics</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Gif">Gif</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Gif.Info">Graphics Interchange Format</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Webp">Webp</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Webp.Info">Web Picture</s:String>-->
-    
-    <!--<s:String x:Key="S.SaveAs.Avi">Avi</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Avi.Info">Audio Video Interleave</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Mkv">Mkv</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Mkv.Info">Matroska</s:String> -->
-    <!--<s:String x:Key="S.SaveAs.Mov">Mov</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Mov.Info">QuickTime File Format</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Mp4">Mp4</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Mp4.Info">Mpeg-4</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Webm">Webm</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Webm.Info">Web Movie</s:String>-->
-    
-    <!--<s:String x:Key="S.SaveAs.Bmp">Bmp</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Bmp.Info">Bitmap</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Jpeg">Jpeg</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Jpeg.Info">Joint Photographic Experts Group</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Png">Png</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Png.Info">Portable Network Graphics</s:String>-->
-    
-    <!--<s:String x:Key="S.SaveAs.Project">Project</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Project.Info">ScreenToGif project</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Psd">Psd</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Psd.Info">Photoshop file</s:String>-->
-    
-    <!--Editor • Save as > Presets-->
-    <!--<s:String x:Key="S.SaveAs.Presets">Presets:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Presets.Default">Default</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Presets.Add">Add a new export preset.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Presets.Save">Save the current settings to this export preset.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Presets.Edit">Edit basic export preset settings.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Presets.Remove">Remove the currently selected export preset.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Presets.Reset">Reset the settings of this export preset to its defaults.</s:String>-->
-    
-    <!--Editor • Save as > Presets > Dialogs-->
-    <!--<s:String x:Key="S.SaveAs.Presets.Ask.Delete.Title">Deleting the Preset</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Presets.Ask.Delete.Instruction">Are you sure that you want to delete the preset?</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Presets.Ask.Delete.Message">This action cannot be undone.&#10;&#10;Would you like to delete the selected preset?</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Presets.Ask.Reset.Title">Reseting the Preset</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Presets.Ask.Reset.Instruction">Are you sure that you want to reset the preset?</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Presets.Ask.Reset.Message">This action cannot be undone.&#10;&#10;Would you like to reset the selected preset to its default settings?</s:String>-->
-    
-    <!--Editor • Save as > Encoder-->
-    <!--<s:String x:Key="S.SaveAs.Encoder">Encoder</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Encoder.Quantizer">Encoder and quantizer</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Encoder.Info">Encoder responsible for generating the output file.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Encoder.ScreenToGif">ScreenToGif</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Encoder.ScreenToGif.Info">Built-in encoder.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Encoder.KGySoft">KGy SOFT</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Encoder.KGySoft.Info">KGy SOFT GIF Encoder.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Encoder.System">System</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Encoder.System.Info">Encoder made available by the system.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Encoder.Ffmpeg">FFmpeg</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Encoder.Ffmpeg.Info">External encoder, made by FFmpeg.org.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Encoder.Gifski">Gifski</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Encoder.Gifski.Info">External encoder, made by Gif.ski.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Encoder.Options">Encoder options</s:String>-->
-
-    <!--Editor • Save as > FFmpeg-->
-    <!--<s:String x:Key="S.SaveAs.Ffmpeg.UseParameters">Enable the advanced mode.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Ffmpeg.UseParameters.Info">Manually input the parameters to control the encoder.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Ffmpeg.Parameters">Parameters:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Ffmpeg.Parameters.Info">List of parameters that will be passed to FFmpeg.&#10;&#10;Special parameters:&#10;{I} is the input path (the frames).&#10;{O} is the output path (the exported file).&#10;{W} is the width of the frame.&#10;{H} is the height of the frame.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Ffmpeg.Parameters.Pass">To encode with 2-pass, simply add '-pass 2'.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Ffmpeg.Preview">Preview</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Ffmpeg.Preview.Info">Preview the parameter list that will be passed to FFmpeg.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Ffmpeg.Help.Code">Codec docs</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Ffmpeg.Help.Format">Format docs</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Ffmpeg.Help.Filters">Filter docs</s:String>-->
-    
-    <!--Editor • Save as > Gif options-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions">Gif options</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Quantizer.Info">Color reduction algorithm (quantization).</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Quantizer.Neural">Neural network</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Quantizer.Neural.Info">High fidelity quantization. Slower, but good for higher amount of colors.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Quantizer.Octree">Octree</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Quantizer.Octree.Info">Good for animations with less colors. Faster, but may produce color banding.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Quantizer.MedianCut">Median cut</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Quantizer.MedianCut.Info">Less good than Octree and slower.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Quantizer.Grayscale">Grayscale</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Quantizer.Grayscale.Info">Uses a fixed grayscale palette, so it's way faster.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Quantizer.MostUsed">Most used colors</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Quantizer.MostUsed.Info">Simply takes the most used colors in the frames.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Sampling">Sampling:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Sampling.Info">Sampling factor:&#10;A value of 1 will result in better looking gif, but it will be slower to render.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Quality">Quality:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Colors">Colors:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Colors.Info">Maximum number of colors (for each frame).</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.GlobalColorTable">Use a global color table.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.GlobalColorTable.Info">May reduce the quality and/or size of the gif.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Best">Best</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Fastest">Fastest</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Gifski.Faster">Use an even faster encoding process.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Gifski.Faster.Info">May reduce the quality of the gif.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Loop">Loop:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Looped">Looped gif.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.RepeatForever">Repeat forever.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.RepeatCount">Repeat count.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Transparency.Enable">Enable transparency.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Transparency.Enable.Info">Enables the full transparency mode, which makes the background of the gif to be fully transparent.&#10;The chroma key replacement process will be ignored if this option is enabled.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Transparency.Pick">Select which color to display as transparent.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Transparency.Pick.Info">If a color is selected, it will be converted to transparent and it will appear as transparent in the generated gif.&#10;If no color is selected, all transparent colors (Alpha = 0%) will appear as transparent normally.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.DetectUnchanged">Detect unchanged pixels.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.DetectUnchanged.Info">By analyzing and detecting unchanged pixels between the frames,&#10;it will be possible to save only the necessary parts to the gif.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.PaintWithChroma">Replace these pixels with a chroma key.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.PaintWithChroma.Info">Repeated/unchanged pixels will be replaced with this chroma key,&#10;making it possible to use less colors per frame.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.ChromaKey">Chroma key:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Dither">Dither:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.GifOptions.Dither.Scale">Bayer scale:</s:String>-->
-
-    <!--Editor • Save as > KGy SOFT options-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer">Quantizer</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.BackColor">Background Color:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.BackColor.Info">Pixels with alpha (transparency) that are considered opaque by the selected quantizer will be blended with this color before getting the quantized color.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.AlphaThreshold">Alpha Threshold:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.AlphaThreshold.Info">Determines the input alpha value under which the quantized color will be transparent.&#x0d;&#x0a;If 0, then the result will never have transparency.&#x0d;&#x0a;If 255, then only fully transparent pixels are considered transparent.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.WhiteThreshold">White Threshold:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.WhiteThreshold.Info">Determines the lowest input brightness to consider the result color white.&#x0d;&#x0a;It affects the brightness of the result. An error diffusion dithering may compensate for the value of this parameter though.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.DirectMapping">Direct Mapping</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.DirectMapping.Info">When checked, the quantized color is determined by a direct mapping rather than looking up the nearest palette entry.&#x0d;&#x0a;It speeds up quantization but may end up in a higher contrast result. An error diffusion dithering may compensate for the value of this parameter though.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PaletteSize">Palette Size:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PaletteSize.Info">Determines the maximum size of the palette per frame.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.CustomBitLevel">Custom bit level.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.CustomBitLevel.Info">When checked, the bit level can be configured manually.&#x0d;&#x0a;⚠️ Warning: The highest bit level might require a LOT of memory!</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.BitLevel.Info">Higher value means more accuracy, larger target color space, slower processing and larger memory usage.&#x0d;&#x0a;For example, if 1, then the result can have no more than 8 colors, or when 2, no more than 64 colors.&#x0d;&#x0a;For Octree and Wu quantizers it affects also maximum number of monochromatic shades.&#x0d;&#x0a;For example, if 5 (which is the default for Wu quantizer), only 32 monochromatic shades can be differentiated.&#x0d;&#x0a;⚠️ Caution: The Wu quantizer consumes at least 650 MB with the highest value.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.LinearColorSpace">Linear color space</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.LinearColorSpace.Info">When checked, some operations (alpha blending with background color, quantizing, dithering, looking up the nearest colors in the palette) are performed in the linear color space rather than the sRGB one.&#x0d;&#x0a;Working in the linear color space is slower but provides a better quality result, especially when the quantizer uses only a few colors.&#x0d;&#x0a;&#x0d;&#x0a;⚠️ Remark: When using just a few colors, the brightness of a possibly resized preview may be incorrect because WPF performs resizing in the sRGB color space.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.BlackAndWhite">Black and White</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.BlackAndWhite.Info">Fixed 1 bpp palette with the black and white colors.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Grayscale4">Grayscale 4 colors</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Grayscale4.Info">Fixed 2 bpp palette with 4 grayscale entries.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Grayscale16">Grayscale 16 colors</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Grayscale16.Info">Fixed 4 bpp palette with 16 grayscale entries.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Grayscale">Grayscale 256 colors</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Grayscale.Info">Fixed 8 bpp palette with 256 grayscale entries.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.SystemDefault4BppPalette">System default 4 bpp palette</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.SystemDefault4BppPalette.Info">Fixed 4 bpp palette using the standard 16 sRGB colors.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.SystemDefault8BppPalette">System default 8 bpp palette</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.SystemDefault8BppPalette.Info">Fixed 8 bpp palette including the 'web-safe' colors and transparency.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Rgb332">RGB 332 palette</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Rgb332.Info">Fixed 8 bpp palette using the RGB 332 color space.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.Octree">Octree Quantizer</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.Octree.Info">Optimizing palette for each frame with the Octree algorithm.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.MedianCut">Median Cut Quantizer</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.MedianCut.Info">Optimizing palette for each frame with the Median Cut algorithm.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.Wu">Wu Quantizer</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.Wu.Info">Optimizing palette for each frame with Xiaolin Wu's algorithm.</s:String>-->
-
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer">Ditherer</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.Strength">Strength:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.Strength.Info">The strength of the ditherer, or 0 to auto calibrate strength.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.Seed">Seed:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.Seed.Info">An integer seed to be used to produce a specific random dithering pattern.&#x0d;&#x0a;Leave empty to use a random seed for every frame.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.None">None</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.None.Info">Frames are quantized without dithering.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.IsSerpentineProcessing">Serpentine Processing</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.IsSerpentineProcessing.Info">When checked, the error propagation direction is altered from line to line.&#x0d;&#x0a;This helps to reduce the ripple effect of the error diffusion dithering.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer2X2">Bayer 2x2 (Ordered)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer2X2.Info">The 2x2 Bayer matrix pattern.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer3X3">Bayer 3x3 (Ordered)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer3X3.Info">The 3x3 Bayer matrix pattern.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer4X4">Bayer 4x4 (Ordered)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer4X4.Info">The 4x4 Bayer matrix pattern.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer8X8">Bayer 8x8 (Ordered)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer8X8.Info">The 8x8 Bayer matrix pattern.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.DottedHalftone">Dotted Halftone (Ordered)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.DottedHalftone.Info">A 8x8 matrix with a dotted halftone pattern.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.BlueNoise">Blue Noise (Ordered)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.BlueNoise.Info">A 64x64 matrix with a blue noise pattern.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Atkinson">Atkinson (Error Diffusion)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Atkinson.Info">Bill Atkinson's 4x3 matrix with 6 effective values.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Burkes">Burkes (Error Diffusion)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Burkes.Info">D. Burkes' 5x2 matrix.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.FloydSteinberg">Floyd-Steinberg (Error Diffusion)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.FloydSteinberg.Info">The original 3x2 matrix by Floyd and Steinberg.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.JarvisJudiceNinke">Jarvis-Judice-Ninke (Error Diffusion)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.JarvisJudiceNinke.Info">An 5x3 matrix by Jarvis, Judice and Ninke.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Sierra3">Sierra 3 (Error Diffusion)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Sierra3.Info">Frankie Sierra's 5x3 matrix.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Sierra2">Sierra 2 (Error Diffusion)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Sierra2.Info">Frankie Sierra's 5x2 matrix.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.SierraLite">Sierra Lite (Error Diffusion)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.SierraLite.Info">Frankie Sierra's 3x2 matrix.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.StevensonArce">Stevenson-Arce (Error Diffusion)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.StevensonArce.Info">A 7x4 hexagonal matrix by Stevenson and Arce.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Stucki">Stucki (Error Diffusion)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Stucki.Info">Stucki's 5x3 matrix.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.RandomNoiseDitherer">Random Noise</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.RandomNoiseDitherer.Info">Random white noise.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.InterleavedGradientNoiseDitherer">Interleaved Gradient Noise</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Ditherer.InterleavedGradientNoiseDitherer.Info">Nonrandom gradient noise generated by a formula.</s:String>-->
-
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Preview">Preview</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Preview.ShowCurrentFrame">Show current frame.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Preview.ShowCurrentFrame.Info">When checked, the preview shows the current frame instead of a standard image example.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Preview.Refresh">Auto preview is disabled due to the high memory requirement of the current settings. Click to refresh the preview.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Preview.Error">Failed to generate preview: {0}&#x0d;&#x0a;Click to try to generate it again.</s:String>-->
-
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation">Animation Settings</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.EndlessLoop">Endless loop.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.EndlessLoop.Info">When checked, the animation will be looped indefinitely.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.PingPong">Back and forth.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.PingPong.Info">When checked, the animation will be played back and forth.&#x0d;&#x0a;This is achieved by duplicating the frames meaning larger file size and longer encoding time.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.LoopCount">Repeat Count:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.LoopCount.Info">Specifies how many times the animation will be played.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.AllowDeltaFrames">Allow delta frames.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.AllowDeltaFrames.Info">When checked, unchanged pixels are attempted to be detected during the encoding.&#x0d;&#x0a;When using with an optimized quantizer, this option makes possible for a frame to have more than 256 colors.&#x0d;&#x0a;This option is ignored if the quantizer does not use transparency and Allow Clipped Frames is unchecked.&#x0d;&#x0a;&#x0d;&#x0a;⚠️ Remark: This option may cause noticeable artifacts in colors or in the dithering pattern.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.DeltaTolerance">Delta Tolerance:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.DeltaTolerance.Info">Specifies the maximum tolerance when detecting changed pixels.&#x0d;&#x0a;If 0, then no difference is tolerated at all.&#x0d;&#x0a;If 255, then there might be frames (or even all of them) that are added with no content.&#x0d;&#x0a;Reasonable range is between 0 and 16 for an optimized quantizer. The ones with fixed colors can be used with somewhat larger values with dithering.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.HighDeltaTolerance">If Delta Tolerance is too high the result might have poor quality. Click to reset delta tolerance.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.AllowClippedFrames">Allow clipped frames.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.AllowClippedFrames.Info">When checked, the encoder is allowed to add smaller frames than the actual resolution.&#x0d;&#x0a;If Allow Delta Frames is unchecked, then allows only clipping possible transparent borders.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.AllowDeltaIgnored">Allow Delta Frames is ignored because the current configuration does not use alpha and Allow Clipped Frames is unchecked. Click to enable clipped frames.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.KGySoft.Animation.AllowClippedIgnored">Allow Clipped Frames has no effect because the current configuration does not use alpha and Allow Delta Frames is unchecked. Click to enable delta frames.</s:String>-->
-
-    <!--Editor • Save as > Apng options-->
-    <!--<s:String x:Key="S.SaveAs.ApngOptions">Apng options</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.ApngOptions.Prediction">Prediction:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.ApngOptions.Prediction.None">None</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.ApngOptions.Prediction.Sub">Sub</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.ApngOptions.Prediction.Up">Up</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.ApngOptions.Prediction.Average">Average</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.ApngOptions.Prediction.Mixed">Mixed</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.ApngOptions.Looped">Looped apng.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.ApngOptions.DetectUnchanged">Detect unchanged pixels.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.ApngOptions.PaintTransparent">Paint all unchanged pixels with a transparent color.</s:String>-->
-    
-    <!--Editor • Save as > Webp options-->
-    <!--<s:String x:Key="S.SaveAs.WebpOptions.CodecPreset">Preset:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.None">None</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Default">Default</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Picture">Picture</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Photo">Photo</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Drawing">Drawing</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Icon">Icon</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Text">Text</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.WebpOptions.Lossless">Use lossless mode.</s:String>-->
-    
-    <!--Editor • Save as > Video options-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Mode">Mode:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Mode.Normal">Normal</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Mode.Advanced">Advanced</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Mode.Info">Method of configuring the encoder parameters:&#10;Normal: Use standard UI controls.&#10;Advanced: Use a text box to type the parameters.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Codec">Codec:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Codec.Info">The video encoder, responsible for&#10;converting the raw pixels to the output file.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset">Preset:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.None">None</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.VerySlow">Very Slow</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Slower">Slower</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Slow">Slow</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Medium">Medium</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Fast">Fast</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Faster">Faster</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.VeryFast">Very Fast</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.SuperFast">Super Fast</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.UltraFast">Ultra Fast</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Quality">Quality</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Balanced">Balanced</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Speed">Speed</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Default">Default</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Lossless">Lossless</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.LosslessHp">Lossless (High Performance)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Hp">High Performance</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Hq">High Quality</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Bd">Bluray Disk</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.LowLatency">Low Latency</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.LowLatencyHp">Low Latency (High Performance)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.LowLatencyHq">Low Latency (Hight Quality)</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Info">Encoding speed to compression ratio,&#10;slower presets may give you better compression&#10;(quality per filesize).</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration">Hardware Acc.:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration.Off">Off</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration.On">On</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration.Auto">Automatic selection</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration.Info">Controls the usage of dedicated hardware (video graphics).&#10;Off: Doesn't use dedicated hardware.&#10;On: Uses dedicated hardware and lets you select special encoders.&#10;Auto: Uses dedicated hardware and automatic selects the right encoder, when possible.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.PixelFormat">Pixel format:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.PixelFormat.Auto">Automatic</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Vsync">Vsync:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Vsync.Info">Video sync method.&#10;Auto: Chooses between 1 and 2 depending on muxer (format) capabilities.&#10;Passthrough: Each frame is passed with its timestamps to the encoder.&#10;Constant: Frames will be duplicated and dropped to achieve exactly the requested constant frame rate.&#10;Variable: Frames are passed through with their timestamp or dropped so as to prevent 2 frames from having the same timestamp.&#10;Drop: As passthrough but destroys all timestamps, making the encoder generate fresh timestamps based on framerate.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Vsync.Passthrough">Passthrough</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Vsync.Cfr">Constant framerate</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Vsync.Vfr">Variable framerate</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Vsync.Drop">Drop</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Framerate">Framerate:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Framerate.Film">Film</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Framerate.Custom">Custom</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Pass">Pass:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Crf.Info">Constant Rate Factor.&#10;Quality and rate control setting.&#10;Leave it empty if you don't wish to set this property.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.QualityLevel">Quality level:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.QualityLevel.Info">Smaller values means better quality.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Bitrate">Bitrate:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Info">Target video bit rate.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Mode">Bitrate mode:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Mode.Constant">Constant</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Mode.Variable">Variable</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Minimum">Min Rate:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Minimum.Info">Minimum bitrate tolerance.&#10;Most useful when using CBR mode.&#10;Leave it empty or set to zero &#10;if you don't wish to set this property.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Maximum">Max Rate:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Maximum.Info">Maximum bitrate tolerance.&#10;Requires the buffer size to be set too.&#10;Leave it empty or set to zero &#10;if you don't wish to set this property.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Buffer">Buffer size:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Buffer.Info">Rate control buffer size.&#10;Leave it empty or set to zero &#10;if you don't wish to set this property.</s:String>-->
-
-    <!--Editor • Save as > Image options-->
-    <!--<s:String x:Key="S.SaveAs.ImageOptions.Zip">Zip the images.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.ImageOptions.Zip.Info">Exports the images inside a zipped folder.</s:String>-->
-    
-    <!--Editor • Save as > Psd options-->
-    <!--<s:String x:Key="S.SaveAs.PsdOptions.Compress">Compress the image.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.PsdOptions.Compress.Info">Compress the image data using the RLE algorithm.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.PsdOptions.Timeline">Save the timeline data.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.PsdOptions.Timeline.Info">Exports the timings of the frames, instead of just the frames.</s:String>-->
-    
-    <!--Editor • Save as > Save options-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions">Export options</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.Partial">Export partially.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.PickFolder">Save the file to a folder of your choice.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode">Overwrite?</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode.Warn">Warn</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode.Warn.Info">Only warns that another file exists with the same name.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode.Prompt">Prompt</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode.Prompt.Info">Asks if the user wants to overwrite the file.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode.Allow">Allow</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode.Allow.Info">Simply overwrites the file.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.ProjectToo">Save as project too (same folder, same filename).</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.UploadFile">Upload the file.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard">Copy to the clipboard.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.File">File</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.File.Info">Copies the output file into the clipboard.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.FolderPath">Folder path</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.FolderPath.Info">Copies the folder path of the output file into the clipboard.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.FilePath">File path</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.FilePath.Info">Copies the path of the output file into the clipboard.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.Link">Link</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.Link.Info">Copies the link generated by the upload service into the clipboard.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.ExecuteCommands">Execute post encoding commands.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.SaveOptions.ExecuteCommands.Info">Type commands to be executed after the encoding.&#x0d;To execute multiple commands, type each one on a separated line.&#x0d;Macros:&#x0d;{p} = Output file path.&#x0d;{f} = Output folder path.&#x0d;{u} = URL of the uploaded file.</s:String>-->
-    
-    <!--Editor • Save As > Partial export-->
-    <!--<s:String x:Key="S.SaveAs.Partial">Partial export</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Mode">Mode:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Mode.Info">Select the partial export method.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Mode.Expression">Expression</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Mode.Expression.Info">Exports parts of the animation based on a simple expression.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Mode.Frames">Frame range</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Mode.Frames.Info">Exports only part of the animation within the frame range.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Mode.Time">Time range</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Mode.Time.Info">Exports only part of the animation within the timeframe.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Mode.Selection">Selection</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Mode.Selection.Info">Exports only the frames selected in the timeline.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Mode.Selection.None">No frame selected.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Mode.Selection.Singular">1 frame selected.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Mode.Selection.Plural">{0} frames selected.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.From">From:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.To">To:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Expression">Expression:</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Partial.Expression.Info">Type frame numbers separated by a comma or&#10;frame sequences separated by a minus sign:&#10;1, 3, 4, 6 - 9</s:String>-->
-    
-    <!--Editor • Save as > File-->
-    <!--<s:String x:Key="S.SaveAs.File">File</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.File.Location">Destination folder.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.File.SelectFolder">Select the output folder</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.File.Choose">Choose the location.&#x0d;Press Shift and click to&#x0d;select the filename too.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.File.Format">File format</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.File.Name">Name of the file. Insert Date/Time format between '?'</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.File.Animation">Animation</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.File.Increase">Increase the file number</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.File.Decrease">Decrease the file number</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.File.Exists">A file with the same name already exists.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.File.Clipboard">Save to the clipboard.</s:String>-->
-    
-    <!--Editor • Save as > Warnings-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Type">You need to select where to save the file (to a folder, to the clipboard or upload somewhere else).</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Extension">You didn't select the file extension.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Ffmpeg.Empty">When selecting the advanced mode, you must type the parameters in the parameters field.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Ffmpeg.MissingPath">The special parameters {I} (input) and/or {O} (output) are missing from the parameters field.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Commands.Empty">To execute a post encoding command, you need to type something on the commands text field.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Partial.NoSelection">You must select at least one frame when having the option to export only selected frames.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Partial.InvalidExpression">The expression to partially export the project is invalid.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Upload.None">No upload service selected. You need to select a destination.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Upload.NotAuthorized">You can't upload to the selected service because it was not authorized. Head over to Options > Upload Services to authorize this app.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Copy.Link">You can't select the option of copying the link because you didn't set to upload the file.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Folder">You need to select an output folder.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Folder.NotExists">The output folder does not exist.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Folder.Invalid">The output folder contains one or more invalid characters. Please, select a valid folder.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Filename">You need to pick a filename.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Filename.Invalid">The output file name contains one or more invalid characters. Please, select a valid file name.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Overwrite">Filename already in use. Set to overwrite or pick another filename or folder.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Overwrite.Project">There's already a project with the same filename. Set to overwrite or pick another filename or folder.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Warning.Canceled">The operation was canceled.</s:String>-->
-    
-    <!--Editor • Save As > Upload-->
-    <!--<s:String x:Key="S.SaveAs.Upload">Upload</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Upload.Info">Select the upload preset, which has details about the service in use for upload.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Upload.Limit">This upload service imposes limits.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Upload.Add">Add a new upload preset.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Upload.Edit">Edit upload preset settings.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Upload.History">View the upload history of this preset.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Upload.Remove">Remove the currently selected upload preset.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Upload.Select.Title">Select an upload preset</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Upload.Select.Description">Pick one from this list.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Upload.Unavailable.Title">No upload preset available for this format</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Upload.Unavailable.Description">Add a preset by using the button below.</s:String>-->
-    
-    <!--Editor • Save as > Upload > Dialogs-->
-    <!--<s:String x:Key="S.SaveAs.Upload.Ask.Delete.Title">Deleting the Upload Preset</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Upload.Ask.Delete.Instruction">Are you sure that you want to delete the upload preset?</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Upload.Ask.Delete.Message">This action cannot be undone.&#10;&#10;Would you like to delete the selected upload preset?</s:String>-->
-    
-    <!--Save As • Dialogs-->
-    <!--<s:String x:Key="S.SaveAs.Dialogs.Multiple.Title">Export Frames</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Dialogs.Multiple.Instruction">Are you sure that you want to export the frames?</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Dialogs.Multiple.Message">This action will export {0} frames directly into the selected folder.</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Dialogs.Overwrite.Title">Overwrite</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Dialogs.Overwrite.Instruction">Would you like to overwrite the file?</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Dialogs.Overwrite.Message">A file with the name '{0}' already exists in that folder.\r\nWould you like to overwrite it?</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Dialogs.OverwriteMultiple.Instruction">Would you like to overwrite the files?</s:String>-->
-    <!--<s:String x:Key="S.SaveAs.Dialogs.OverwriteMultiple.Message">One or more files with the same name already exist in that folder.\r\nWould you like to overwrite them?</s:String>-->
-    
-    <!--Command Preview-->
-    <!--<s:String x:Key="S.CommandPreviewer.Title">Command Previewer</s:String>-->
-    <!--<s:String x:Key="S.CommandPreviewer.Command">Command</s:String>-->
-    <!--<s:String x:Key="S.CommandPreviewer.Input">Input path</s:String>-->
-    <!--<s:String x:Key="S.CommandPreviewer.Output">Output path</s:String>-->
-    
-    <!--Feedback-->
-    <!--<s:String x:Key="S.Feedback.Feedback">Feedback</s:String>-->
-    <!--<s:String x:Key="S.Feedback.Send">Send</s:String>-->
-    <!--<s:String x:Key="S.Feedback.Preview">Preview</s:String>-->
-    <!--<s:String x:Key="S.Feedback.Header">Send feedback</s:String>-->
-    <!--<s:String x:Key="S.Feedback.Title">Title</s:String>-->
-    <!--<s:String x:Key="S.Feedback.Message">Message</s:String>-->
-    <!--<s:String x:Key="S.Feedback.Message.Info">If you are experiencing a bug, don't forget to explain to me how you got it, step by step.</s:String>-->
-    <!--<s:String x:Key="S.Feedback.Type">Type of feedback</s:String>-->
-    <!--<s:String x:Key="S.Feedback.Suggestion">Suggestion</s:String>-->
-    <!--<s:String x:Key="S.Feedback.IssueBug">Issue/Bug</s:String>-->
-    <!--<s:String x:Key="S.Feedback.YourEmail">Your email</s:String>-->
-    <!--<s:String x:Key="S.Feedback.Warning.Title">You need to type a title for the feedback.</s:String>-->
-    <!--<s:String x:Key="S.Feedback.Warning.Message">You need to type a message in the feedback.</s:String>-->
-    <!--<s:String x:Key="S.Feedback.Warning.Email">You need to type your email, to receive a reply from the developer.</s:String>-->
-    <!--<s:String x:Key="S.Feedback.Sending">Sending in the background. This window will close shortly.</s:String>-->
-    <!--<s:String x:Key="S.Feedback.Attachments">Attachments (Optional, 20MB Maximum)</s:String>-->
-    <!--<s:String x:Key="S.Feedback.AddAttachments">Add Attachments</s:String>-->
-    <!--<s:String x:Key="S.Feedback.RemoveAttachments">Remove All Attachments</s:String>-->
-    <!--<s:String x:Key="S.Feedback.LanguageInfo1">I can understand English</s:String>-->
-    <!--<s:String x:Key="S.Feedback.LanguageInfo2">and Portuguese (Brazilian and European).</s:String>-->
-    <!--<s:String x:Key="S.Feedback.Preview.Info">This is what you'll send, plus all the attachments.</s:String>-->
-    
-    <!--Troubleshoot-->
-    <!--<s:String x:Key="S.Troubleshoot.Title">Troubleshoot</s:String>-->
-    <!--<s:String x:Key="S.Troubleshoot.Windows">Is there any window missing?</s:String>-->
-    <!--<s:String x:Key="S.Troubleshoot.Windows.Info">If any of the windows is missing (outside of the screen),&#x0d;use the options below to reset its current and startup position.</s:String>-->
-    <!--<s:String x:Key="S.Troubleshoot.Windows.Current">Here's where each window is currently located:</s:String>-->
-    <!--<s:String x:Key="S.Troubleshoot.Windows.Next">Here's where each window will open next time:</s:String>-->
-    <!--<s:String x:Key="S.Troubleshoot.Windows.BringBack">Move all windows to the main screen.</s:String>-->
-    <!--<s:String x:Key="S.Troubleshoot.Windows.Reset">Reset the startup position of all windows.</s:String>-->
+    <s:String x:Key="S.Delay.Minimum10Ms">ஒரு சட்டத்திற்கு குறைந்தபட்சம் 10ms.</s:String>
+    <s:String x:Key="S.Delay.DecreaseIncrease">மதிப்பைக் குறைத்தல்/அதிகரித்தல்</s:String>
+    <s:String x:Key="S.Delay.Scale">அளவு மதிப்பு</s:String>
+    <s:String x:Key="S.Delay.Override.Info">இந்தப் புதிய மதிப்பு தேர்ந்தெடுக்கப்பட்ட அனைத்து ஃப்ரேம்களின் கால அளவை (தாமதம்) மாற்றும். மதிப்பு 10ms முதல் 25500ms வரை இருக்கலாம்.</s:String>
+    <s:String x:Key="S.Delay.IncreaseDecrease.Info">இந்த மதிப்பு தேர்ந்தெடுக்கப்பட்ட ஒவ்வொரு சட்டகத்தின் கால அளவையும் (தாமதத்தை) குறைக்கும்/அதிகரிக்கும். 10000ms மற்றும் 10000ms, ஆனால் ஒவ்வொரு சட்டகத்தின் இறுதி கால அளவும் 10ms முதல் 25500ms வரை கட்டுப்படுத்தப்படும்</s:String>
+    <s:String x:Key="S.Delay.Scale.Info">தேர்ந்தெடுக்கப்பட்ட ஒவ்வொரு சட்டகத்தின் கால அளவை (தாமதத்தை) சதவீத மதிப்பின் மூலம் அளவிடவும் % மற்றும் 1000%, ஆனால் ஒவ்வொரு சட்டகத்தின் இறுதி கால அளவும் 10ms முதல் 25500ms வரை கட்டுப்படுத்தப்படும்</s:String>
+   
+    <!--எடிட்டர் • சினிமாகிராஃப்-->
+    <s:String x:Key="S.Cinemagraph.Info">பேனாவைப் பயன்படுத்தி, நிலையானதாக இருக்கக் கூடாத (பிரேம்களுக்கு இடையில் மாற வேண்டிய) பிக்சல்களைத் தேர்ந்தெடுக்க, அவற்றின் மேல் வண்ணம் தீட்டவும்.</s:String>
+   
+    <!--எடிட்டர் • மாற்றங்கள்-->
+    <s:String x:Key="S.Transitions.Length">மாற்று நீளம்</s:String>
+    <s:String x:Key="S.Transitions.Delay">மாற்றம் தாமதம்</s:String>
+    <s:String x:Key="S.Transitions.FadeTo">Fade To...</s:String>
+    <s:String x:Key="S.Transitions.FadeTo.Frame">அடுத்த சட்டகம்</s:String>
+    <s:String x:Key="S.Transitions.FadeTo.Color">ஒரு வண்ணம்</s:String>
+    <s:String x:Key="S.Transitions.Color">வண்ணம்</s:String>
+    <s:String x:Key="S.Transitions.Info">தேர்ந்தெடுக்கப்பட்ட சட்டகத்திற்கும் அடுத்த சட்டத்திற்கும் இடையில் மாற்றம் பயன்படுத்தப்படும்.</s:String>
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி-->
+    <s:String x:Key="S.SaveAs.Type">கோப்பு வகை மற்றும் முன்னமைவு</s:String>
+    <s:String x:Key="S.SaveAs.Type.Format">வெளியீட்டு கோப்பின் வடிவம்.</s:String>
+    <s:String x:Key="S.SaveAs.Type.Preset">தற்போது காண்பிக்கப்படும் அனைத்து அமைப்புகளையும் வைத்திருக்கும் ஏற்றுமதி முன்னமைவு.&amp;#10;கீழே உள்ள பொத்தான்கள் வழியாக உங்கள் ஏற்றுமதி முன்னமைவுகளை நிர்வகிக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Type.Animated">அனிமேஷன் படம்</s:String>
+    <s:String x:Key="S.SaveAs.Type.Video">வீடியோ</s:String>
+    <s:String x:Key="S.SaveAs.Type.Frames">பிரேம்கள்</s:String>
+    <s:String x:Key="S.SaveAs.Type.Other">மற்றவை</s:String>
+   
+    <s:String x:Key="S.SaveAs.Apng">Apng</s:String>
+    <s:String x:Key="S.SaveAs.Apng.Info">அனிமேஷன் போர்ட்டபிள் நெட்வொர்க் கிராபிக்ஸ்</s:String>
+    <s:String x:Key="S.SaveAs.Gif">Gif</s:String>
+    <s:String x:Key="S.SaveAs.Gif.Info">கிராபிக்ஸ் பரிமாற்ற வடிவம்</s:String>
+    <s:String x:Key="S.SaveAs.Webp">Webp</s:String>
+    <s:String x:Key="S.SaveAs.Webp.Info">இணையப் படம்</s:String>
+   
+    <s:String x:Key="S.SaveAs.Avi">Avi</s:String>
+    <s:String x:Key="S.SaveAs.Avi.Info">ஆடியோ வீடியோ இன்டர்லீவ்</s:String>
+    <s:String x:Key="S.SaveAs.Mkv">Mkv</s:String>
+    <s:String x:Key="S.SaveAs.Mkv.Info">Matroska</s:String>
+    <s:String x:Key="S.SaveAs.Mov">Mov</s:String>
+    <s:String x:Key="S.SaveAs.Mov.Info">QuickTime கோப்பு வடிவம்</s:String>
+    <s:String x:Key="S.SaveAs.Mp4">Mp4</s:String>
+    <s:String x:Key="S.SaveAs.Mp4.Info">Mpeg-4</s:String>
+    <s:String x:Key="S.SaveAs.Webm">Webm</s:String>
+    <s:String x:Key="S.SaveAs.Webm.Info">இணையத் திரைப்படம்</s:String>
+   
+    <s:String x:Key="S.SaveAs.Bmp">Bmp</s:String>
+    <s:String x:Key="S.SaveAs.Bmp.Info">பிட்மேப்</s:String>
+    <s:String x:Key="S.SaveAs.Jpeg">Jpeg</s:String>
+    <s:String x:Key="S.SaveAs.Jpeg.Info">கூட்டு புகைப்பட நிபுணர்கள் குழு</s:String>
+    <s:String x:Key="S.SaveAs.Png">Png</s:String>
+    <s:String x:Key="S.SaveAs.Png.Info">போர்ட்டபிள் நெட்வொர்க் கிராபிக்ஸ்</s:String>
+   
+    <s:String x:Key="S.SaveAs.Project">திட்டம்</s:String>
+    <s:String x:Key="S.SaveAs.Project.Info">ScreenToGif திட்டம்</s:String>
+    <s:String x:Key="S.SaveAs.Psd">Psd</s:String>
+    <s:String x:Key="S.SaveAs.Psd.Info">ஃபோட்டோஷாப் கோப்பு</s:String>
+   
+    <!--எடிட்டர் • சேமி > முன்னமைவுகள்-->
+    <s:String x:Key="S.SaveAs.Presets">முன்னமைவுகள்:</s:String>
+    <s:String x:Key="S.SaveAs.Presets.Default">இயல்புநிலை</s:String>
+    <s:String x:Key="S.SaveAs.Presets.Add">புதிய ஏற்றுமதி முன்னமைவைச் சேர்க்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Presets.Save">இந்த ஏற்றுமதி முன்னமைவில் தற்போதைய அமைப்புகளைச் சேமிக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Presets.Edit">அடிப்படை ஏற்றுமதி முன்னமைவு அமைப்புகளைத் திருத்து.</s:String>
+    <s:String x:Key="S.SaveAs.Presets.Remove">தற்போது தேர்ந்தெடுக்கப்பட்ட ஏற்றுமதி முன்னமைவை அகற்றவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Presets.Reset">இந்த ஏற்றுமதி முன்னமைவின் அமைப்புகளை அதன் இயல்புநிலைக்கு மீட்டமைக்கவும்.</s:String>
+   
+    <!--எடிட்டர் • சேமி > முன்னமைவுகள் > உரையாடல்கள்-->
+    <s:String x:Key="S.SaveAs.Presets.Ask.Delete.Title">முன்னமைவை நீக்குகிறது</s:String>
+    <s:String x:Key="S.SaveAs.Presets.Ask.Delete.Instruction">நிச்சயமாக முன்னமைவை நீக்க விரும்புகிறீர்களா?</s:String>
+    <s:String x:Key="S.SaveAs.Presets.Ask.Delete.Message">இந்தச் செயலைச் செயல்தவிர்க்க முடியாது.&amp;#10;&amp;#10;தேர்ந்தெடுக்கப்பட்ட முன்னமைவை நீக்க விரும்புகிறீர்களா?</s:String>
+    <s:String x:Key="S.SaveAs.Presets.Ask.Reset.Title">முன்னமைவை மீட்டமைத்தல்</s:String>
+    <s:String x:Key="S.SaveAs.Presets.Ask.Reset.Instruction">நிச்சயமாக முன்னமைவை மீட்டமைக்க விரும்புகிறீர்களா?</s:String>
+    <s:String x:Key="S.SaveAs.Presets.Ask.Reset.Message">இந்தச் செயலைச் செயல்தவிர்க்க முடியாது.&amp;#10;&amp;#10;தேர்ந்தெடுத்த முன்னமைவை அதன் இயல்புநிலை அமைப்புகளுக்கு மீட்டமைக்க விரும்புகிறீர்களா ?</s:String>
+   
+    <!--எடிட்டர் • ஆக சேமி> குறியாக்கி-->
+    <s:String x:Key="S.SaveAs.Encoder">குறியாக்கி</s:String>
+    <s:String x:Key="S.SaveAs.Encoder.Quantizer">குறியாக்கி மற்றும் குவாண்டிசர்</s:String>
+    <s:String x:Key="S.SaveAs.Encoder.Info">வெளியீட்டு கோப்பை உருவாக்குவதற்கு என்கோடர் பொறுப்பு.</s:String>
+    <s:String x:Key="S.SaveAs.Encoder.ScreenToGif">ScreenToGif</s:String>
+    <s:String x:Key="S.SaveAs.Encoder.ScreenToGif.Info">உள்ளமைக்கப்பட்ட குறியாக்கி.</s:String>
+    <s:String x:Key="S.SaveAs.Encoder.KGySoft">KGy சாஃப்ட்</s:String>
+    <s:String x:Key="S.SaveAs.Encoder.KGySoft.Info">KGy SOFT GIF குறியாக்கி.</s:String>
+    <s:String x:Key="S.SaveAs.Encoder.System">அமைப்பு</s:String>
+    <s:String x:Key="S.SaveAs.Encoder.System.Info">என்கோடர் கணினியால் கிடைக்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.Encoder.Ffmpeg">FFmpeg</s:String>
+    <s:String x:Key="S.SaveAs.Encoder.Ffmpeg.Info">வெளிப்புற குறியாக்கி, FFmpeg.org ஆல் உருவாக்கப்பட்டது.</s:String>
+    <s:String x:Key="S.SaveAs.Encoder.Gifski">Gifski</s:String>
+    <s:String x:Key="S.SaveAs.Encoder.Gifski.Info">வெளிப்புற குறியாக்கி, Gif.ski ஆல் உருவாக்கப்பட்டது.</s:String>
+    <s:String x:Key="S.SaveAs.Encoder.Options">குறியாக்கி விருப்பங்கள்</s:String>
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி > FFmpeg-->
+    <s:String x:Key="S.SaveAs.Ffmpeg.UseParameters">மேம்பட்ட பயன்முறையை இயக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Ffmpeg.UseParameters.Info">குறியாக்கியைக் கட்டுப்படுத்த, அளவுருக்களை கைமுறையாக உள்ளிடவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Ffmpeg.Parameters">அளவுருக்கள்:</s:String>
+    <s:String x:Key="S.SaveAs.Ffmpeg.Parameters.Info">FFmpegக்கு அனுப்பப்படும் அளவுருக்களின் பட்டியல்.&amp;#10;&amp;#10;சிறப்பு அளவுருக்கள்:&amp;#10;{I } என்பது உள்ளீட்டு பாதை (பிரேம்கள்).&amp;#10;{O} என்பது வெளியீட்டு பாதை (ஏற்றுமதி செய்யப்பட்ட கோப்பு).&amp;#10;{W} என்பது சட்டகத்தின் அகலம்.&amp;#10;{H } என்பது சட்டகத்தின் உயரம்.</s:String>
+    <s:String x:Key="S.SaveAs.Ffmpeg.Parameters.Pass">2-பாஸுடன் குறியாக்கம் செய்ய, '-pass 2'ஐச் சேர்க்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Ffmpeg.Preview">முன்னோட்டம்</s:String>
+    <s:String x:Key="S.SaveAs.Ffmpeg.Preview.Info">FFmpeg க்கு அனுப்பப்படும் அளவுரு பட்டியலை முன்னோட்டமிடுங்கள்.</s:String>
+    <s:String x:Key="S.SaveAs.Ffmpeg.Help.Code">கோடெக் டாக்ஸ்</s:String>
+    <s:String x:Key="S.SaveAs.Ffmpeg.Help.Format">டாக்ஸை வடிவமைக்கவும்</s:String>
+    <s:String x:Key="S.SaveAs.Ffmpeg.Help.Filters">டாக்ஸை வடிகட்டி</s:String>
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி > Gif விருப்பங்கள்-->
+    <s:String x:Key="S.SaveAs.GifOptions">Gif விருப்பங்கள்</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Quantizer.Info">வண்ண குறைப்பு அல்காரிதம் (அளவாக்கம்).</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Quantizer.Neural">நியூரல் நெட்வொர்க்</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Quantizer.Neural.Info">உயர் நம்பகத்தன்மை அளவீடு. மெதுவாக, ஆனால் அதிக அளவு வண்ணங்களுக்கு நல்லது.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Quantizer.Octree">Octree</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Quantizer.Octree.Info">குறைவான வண்ணங்களைக் கொண்ட அனிமேஷன்களுக்கு ஏற்றது. வேகமானது, ஆனால் கலர் பேண்டிங்கை உருவாக்கலாம்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Quantizer.MedianCut">நடுத்தர வெட்டு</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Quantizer.MedianCut.Info">Octree ஐ விட குறைவான நல்லது மற்றும் மெதுவாக உள்ளது.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Quantizer.Grayscale">கிரேஸ்கேல்</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Quantizer.Grayscale.Info">நிலையான கிரேஸ்கேல் பேலட்டைப் பயன்படுத்துகிறது, எனவே இது வேகமானது.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Quantizer.MostUsed">அதிகம் பயன்படுத்தப்படும் வண்ணங்கள்</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Quantizer.MostUsed.Info">பிரேம்களில் அதிகம் பயன்படுத்தப்படும் வண்ணங்களை எடுக்கலாம்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Sampling">மாதிரி:</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Sampling.Info">மாதிரி காரணி:&amp;#10;1 இன் மதிப்பு gifஐ சிறப்பாக தோற்றமளிக்கும், ஆனால் வழங்குவது மெதுவாக இருக்கும்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Quality">தரம்:</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Colors">நிறங்கள்:</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Colors.Info">அதிகபட்ச வண்ணங்களின் எண்ணிக்கை (ஒவ்வொரு சட்டத்திற்கும்).</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.GlobalColorTable">உலகளாவிய வண்ண அட்டவணையைப் பயன்படுத்தவும்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.GlobalColorTable.Info">gif இன் தரம் மற்றும்/அல்லது அளவைக் குறைக்கலாம்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Best">சிறந்தது</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Fastest">வேகமானது</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Gifski.Faster">இரட்டைப் பயன்படுத்தவும்வேகமான குறியாக்க செயல்முறை.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Gifski.Faster.Info">ஜிஃப் தரத்தை குறைக்கலாம்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Loop">லூப்:</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Looped">லூப் செய்யப்பட்ட gif.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.RepeatForever">என்றென்றும் மீண்டும் செய்யவும்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.RepeatCount">மீண்டும் எண்ணிக்கை.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Transparency.Enable">வெளிப்படைத்தன்மையை இயக்கு.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Transparency.Enable.Info">முழு வெளிப்படைத்தன்மை பயன்முறையை இயக்குகிறது, இது gif இன் பின்னணியை முழுவதுமாக வெளிப்படையாக்குகிறது.&amp;#10;குரோமா விசை மாற்று செயல்முறை இந்த விருப்பம் இயக்கப்பட்டால் புறக்கணிக்கப்படும்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Transparency.Pick">எந்த நிறத்தை வெளிப்படையானதாகக் காட்ட வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Transparency.Pick.Info">ஒரு வண்ணம் தேர்ந்தெடுக்கப்பட்டால், அது வெளிப்படையானதாக மாற்றப்பட்டு, உருவாக்கப்பட்ட gif இல் அது வெளிப்படையானதாகத் தோன்றும்.&amp;#10; எந்த நிறமும் தேர்ந்தெடுக்கப்படவில்லை என்றால், அனைத்து வெளிப்படையான நிறங்களும் (ஆல்பா = 0%) பொதுவாக வெளிப்படையானதாக தோன்றும்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.DetectUnchanged">மாறாத பிக்சல்களைக் கண்டறிக.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.DetectUnchanged.Info">பிரேம்களுக்கு இடையே மாறாத பிக்சல்களை பகுப்பாய்வு செய்து கண்டறிவதன் மூலம், தேவையான பகுதிகளை மட்டும் gif இல் சேமிக்க முடியும்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.PaintWithChroma">இந்த பிக்சல்களை ஒரு குரோமா விசையுடன் மாற்றவும்.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.PaintWithChroma.Info">மீண்டும்/மாற்றப்படாத பிக்சல்கள் இந்த குரோமா விசையால் மாற்றப்படும்,&amp;#10;ஒரு சட்டத்திற்கு குறைவான வண்ணங்களைப் பயன்படுத்துவதை சாத்தியமாக்குகிறது.</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.ChromaKey">குரோமா விசை:</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Dither">Dither:</s:String>
+    <s:String x:Key="S.SaveAs.GifOptions.Dither.Scale">பேயர் அளவுகோல்:</s:String>
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி > KGy SOFT விருப்பங்கள்-->
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer">குவாண்டிசர்</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.BackColor">பின்னணி நிறம்:</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.BackColor.Info">தேர்ந்தெடுக்கப்பட்ட குவாண்டிசரால் ஒளிபுகாதாகக் கருதப்படும் ஆல்பா (வெளிப்படைத்தன்மை) கொண்ட பிக்சல்கள், அளவிடப்பட்ட நிறத்தைப் பெறுவதற்கு முன், இந்த நிறத்துடன் கலக்கப்படும்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.AlphaThreshold">ஆல்ஃபா த்ரெஷோல்ட்:</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.AlphaThreshold.Info">அளவிடப்பட்ட நிறம் வெளிப்படையானதாக இருக்கும் உள்ளீட்டு ஆல்பா மதிப்பைத் தீர்மானிக்கிறது.&amp;#x0d;&amp;#x0a;0 என்றால், பிறகு முடிவு ஒருபோதும் வெளிப்படைத்தன்மையைக் கொண்டிருக்காது.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.WhiteThreshold">வெள்ளை வாசல்:</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.WhiteThreshold.Info">முடிவு நிறத்தை வெள்ளையாகக் கருதுவதற்கு குறைந்த உள்ளீடு பிரகாசத்தைத் தீர்மானிக்கிறது.&amp;#x0d;&amp;#x0a;இது பிரகாசத்தை பாதிக்கிறது முடிவு. இந்த அளவுருவின் மதிப்பை ஒரு பிழை பரவல் டிதரிங் ஈடுசெய்யலாம்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.DirectMapping">நேரடி மேப்பிங்</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.DirectMapping.Info">சரிபார்க்கப்படும்போது, ​​அருகிலுள்ள தட்டு உள்ளீட்டைப் பார்க்காமல், நேரடி மேப்பிங்கின் மூலம் அளவிடப்பட்ட வண்ணம் தீர்மானிக்கப்படுகிறது.&amp;#x0d;&amp; #x0a;இது அளவுப்படுத்தலை விரைவுபடுத்துகிறது, ஆனால் அதிக மாறுபட்ட முடிவில் முடிவடையும். இந்த அளவுருவின் மதிப்பை ஒரு பிழை பரவல் டித்தரிங் ஈடுசெய்யலாம்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PaletteSize">தட்டு அளவு:</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PaletteSize.Info">ஒரு ஃபிரேமிற்கான தட்டுகளின் அதிகபட்ச அளவை தீர்மானிக்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.CustomBitLevel">தனிப்பயன் பிட் நிலை.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.CustomBitLevel.Info">சரிபார்க்கும்போது, ​​பிட் அளவை கைமுறையாக உள்ளமைக்க முடியும்.&amp;#x0d;&amp;#x0a;⚠️ எச்சரிக்கை: அதிக பிட் நிலை நிறைய நினைவகம் தேவைப்படலாம்!</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.BitLevel.Info">அதிக மதிப்பு என்பது அதிக துல்லியம், பெரிய இலக்கு வண்ண இடம், மெதுவான செயலாக்கம் மற்றும் அதிக நினைவக பயன்பாடு.&amp;#x0d;&amp;#x0a; எடுத்துக்காட்டாக, 1 எனில், அதன் விளைவாக 8 நிறங்களுக்கு மேல் இருக்கக்கூடாது, அல்லது 2 என்றால், 64 நிறங்களுக்கு மேல் இருக்கக்கூடாது. .&amp;#x0d;&amp;#x0a;உதாரணமாக, 5 என்றால் (இது வூ குவாண்டிசரின் இயல்புநிலை), 32 ஒரே வண்ணமுடைய நிழல்களை மட்டுமே வேறுபடுத்த முடியும்.&amp;#x0d;&amp;#x0a;⚠️ எச்சரிக்கை: தி வு குவாண்டிசர் அதிகபட்ச மதிப்புடன் குறைந்தபட்சம் 650 MB ஐப் பயன்படுத்துகிறது.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.LinearColorSpace">லீனியர் கலர் ஸ்பேஸ்</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.LinearColorSpace.Info">சரிபார்க்கப்படும் போது, ​​சில செயல்பாடுகள் (பின்னணி நிறத்துடன் ஆல்பாவை கலத்தல், அளவீடு செய்தல், துண்டித்தல், தட்டில் அருகில் உள்ள வண்ணங்களைப் பார்ப்பது) sRGB ஒன்றை விட நேரியல் வண்ண இடைவெளி. &amp;#x0a;&amp;#x0d;&amp;#x0a;⚠️ குறிப்பு: ஒரு சில வண்ணங்களைப் பயன்படுத்தும் போது, ​​sRGB வண்ண இடத்தில் WPF மறுஅளவிடுதலைச் செய்வதால், சாத்தியமான அளவு மாற்றப்பட்ட மாதிரிக்காட்சியின் பிரகாசம் தவறாக இருக்கலாம்.</s:String >
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.BlackAndWhite">கருப்பு மற்றும் வெள்ளை</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.BlackAndWhite.Info">கருப்பு மற்றும் வெள்ளை நிறங்களுடன் நிலையான 1 பிபிபி தட்டு.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Grayscale4">கிரேஸ்கேல் 4 நிறங்கள்</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Grayscale4.Info">4 கிரேஸ்கேல் உள்ளீடுகளுடன் நிலையான 2 பிபிபி தட்டு.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Grayscale16">கிரேஸ்கேல் 16 நிறங்கள்</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Grayscale16.Info">16 கிரேஸ்கேல் உள்ளீடுகளுடன் நிலையான 4 பிபிபி தட்டு.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Grayscale">கிரேஸ்கேல் 256 நிறங்கள்</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Grayscale.Info">256 கிரேஸ்கேல் உள்ளீடுகளுடன் நிலையான 8 bpp தட்டு.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.SystemDefault4BppPalette">கணினி இயல்புநிலை 4 bpp தட்டு</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.SystemDefault4BppPalette.Info">நிலையான 16 sRGB வண்ணங்களைப் பயன்படுத்தி நிலையான 4 bpp தட்டு.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.SystemDefault8BppPalette">கணினி இயல்புநிலை 8 bpp தட்டு</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.SystemDefault8BppPalette.Info">'web-safe' வண்ணங்கள் மற்றும் வெளிப்படைத்தன்மை உட்பட நிலையான 8 bpp தட்டு.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Rgb332">RGB 332 தட்டு</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.PredefinedColorsQuantizer.Rgb332.Info">RGB 332 வண்ண இடத்தைப் பயன்படுத்தி நிலையான 8 bpp தட்டு.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.Octree">Octree Quantizer</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.Octree.Info">ஒவ்வொரு சட்டகத்திற்கும் Octree அல்காரிதம் மூலம் தட்டுகளை மேம்படுத்துதல்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.MedianCut">மீடியன் கட் குவாண்டிசர்</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.MedianCut.Info">மீடியன் கட் அல்காரிதம் மூலம் ஒவ்வொரு ஃப்ரேமிற்கும் பேலட்டை மேம்படுத்துகிறது.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.Wu">Wu Quantizer</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Quantizer.OptimizedPaletteQuantizer.Wu.Info">Xiaolin Wu இன் அல்காரிதம் மூலம் ஒவ்வொரு சட்டகத்திற்கும் தட்டுகளை மேம்படுத்துகிறது.</s:String>
+   
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer">டித்தரர்</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.Strength">பலம்:</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.Strength.Info">டித்தரரின் வலிமை அல்லது வலிமையை தானாக அளவீடு செய்ய 0.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.Seed">விதை:</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.Seed.Info">குறிப்பிட்ட சீரற்ற டித்தரிங் பேட்டர்னை உருவாக்க ஒரு முழு எண் விதை பயன்படுத்தப்படும்.&amp;#x0d;&amp;#x0a;பயன்படுத்த காலியாக விடவும் ஒவ்வொரு சட்டத்திற்கும் ஒரு சீரற்ற விதை.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.None">இல்லை</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.None.Info">பிரேம்கள் சிதைவடையாமல் அளவிடப்படுகின்றன.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.IsSerpentineProcessing">பாம்பு செயலாக்கம்</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.IsSerpentineProcessing.Info">சரிபார்க்கும்போது, ​​பிழை பரப்பும் திசையானது வரியிலிருந்து வரிக்கு மாற்றப்படுகிறது.&amp;#x0d;&amp;#x0a;இது குறைக்க உதவுகிறது பிழை பரவல் சிதைவின் சிற்றலை விளைவு.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer2X2">பேயர் 2x2 (ஆர்டர் செய்யப்பட்டது)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer2X2.Info">2x2 பேயர் மேட்ரிக்ஸ் பேட்டர்ன்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer3X3">பேயர் 3x3 (ஆர்டர் செய்யப்பட்டது)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer3X3.Info">3x3 பேயர் மேட்ரிக்ஸ் பேட்டர்ன்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer4X4">பேயர் 4x4 (ஆர்டர் செய்யப்பட்டது)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer4X4.Info">4x4 பேயர் மேட்ரிக்ஸ் பேட்டர்ன்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer8X8">பேயர் 8x8 (ஆர்டர் செய்யப்பட்டது)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.Bayer8X8.Info">8x8 பேயர் மேட்ரிக்ஸ் பேட்டர்ன்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.DottedHalftone">Dotted Halftone (ஆர்டர் செய்யப்பட்டது)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.DottedHalftone.Info">புள்ளியிடப்பட்ட ஹால்ஃப்டோன் பேட்டர்னுடன் கூடிய 8x8 மேட்ரிக்ஸ்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.BlueNoise">ப்ளூ இரைச்சல் (ஆர்டர் செய்யப்பட்டது)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.OrderedDitherer.BlueNoise.Info">ஒரு நீல இரைச்சல் வடிவத்துடன் கூடிய 64x64 மேட்ரிக்ஸ்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Atkinson">அட்கின்சன் (பிழை பரவல்)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Atkinson.Info">6 பயனுள்ள மதிப்புகள் கொண்ட பில் அட்கின்சனின் 4x3 மேட்ரிக்ஸ்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Burkes">பர்க்ஸ் (பிழை பரவல்)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Burkes.Info">டி. பர்க்ஸின் 5x2 அணி.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.FloydSteinberg">Floyd-Steinberg (பிழை பரவல்)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.FloydSteinberg.Info">ஃபிலாய்ட் மற்றும் ஸ்டெய்ன்பெர்க்கின் அசல் 3x2 மேட்ரிக்ஸ்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.JarvisJudiceNinke">Jarvis-Judice-Ninke (பிழை பரவல்)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.JarvisJudiceNinke.Info">    ஜார்விஸ், ஜூடிஸ் மற்றும் நின்கே வழங்கிய 5x3 அணி.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Sierra3">சியரா 3 (பிழை பரவல்)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Sierra3.Info">Frankie Sierra's 5x3 matrix.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Sierra2">சியரா 2 (பிழை பரவல்)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Sierra2.Info">Frankie Sierra's 5x2 matrix.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.SierraLite">சியரா லைட் (பிழை பரவல்)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.SierraLite.Info">Frankie Sierra's 3x2 matrix.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.StevensonArce">Stevenson-Arce (பிழை பரவல்)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.StevensonArce.Info">ஸ்டீவன்சன் மற்றும் ஆர்ஸின் 7x4 அறுகோண அணி.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Stucki">ஸ்டக்கி (பிழை பரவல்)</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.ErrorDiffusionDitherer.Stucki.Info">ஸ்டக்கியின் 5x3 மேட்ரிக்ஸ்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.RandomNoiseDitherer">ரேண்டம் சத்தம்</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.RandomNoiseDitherer.Info">சீரற்ற வெள்ளை இரைச்சல்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.InterleavedGradientNoiseDitherer">இன்டர்லீவ் கிரேடியன்ட் சத்தம்</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Ditherer.InterleavedGradientNoiseDitherer.Info">சூத்திரத்தால் உருவாக்கப்பட்ட சீரற்ற சாய்வு இரைச்சல்.</s:String>
+   
+    <s:String x:Key="S.SaveAs.KGySoft.Preview">முன்னோட்டம்</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Preview.ShowCurrentFrame">தற்போதைய சட்டகத்தைக் காட்டு.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Preview.ShowCurrentFrame.Info">சரிபார்க்கும்போது, ​​மாதிரிக்காட்சியானது நிலையான பட உதாரணத்திற்கு பதிலாக தற்போதைய சட்டகத்தை காட்டுகிறது.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Preview.Refresh">தற்போதைய அமைப்புகளின் அதிக நினைவகத் தேவையின் காரணமாக தானியங்கு முன்னோட்டம் முடக்கப்பட்டுள்ளது. முன்னோட்டத்தைப் புதுப்பிக்க கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Preview.Error">முன்னோட்டத்தை உருவாக்குவதில் தோல்வி: {0}&amp;#x0d;&#x0a;அதை மீண்டும் உருவாக்க முயற்சிக்க கிளிக் செய்யவும்.</s:String>
+   
+    <s:String x:Key="S.SaveAs.KGySoft.Animation">அனிமேஷன் அமைப்புகள்</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.EndlessLoop">முடிவற்ற லூப்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.EndlessLoop.Info">சரிபார்க்கும்போது, ​​அனிமேஷன் காலவரையின்றி லூப் செய்யப்படும்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.PingPong">முன்னும் பின்னுமாக.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.PingPong.Info">சரிபார்க்கும்போது, ​​அனிமேஷன் முன்னும் பின்னுமாக இயக்கப்படும்.&amp;#x0d;&amp;#x0a;இதை நகலெடுப்பதன் மூலம் இது அடையப்படுகிறது பிரேம்கள் பெரிய கோப்பு அளவு மற்றும் நீண்ட குறியாக்க நேரத்தைக் குறிக்கும்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.LoopCount">மீண்டும் எண்ணிக்கை:</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.LoopCount.Info">அனிமேஷன் எத்தனை முறை இயக்கப்படும் என்பதைக் குறிப்பிடுகிறது.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowDeltaFrames">டெல்டா பிரேம்களை அனுமதி.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowDeltaFrames.Info">சரிபார்க்கப்படும் போது, ​​குறியாக்கத்தின் போது மாறாத பிக்சல்கள் கண்டறிய முயற்சிக்கும்.&amp;#x0d;&amp;#x0a; மேம்படுத்தப்பட்ட குவாண்டிசர், இந்த விருப்பம் ஒரு சட்டகத்திற்கு 256க்கும் மேற்பட்ட வண்ணங்களைக் கொண்டிருப்பதை சாத்தியமாக்குகிறது. &amp;#x0a;&amp;#x0d;&amp;#x0a;⚠️ குறிப்பு: இந்த விருப்பமானது குறிப்பிடத்தக்க கலைப்பொருட்களை நிறங்களிலோ அல்லது சிதைவு வடிவத்திலோ ஏற்படுத்தலாம்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.DeltaTolerance">டெல்டா சகிப்புத்தன்மை:</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.DeltaTolerance.Info">மாற்றப்பட்ட பிக்சல்களைக் கண்டறியும் போது அதிகபட்ச சகிப்புத்தன்மையைக் குறிப்பிடுகிறது அனைத்தும். மேம்படுத்தப்பட்ட குவாண்டிசருக்கு 16. நிலையான வண்ணங்களைக் கொண்டவை, சற்றே பெரிய மதிப்புகளுடன் டித்தரிங் மூலம் பயன்படுத்தப்படலாம்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.HighDeltaTolerance">டெல்டா சகிப்புத்தன்மை மிக அதிகமாக இருந்தால், விளைவு மோசமான தரத்தைக் கொண்டிருக்கலாம். டெல்டா சகிப்புத்தன்மையை மீட்டமைக்க கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowClippedFrames">கிளிப் செய்யப்பட்ட பிரேம்களை அனுமதி.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowClippedFrames.Info">சரிபார்க்கும்போது, ​​உண்மையான தெளிவுத்திறனைக் காட்டிலும் சிறிய ஃப்ரேம்களைச் சேர்க்க குறியாக்கி அனுமதிக்கப்படும்.&amp;#x0d;&amp;#x0a;அனுமதித்தால் டெல்டா ஃப்ரேம்கள் தேர்வு செய்யப்படவில்லை, பின்னர் சாத்தியமான வெளிப்படையான பார்டர்களை கிளிப்பிங் செய்ய மட்டுமே அனுமதிக்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowDeltaIgnored">தற்போதைய உள்ளமைவு ஆல்பாவைப் பயன்படுத்தாததால் டெல்டா ஃப்ரேம்களை அனுமதி என்பது புறக்கணிக்கப்பட்டது மற்றும் கிளிப் செய்யப்பட்ட பிரேம்களை அனுமதி என்பது தேர்வு செய்யப்படவில்லை. கிளிப் செய்யப்பட்ட பிரேம்களை இயக்க கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Animation.AllowClippedIgnored">தற்போதைய உள்ளமைவு ஆல்பாவைப் பயன்படுத்தாததாலும், டெல்டா ஃப்ரேம்களை அனுமதிப்பதாலும் தேர்வு செய்யப்படாததால், கிளிப் செய்யப்பட்ட பிரேம்களை அனுமதித்தால் எந்தப் பலனும் இல்லை. டெல்டா ஃப்ரேம்களை இயக்க கிளிக் செய்யவும்.</s:String>
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி > Apng விருப்பங்கள்-->
+    <s:String x:Key="S.SaveAs.ApngOptions">Apng விருப்பங்கள்</s:String>
+    <s:String x:Key="S.SaveAs.ApngOptions.Prediction">கணிப்பு:</s:String>
+    <s:String x:Key="S.SaveAs.ApngOptions.Prediction.None">இல்லை</s:String>
+    <s:String x:Key="S.SaveAs.ApngOptions.Prediction.Sub">துணை</s:String>
+    <s:String x:Key="S.SaveAs.ApngOptions.Prediction.Up">மேல்</s:String>
+    <s:String x:Key="S.SaveAs.ApngOptions.Prediction.Average">சராசரி</s:String>
+    <s:String x:Key="S.SaveAs.ApngOptions.Prediction.Mixed">கலவை</s:String>
+    <s:String x:Key="S.SaveAs.ApngOptions.Looped">Loped apng.</s:String>
+    <s:String x:Key="S.SaveAs.ApngOptions.DetectUnchanged">மாறாத பிக்சல்களைக் கண்டறிக.</s:String>
+    <s:String x:Key="S.SaveAs.ApngOptions.PaintTransparent">அனைத்து மாறாத பிக்சல்களையும் வெளிப்படையான நிறத்துடன் பெயிண்ட் செய்யவும்.</s:String>
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி > Webp விருப்பங்கள்-->
+    <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset">முன்னமைவு:</s:String>
+    <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.None">இல்லை</s:String>
+    <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Default">இயல்புநிலை</s:String>
+    <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Picture">படம்</s:String>
+    <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Photo">புகைப்படம்</s:String>
+    <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Drawing">வரைதல்</s:String>
+    <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Icon">ஐகான்</s:String>
+    <s:String x:Key="S.SaveAs.WebpOptions.CodecPreset.Text">உரை</s:String>
+    <s:String x:Key="S.SaveAs.WebpOptions.Lossless">இழப்பற்ற பயன்முறையைப் பயன்படுத்தவும்.</s:String>
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி > வீடியோ விருப்பங்கள்-->
+    <s:String x:Key="S.SaveAs.VideoOptions.Mode">முறை:</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Mode.Normal">இயல்பான</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Mode.Advanced">மேம்பட்டது</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Mode.Info">குறியாக்கி அளவுருக்களை உள்ளமைக்கும் முறை:&amp;#10;இயல்பு: நிலையான UI கட்டுப்பாடுகளைப் பயன்படுத்தவும்.&amp;#10;மேம்பட்டது: உரைப்பெட்டியைப் பயன்படுத்தவும் அளவுருக்களை தட்டச்சு செய்ய.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Codec">கோடெக்:</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Codec.Info">வீடியோ குறியாக்கி, மூல பிக்சல்களை வெளியீட்டு கோப்பாக மாற்றுவதற்கு&amp;#10;பொறுப்பு.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset">முன்னமைவு:</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.None">இல்லை</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.VerySlow">மிகவும் மெதுவாக</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Slower">மெதுவாக</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Slow">மெதுவாக</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Medium">நடுத்தரம்</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Fast">வேகமானது</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Faster">வேகமானது</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.VeryFast">மிக வேகமாக</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.SuperFast">Super Fast</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.UltraFast">அல்ட்ரா ஃபாஸ்ட்</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Quality">தரம்</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Balanced">சமநிலை</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Speed">வேகம்</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Default">இயல்புநிலை</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Lossless">இழப்பற்றது</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.LosslessHp">லாஸ்லெஸ் (உயர் செயல்திறன்)</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Hp">உயர் செயல்திறன்</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Hq">உயர் தரம்</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Bd">Bluray Disk</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.LowLatency">குறைந்த தாமதம்</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.LowLatencyHp">குறைந்த தாமதம் (உயர் செயல்திறன்)</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.LowLatencyHq">குறைந்த தாமதம் (உயர் தரம்)</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Info">என்கோடிங் வேகம் சுருக்க விகிதத்தில்,&amp;#10;மெதுவான முன்னமைவுகள் உங்களுக்கு சிறந்த சுருக்கத்தை வழங்கலாம்&amp;#10;(கோப்பின் அளவுக்கே தரம்).</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration">Hardware Ac.:</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration.Off">முடக்கு</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration.On">ஆன்</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration.Auto">தானியங்கு தேர்வு</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.HardwareAcceleration.Info">பிரத்யேக வன்பொருளின் (வீடியோ கிராபிக்ஸ்) பயன்பாட்டைக் கட்டுப்படுத்துகிறது.&amp;#10;ஆஃப்: பிரத்யேக வன்பொருளைப் பயன்படுத்தாது.&amp;#10; ஆன்: பிரத்யேக வன்பொருளைப் பயன்படுத்துகிறது மற்றும் சிறப்பு குறியாக்கிகளைத் தேர்ந்தெடுக்க உங்களை அனுமதிக்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.PixelFormat">பிக்சல் வடிவம்:</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.PixelFormat.Auto">தானியங்கி</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Vsync">Vsync:</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Vsync.Info">வீடியோ ஒத்திசைவு முறை : ஒவ்வொரு சட்டமும் அதன் நேர முத்திரைகளுடன் குறியாக்கிக்கு அனுப்பப்படும். 2 பிரேம்கள் ஒரே நேர முத்திரையைக் கொண்டிருப்பதைத் தடுக்கும் வகையில்.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Vsync.Passthrough">பாஸ்த்ரூ</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Vsync.Cfr">நிலையான ஃப்ரேம்ரேட்</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Vsync.Vfr">மாறி பிரேம்ரேட்</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Vsync.Drop">துளி</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Framerate">Framerate:</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Framerate.Film">திரைப்படம்</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Framerate.Custom">தனிப்பயன்</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Pass">பாஸ்:</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Crf.Info">நிலையான விகிதக் காரணி.&amp;#10;தரம் மற்றும் விகிதக் கட்டுப்பாடு அமைப்பு இந்த சொத்தை அமைக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.QualityLevel">தர நிலை:</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.QualityLevel.Info">சிறிய மதிப்புகள் சிறந்த தரத்தை குறிக்கும்.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate">பிட்ரேட்:</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Info">இலக்கு வீடியோ பிட் வீதம்.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Mode">பிட்ரேட் பயன்முறை:</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Mode.Constant">நிலையான</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Mode.Variable">மாறி</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Minimum">குறைந்தபட்ச விகிதம்:</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Minimum.Info">குறைந்தபட்ச பிட்ரேட் சகிப்புத்தன்மை.&amp;#10;CBR பயன்முறையைப் பயன்படுத்தும் போது மிகவும் பயனுள்ளதாக இருக்கும் இந்த சொத்து.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Maximum">அதிகபட்ச விகிதம்:</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Maximum.Info">அதிகபட்ச பிட்ரேட் சகிப்புத்தன்மை பூஜ்ஜியத்திற்கு &amp;#10;நீங்கள் இந்த சொத்தை அமைக்க விரும்பவில்லை என்றால்.</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Buffer">இடையக அளவு:</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.Bitrate.Buffer.Info">விகிதக் கட்டுப்பாட்டு இடையக அளவு.&amp;#10;அதை காலியாக விடவும் அல்லது பூஜ்ஜியத்திற்கு அமைக்கவும் இந்த சொத்தை அமைக்க.</s:String>
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி > பட விருப்பங்கள்-->
+    <s:String x:Key="S.SaveAs.ImageOptions.Zip">படங்களை ஜிப் செய்யவும்.</s:String>
+    <s:String x:Key="S.SaveAs.ImageOptions.Zip.Info">ஜிப் செய்யப்பட்ட கோப்புறையில் உள்ள படங்களை ஏற்றுமதி செய்கிறது.</s:String>
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி > Psd விருப்பங்கள்-->
+    <s:String x:Key="S.SaveAs.PsdOptions.Compress">படத்தை சுருக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.PsdOptions.Compress.Info">RLE அல்காரிதத்தைப் பயன்படுத்தி படத் தரவைச் சுருக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.PsdOptions.Timeline">காலவரிசைத் தரவைச் சேமிக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.PsdOptions.Timeline.Info">ஃப்ரேம்களுக்குப் பதிலாக ஃப்ரேம்களின் நேரத்தை ஏற்றுமதி செய்கிறது.</s:String>
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி > விருப்பங்களைச் சேமி-->
+    <s:String x:Key="S.SaveAs.SaveOptions">ஏற்றுமதி விருப்பங்கள்</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.Partial">பகுதி ஏற்றுமதி.</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.PickFolder">உங்களுக்கு விருப்பமான கோப்புறையில் கோப்பைச் சேமிக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode">மேலெழுதவா?</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode.Warn">எச்சரிக்கை</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode.Warn.Info">அதே பெயரில் மற்றொரு கோப்பு இருப்பதை மட்டும் எச்சரிக்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode.Prompt">Prompt</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode.Prompt.Info">பயனர் கோப்பை மேலெழுத வேண்டுமா என்று கேட்கும்.</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode.Allow">அனுமதி</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.OverwriteMode.Allow.Info">கோப்பை மேலெழுதும்.</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.ProjectToo">திட்டமாகவும் சேமிக்கவும் (அதே கோப்புறை, அதே கோப்பு பெயர்).</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.UploadFile">கோப்பைப் பதிவேற்றவும்.</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard">கிளிப்போர்டுக்கு நகலெடுக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.File">கோப்பு</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.File.Info">வெளியீட்டு கோப்பை கிளிப்போர்டில் நகலெடுக்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.FolderPath">கோப்புறை பாதை</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.FolderPath.Info">வெளியீட்டு கோப்பின் கோப்புறை பாதையை கிளிப்போர்டில் நகலெடுக்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.FilePath">கோப்பு பாதை</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.FilePath.Info">வெளியீட்டு கோப்பின் பாதையை கிளிப்போர்டில் நகலெடுக்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.Link">இணைப்பு</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.CopyToClipboard.Link.Info">கிளிப்போர்டில் பதிவேற்ற சேவையால் உருவாக்கப்பட்ட இணைப்பை நகலெடுக்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.ExecuteCommands">இடுகை குறியாக்க கட்டளைகளை இயக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.SaveOptions.ExecuteCommands.Info">குறியீட்டிற்குப் பிறகு செயல்படுத்த வேண்டிய கட்டளைகளைத் தட்டச்சு செய்க.&amp;#x0d;பல கட்டளைகளை இயக்க, ஒவ்வொன்றையும் தனித்தனி வரியில் தட்டச்சு செய்யவும்.&amp;# x0d;மேக்ரோக்கள்:&amp;#x0d;{p} = வெளியீட்டு கோப்பு பாதை.&amp;#x0d;{f} = வெளியீட்டு கோப்புறை பாதை.&amp;#x0d;{u} = பதிவேற்றப்பட்ட கோப்பின் URL.</s:String >
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி > பகுதி ஏற்றுமதி-->
+    <s:String x:Key="S.SaveAs.Partial">பகுதி ஏற்றுமதி</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Mode">முறை:</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Mode.Info">பகுதி ஏற்றுமதி முறையைத் தேர்ந்தெடுக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Mode.Expression">வெளிப்பாடு</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Mode.Expression.Info">ஒரு எளிய வெளிப்பாட்டின் அடிப்படையில் அனிமேஷனின் பகுதிகளை ஏற்றுமதி செய்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Mode.Frames">பிரேம் வரம்பு</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Mode.Frames.Info">சட்ட ​​வரம்பிற்குள் உள்ள அனிமேஷனின் ஒரு பகுதியை மட்டுமே ஏற்றுமதி செய்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Mode.Time">நேர வரம்பு</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Mode.Time.Info">அனிமேஷனின் ஒரு பகுதியை மட்டுமே காலக்கெடுவிற்குள் ஏற்றுமதி செய்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Mode.Selection">தேர்வு</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Mode.Selection.Info">காலவரிசையில் தேர்ந்தெடுக்கப்பட்ட பிரேம்களை மட்டுமே ஏற்றுமதி செய்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Mode.Selection.None">சட்டம் எதுவும் தேர்ந்தெடுக்கப்படவில்லை.</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Mode.Selection.Singular">1 சட்டகம் தேர்ந்தெடுக்கப்பட்டது.</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Mode.Selection.Plural">{0} பிரேம்கள் தேர்ந்தெடுக்கப்பட்டன.</s:String>
+    <s:String x:Key="S.SaveAs.Partial.From">இருந்து:</s:String>
+    <s:String x:Key="S.SaveAs.Partial.To">இவருக்கு:</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Expression">வெளிப்பாடு:</s:String>
+    <s:String x:Key="S.SaveAs.Partial.Expression.Info">பிரேம் எண்களை காற்புள்ளியால் பிரிக்கவும் அல்லது &amp;#10;பிரேம் வரிசைகளை கழித்தல் குறியால் பிரிக்கவும்:&amp;#10;1, 3, 4 , 6 - 9</s:String>
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி > கோப்பு-->
+    <s:String x:Key="S.SaveAs.File">கோப்பு</s:String>
+    <s:String x:Key="S.SaveAs.File.Location">இலக்குக் கோப்புறை.</s:String>
+    <s:String x:Key="S.SaveAs.File.SelectFolder">வெளியீட்டு கோப்புறையைத் தேர்ந்தெடுக்கவும்</s:String>
+    <s:String x:Key="S.SaveAs.File.Choose">இடத்தைத் தேர்ந்தெடுக்கவும்.&amp;#x0d;Shift ஐ அழுத்தி &amp;#x0d;கோப்பின் பெயரையும் தேர்ந்தெடுக்க கிளிக் செய்யவும்.</s:String>
+    <s:String x:Key="S.SaveAs.File.Format">கோப்பு வடிவம்</s:String>
+    <s:String x:Key="S.SaveAs.File.Name">கோப்பின் பெயர். '?' இடையே தேதி/நேர வடிவமைப்பைச் செருகவும்</s:String>
+    <s:String x:Key="S.SaveAs.File.Animation">அனிமேஷன்</s:String>
+    <s:String x:Key="S.SaveAs.File.Increase">கோப்பு எண்ணை அதிகரிக்கவும்</s:String>
+    <s:String x:Key="S.SaveAs.File.Decrease">கோப்பு எண்ணைக் குறைக்கவும்</s:String>
+    <s:String x:Key="S.SaveAs.File.Exists">அதே பெயரில் ஒரு கோப்பு ஏற்கனவே உள்ளது.</s:String>
+    <s:String x:Key="S.SaveAs.File.Clipboard">கிளிப்போர்டில் சேமி.</s:String>
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி > எச்சரிக்கைகள்-->
+    <s:String x:Key="S.SaveAs.Warning.Type">கோப்பை எங்கு சேமிப்பது என்பதை நீங்கள் தேர்ந்தெடுக்க வேண்டும் (ஒரு கோப்புறையில், கிளிப்போர்டுக்கு அல்லது வேறு எங்காவது பதிவேற்றவும்).</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Extension">நீங்கள் கோப்பு நீட்டிப்பைத் தேர்ந்தெடுக்கவில்லை.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Ffmpeg.Empty">மேம்பட்ட பயன்முறையைத் தேர்ந்தெடுக்கும்போது, ​​அளவுருக்கள் புலத்தில் அளவுருக்களை உள்ளிட வேண்டும்.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Ffmpeg.MissingPath">சிறப்பு அளவுருக்கள் {I} (உள்ளீடு) மற்றும்/அல்லது {O} (வெளியீடு) அளவுருக்கள் புலத்தில் இல்லை.</s:String >
+    <s:String x:Key="S.SaveAs.Warning.Commands.Empty">இடுகை குறியாக்க கட்டளையை இயக்க, நீங்கள் கட்டளைகள் உரை புலத்தில் ஏதாவது தட்டச்சு செய்ய வேண்டும்.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Partial.NoSelection">தேர்ந்தெடுக்கப்பட்ட பிரேம்களை மட்டும் ஏற்றுமதி செய்யும் விருப்பம் இருக்கும்போது, ​​குறைந்தபட்சம் ஒரு சட்டத்தையாவது தேர்ந்தெடுக்க வேண்டும்.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Partial.InvalidExpression">திட்டத்தை ஓரளவு ஏற்றுமதி செய்வதற்கான வெளிப்பாடு தவறானது.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Upload.None">பதிவேற்ற சேவை எதுவும் தேர்ந்தெடுக்கப்படவில்லை. நீங்கள் ஒரு இலக்கைத் தேர்ந்தெடுக்க வேண்டும்.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Upload.NotAuthorized">தேர்ந்தெடுக்கப்பட்ட சேவை அங்கீகரிக்கப்படாததால், உங்களால் பதிவேற்ற முடியாது. இந்தப் பயன்பாட்டை அங்கீகரிக்க விருப்பங்கள் > பதிவேற்ற சேவைகள் என்பதற்குச் செல்லவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Copy.Link">கோப்பைப் பதிவேற்ற நீங்கள் அமைக்காததால், இணைப்பை நகலெடுக்கும் விருப்பத்தைத் தேர்ந்தெடுக்க முடியாது.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Folder">நீங்கள் ஒரு வெளியீட்டு கோப்புறையைத் தேர்ந்தெடுக்க வேண்டும்.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Folder.NotExists">வெளியீட்டு கோப்புறை இல்லை.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Folder.Invalid">வெளியீட்டு கோப்புறையில் ஒன்று அல்லது அதற்கு மேற்பட்ட தவறான எழுத்துகள் உள்ளன. தயவுசெய்து, சரியான கோப்புறையைத் தேர்ந்தெடுக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Filename">நீங்கள் கோப்பின் பெயரைத் தேர்ந்தெடுக்க வேண்டும்.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Filename.Invalid">வெளியீட்டு கோப்பு பெயரில் ஒன்று அல்லது அதற்கு மேற்பட்ட தவறான எழுத்துகள் உள்ளன. சரியான கோப்பு பெயரைத் தேர்ந்தெடுக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Overwrite">கோப்பின் பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது. மேலெழுத அல்லது மற்றொரு கோப்பு பெயர் அல்லது கோப்புறையைத் தேர்ந்தெடுக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Overwrite.Project">ஏற்கனவே அதே கோப்பு பெயரில் ஒரு திட்டம் உள்ளது. மேலெழுத அல்லது மற்றொரு கோப்பு பெயர் அல்லது கோப்புறையைத் தேர்ந்தெடுக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Warning.Canceled">செயல்பாடு ரத்து செய்யப்பட்டது.</s:String>
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி > பதிவேற்றம்-->
+    <s:String x:Key="S.SaveAs.Upload">பதிவேற்றம்</s:String>
+    <s:String x:Key="S.SaveAs.Upload.Info">பதிவேற்ற முன்னமைவைத் தேர்ந்தெடுக்கவும், அதில் பதிவேற்றம் செய்வதற்குப் பயன்பாட்டில் உள்ள சேவையைப் பற்றிய விவரங்கள் உள்ளன.</s:String>
+    <s:String x:Key="S.SaveAs.Upload.Limit">இந்தப் பதிவேற்றச் சேவை வரம்புகளை விதிக்கிறது.</s:String>
+    <s:String x:Key="S.SaveAs.Upload.Add">புதிய பதிவேற்ற முன்னமைவைச் சேர்.</s:String>
+    <s:String x:Key="S.SaveAs.Upload.Edit">பதிவேற்ற முன்னமைவு அமைப்புகளைத் திருத்து.</s:String>
+    <s:String x:Key="S.SaveAs.Upload.History">இந்த முன்னமைவின் பதிவேற்ற வரலாற்றைப் பார்க்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Upload.Remove">தற்போது தேர்ந்தெடுக்கப்பட்ட பதிவேற்ற முன்னமைவை அகற்றவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Upload.Select.Title">பதிவேற்ற முன்னமைவைத் தேர்ந்தெடுக்கவும்</s:String>
+    <s:String x:Key="S.SaveAs.Upload.Select.Description">இந்தப் பட்டியலில் இருந்து ஒன்றைத் தேர்ந்தெடுக்கவும்.</s:String>
+    <s:String x:Key="S.SaveAs.Upload.Unavailable.Title">இந்த வடிவமைப்பிற்கான பதிவேற்ற முன்னமைவு எதுவும் இல்லை</s:String>
+    <s:String x:Key="S.SaveAs.Upload.Unavailable.Description">கீழே உள்ள பொத்தானைப் பயன்படுத்தி முன்னமைவைச் சேர்க்கவும்.</s:String>
+   
+    <!--எடிட்டர் • இவ்வாறு சேமி > பதிவேற்றம் > உரையாடல்கள்-->
+    <s:String x:Key="S.SaveAs.Upload.Ask.Delete.Title">பதிவேற்ற முன்னமைவை நீக்குகிறது</s:String>
+    <s:String x:Key="S.SaveAs.Upload.Ask.Delete.Instruction">பதிவேற்ற முன்னமைவை நீக்க விரும்புகிறீர்களா?</s:String>
+    <s:String x:Key="S.SaveAs.Upload.Ask.Delete.Message">இந்தச் செயலைச் செயல்தவிர்க்க முடியாது.&amp;#10;&amp;#10;தேர்ந்தெடுக்கப்பட்ட பதிவேற்ற முன்னமைவை நீக்க விரும்புகிறீர்களா?</s:String>
+   
+    <!--இவ்வாறு சேமி • உரையாடல்கள்-->
+    <s:String x:Key="S.SaveAs.Dialogs.Multiple.Title">பிரேம்களை ஏற்றுமதி செய்</s:String>
+    <s:String x:Key="S.SaveAs.Dialogs.Multiple.Instruction">ஃபிரேம்களை நிச்சயமாக ஏற்றுமதி செய்ய விரும்புகிறீர்களா?</s:String>
+    <s:String x:Key="S.SaveAs.Dialogs.Multiple.Message">இந்தச் செயல் தேர்ந்தெடுக்கப்பட்ட கோப்புறையில் நேரடியாக {0} பிரேம்களை ஏற்றுமதி செய்யும்.</s:String>
+    <s:String x:Key="S.SaveAs.Dialogs.Overwrite.Title">மேலெழுது</s:String>
+    <s:String x:Key="S.SaveAs.Dialogs.Overwrite.Instruction">கோப்பை மேலெழுத விரும்புகிறீர்களா?</s:String>
+    <s:String x:Key="S.SaveAs.Dialogs.Overwrite.Message">'{0}' என்ற பெயரில் ஒரு கோப்பு ஏற்கனவே அந்தக் கோப்புறையில் உள்ளது.\r\nஅதை மேலெழுத விரும்புகிறீர்களா?</s:String>
+    <s:String x:Key="S.SaveAs.Dialogs.OverwriteMultiple.Instruction">கோப்புகளை மேலெழுத விரும்புகிறீர்களா?</s:String>
+    <s:String x:Key="S.SaveAs.Dialogs.OverwriteMultiple.Message">ஒரே பெயரில் உள்ள ஒன்று அல்லது அதற்கு மேற்பட்ட கோப்புகள் ஏற்கனவே அந்தக் கோப்புறையில் உள்ளன.\r\nஅவற்றை மேலெழுத விரும்புகிறீர்களா?</s:String>
+   
+    <!--கட்டளை முன்னோட்டம்-->
+    <s:String x:Key="S.CommandPreviewer.Title">கட்டளை முன்னோட்டம்</s:String>
+    <s:String x:Key="S.CommandPreviewer.Command">கட்டளை</s:String>
+    <s:String x:Key="S.CommandPreviewer.Input">உள்ளீட்டு பாதை</s:String>
+    <s:String x:Key="S.CommandPreviewer.Output">வெளியீட்டு பாதை</s:String>
+   
+    <!--கருத்து-->
+    <s:String x:Key="S.Feedback.Feedback">கருத்து</s:String>
+    <s:String x:Key="S.Feedback.Send">அனுப்பு</s:String>
+    <s:String x:Key="S.Feedback.Preview">முன்னோட்டம்</s:String>
+    <s:String x:Key="S.Feedback.Header">கருத்தை அனுப்பு</s:String>
+    <s:String x:Key="S.Feedback.Title">தலைப்பு</s:String>
+    <s:String x:Key="S.Feedback.Message">செய்தி</s:String>
+    <s:String x:Key="S.Feedback.Message.Info">நீங்கள் பிழையை எதிர்கொண்டால், அதை எப்படிப் பெற்றீர்கள் என்பதை, படிப்படியாக எனக்கு விளக்க மறக்காதீர்கள்.</s:String>
+    <s:String x:Key="S.Feedback.Type">கருத்து வகை</s:String>
+    <s:String x:Key="S.Feedback.Suggestion">பரிந்துரை</s:String>
+    <s:String x:Key="S.Feedback.IssueBug">பிரச்சினை/பிழை</s:String>
+    <s:String x:Key="S.Feedback.YourEmail">உங்கள் மின்னஞ்சல்</s:String>
+    <s:String x:Key="S.Feedback.Warning.Title">கருத்துக்கான தலைப்பை நீங்கள் தட்டச்சு செய்ய வேண்டும்.</s:String>
+    <s:String x:Key="S.Feedback.Warning.Message">நீங்கள் பின்னூட்டத்தில் ஒரு செய்தியைத் தட்டச்சு செய்ய வேண்டும்.</s:String>
+    <s:String x:Key="S.Feedback.Warning.Email">டெவலப்பரிடமிருந்து பதிலைப் பெற, உங்கள் மின்னஞ்சலைத் தட்டச்சு செய்ய வேண்டும்.</s:String>
+    <s:String x:Key="S.Feedback.Sending">பின்னணியில் அனுப்புகிறது. இந்தச் சாளரம் விரைவில் மூடப்படும்.</s:String>
+    <s:String x:Key="S.Feedback.Attachments">இணைப்புகள் (விரும்பினால், 20MB அதிகபட்சம்)</s:String>
+    <s:String x:Key="S.Feedback.AddAttachments">இணைப்புகளைச் சேர்</s:String>
+    <s:String x:Key="S.Feedback.RemoveAttachments">அனைத்து இணைப்புகளையும் அகற்று</s:String>
+    <s:String x:Key="S.Feedback.LanguageInfo1">எனக்கு ஆங்கிலம் புரியும்</s:String>
+    <s:String x:Key="S.Feedback.LanguageInfo2">மற்றும் போர்த்துகீசியம் (பிரேசிலியன் மற்றும் ஐரோப்பிய).</s:String>
+    <s:String x:Key="S.Feedback.Preview.Info">இதைத்தான் நீங்கள் அனுப்புவீர்கள், மேலும் அனைத்து இணைப்புகளும்.</s:String>
+   
+    <!--பிழையறிந்து-->
+    <s:String x:Key="S.Troubleshoot.Title">சிக்கல் தீர்க்கவும்</s:String>
+    <s:String x:Key="S.Troubleshoot.Windows">ஏதேனும் சாளரம் காணவில்லையா?</s:String>
+    <s:String x:Key="S.Troubleshoot.Windows.Info">சாளரங்களில் ஏதேனும் ஒன்று விடுபட்டிருந்தால் (திரைக்கு வெளியே),&amp;#x0d;அதன் தற்போதைய மற்றும் தொடக்க நிலையை மீட்டமைக்க கீழே உள்ள விருப்பங்களைப் பயன்படுத்தவும்.</s:String>
+    <s:String x:Key="S.Troubleshoot.Windows.Current">இங்கே ஒவ்வொரு சாளரமும் தற்போது அமைந்துள்ளன:</s:String>
+    <s:String x:Key="S.Troubleshoot.Windows.Next">இங்கே ஒவ்வொரு சாளரமும் அடுத்த முறை திறக்கும்:</s:String>
+    <s:String x:Key="S.Troubleshoot.Windows.BringBack">எல்லா சாளரங்களையும் முதன்மைத் திரைக்கு நகர்த்தவும்.</s:String>
+    <s:String x:Key="S.Troubleshoot.Windows.Reset">எல்லா சாளரங்களின் தொடக்க நிலையை மீட்டமைக்கவும்.</s:String>
    
     <!--FontStyles-->
-    <!--<s:String x:Key="S.FontStyles.Normal">Normal</s:String>-->
-    <!--<s:String x:Key="S.FontStyles.Italic">Italic</s:String>-->
-    <!--<s:String x:Key="S.FontStyles.Oblique">Oblique</s:String>-->
-    
+    <s:String x:Key="S.FontStyles.Normal">இயல்பான</s:String>
+    <s:String x:Key="S.FontStyles.Italic">சாய்வு</s:String>
+    <s:String x:Key="S.FontStyles.Oblique">சாய்ந்த</s:String>
+   
     <!--FontWeight-->
-    <!--<s:String x:Key="S.FontWeights.Black">Black</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.Bold">Bold</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.DemiBold">Demi Bold</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.ExtraBlack">Extra Black</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.ExtraBold">Extra Bold</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.ExtraLight">Extra Light</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.Heavy">Heavy</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.Light">Light</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.Medium">Medium</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.Normal">Normal</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.Regular">Regular</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.SemiBold">Semi Bold</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.Thin">Thin</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.UltraBlack">Ultra Black</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.UltraBold">Ultra Bold</s:String>-->
-    <!--<s:String x:Key="S.FontWeights.UltraLight">Ultra Light</s:String>-->
-    
-    <!--VerticalAlignment-->
-    <!--<s:String x:Key="S.VerticalAlignment.Top">Top</s:String>-->
-    <!--<s:String x:Key="S.VerticalAlignment.Center">Center</s:String>-->
-    <!--<s:String x:Key="S.VerticalAlignment.Bottom">Bottom</s:String>-->
-    <!--<s:String x:Key="S.Alignment.Stretch">Stretch</s:String>-->
-
-    <!--HorizontalAlignment-->
-    <!--<s:String x:Key="S.HorizontalAlignment.Left">Left</s:String>-->
-    <!--<s:String x:Key="S.HorizontalAlignment.Center">Center</s:String>-->
-    <!--<s:String x:Key="S.HorizontalAlignment.Right">Right</s:String>-->
-    
-    <!--Orientation-->
-    <!--<s:String x:Key="S.Orientation.Horizontal">Horizontal</s:String>-->
-    <!--<s:String x:Key="S.Orientation.Vertical">Vertical</s:String>-->
-    
-    <!--TextAlignment-->
-    <!--<s:String x:Key="S.TextAlignment.Left">Left</s:String>-->
-    <!--<s:String x:Key="S.TextAlignment.Right">Right</s:String>-->
-    <!--<s:String x:Key="S.TextAlignment.Center">Center</s:String>-->
-    <!--<s:String x:Key="S.TextAlignment.Justify">Justify</s:String>-->
-    
+    <s:String x:Key="S.FontWeights.Black">கருப்பு</s:String>
+    <s:String x:Key="S.FontWeights.Bold">தடித்த</s:String>
+    <s:String x:Key="S.FontWeights.DemiBold">டெமி போல்ட்</s:String>
+    <s:String x:Key="S.FontWeights.ExtraBlack">கூடுதல் கருப்பு</s:String>
+    <s:String x:Key="S.FontWeights.ExtraBold">கூடுதல் தடிமன்</s:String>
+    <s:String x:Key="S.FontWeights.ExtraLight">கூடுதல் ஒளி</s:String>
+    <s:String x:Key="S.FontWeights.Heavy">கடுமையான</s:String>
+    <s:String x:Key="S.FontWeights.Light">ஒளி</s:String>
+    <s:String x:Key="S.FontWeights.Medium">நடுத்தரம்</s:String>
+    <s:String x:Key="S.FontWeights.Normal">இயல்பான</s:String>
+    <s:String x:Key="S.FontWeights.Regular">வழக்கமான</s:String>
+    <s:String x:Key="S.FontWeights.SemiBold">அரை போல்டு</s:String>
+    <s:String x:Key="S.FontWeights.Thin">மெல்லிய</s:String>
+    <s:String x:Key="S.FontWeights.UltraBlack">அல்ட்ரா பிளாக்</s:String>
+    <s:String x:Key="S.FontWeights.UltraBold">அல்ட்ரா போல்ட்</s:String>
+    <s:String x:Key="S.FontWeights.UltraLight">அல்ட்ரா லைட்</s:String>
+   
+    <!--செங்குத்து சீரமைப்பு-->
+    <s:String x:Key="S.VerticalAlignment.Top">மேல்</s:String>
+    <s:String x:Key="S.VerticalAlignment.Center">மையம்</s:String>
+    <s:String x:Key="S.VerticalAlignment.Bottom">கீழே</s:String>
+    <s:String x:Key="S.Alignment.Stretch">நீட்டு</s:String>
+   
+    <!--கிடைமட்ட சீரமைப்பு-->
+    <s:String x:Key="S.HorizontalAlinment.Left">இடது</s:String>
+    <s:String x:Key="S.HorizontalAlignment.Center">மையம்</s:String>
+    <s:String x:Key="S.HorizontalAlinment.Right">வலது</s:String>
+   
+    <!--நோக்குநிலை-->
+    <s:String x:Key="S.Orientation.Horizontal">கிடைமட்ட</s:String>
+    <s:String x:Key="S.Orientation.Vertical">செங்குத்து</s:String>
+   
+    <!--TextAlinment-->
+    <s:String x:Key="S.TextAlignment.Left">இடது</s:String>
+    <s:String x:Key="S.TextAlignment.Right">வலது</s:String>
+    <s:String x:Key="S.TextAlignment.Center">மையம்</s:String>
+    <s:String x:Key="S.TextAlignment.Justify">நியாயப்படுத்து</s:String>
+   
     <!--TextDecoration-->
-    <!--<s:String x:Key="S.TextDecorations.None">None</s:String>-->
-    <!--<s:String x:Key="S.TextDecorations.Underline">Underline</s:String>-->
-    <!--<s:String x:Key="S.TextDecorations.Strikethrough">Strikethrough</s:String>-->
-    <!--<s:String x:Key="S.TextDecorations.OverLine">OverLine</s:String>-->
-    <!--<s:String x:Key="S.TextDecorations.Baseline">Baseline</s:String>-->
+    <s:String x:Key="S.TextDecorations.None">இல்லை</s:String>
+    <s:String x:Key="S.TextDecorations.Underline">அடிக்கோடு</s:String>
+    <s:String x:Key="S.TextDecorations.Strikethrough">ஸ்டிரைக்த்ரூ</s:String>
+    <s:String x:Key="S.TextDecorations.OverLine">OverLine</s:String>
+    <s:String x:Key="S.TextDecorations.Baseline">அடிப்படை</s:String>
 </ResourceDictionary>
